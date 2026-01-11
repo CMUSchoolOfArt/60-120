@@ -39,7 +39,7 @@ In the Discord channel `1-1-introductions`, in the appropriate Section, please *
 The theme of this "Looking Outwards" is *AI slop*. 
 
 * **Spend** a few minutes online looking at AI-generated images. 
-* **Create** a post in the Discord channel `1-2-slopjects`, and
+* **Create** a post in the Discord channel `1-2-looking-outwards`, and
 * **Upload** an image of something you think is "AI slop".
 * **Write** a sentence about what you think makes it so.
 

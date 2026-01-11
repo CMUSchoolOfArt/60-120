@@ -5,7 +5,7 @@
 
 ## Daily Notes
 
-* `M Jan 12`
+* `M Jan 12` - [Hello](20260112.md)
 * `W Jan 14`
 * `M Jan 19` - *MLK Day (no session)*
 * `W Jan 21`
