@@ -80,11 +80,11 @@ You will be assigned one of the following three readings about generative AI in 
 
 **(10 minutes, due Thursday, 1/2X).**
 
-The purpose of this assignment is to keep you on-track.
+The purpose of this sub-assignment is to keep you on track.
 
-* **Read** ahead to the prompt for the Book Project, below.
-* **Create** a Discord post in the channel, `#1-X-proposal`.
-* **Write** just a sentence or two that describes, in broad terms, the book you plan to make for this project. Optionally, please free to share some early results, or a brief update about your progress on the project (if any).
+* **Read** ahead to the prompt for the Book Project (`1-7-chapbook`), below.
+* **Create** a Discord post in the channel, `#1-6-proposal`.
+* **Write** a sentence or two that describes, in broad terms, the book you plan to make for this project. Optionally, please free to share some early results, or a brief update about your progress on the project (if any).
 
 ---
 
@@ -92,23 +92,25 @@ The purpose of this assignment is to keep you on-track.
 
 ### What We’re Doing and Why
 
-(6-10 hours, due W/R Jan 28/29). Your challenge is to use one or more of the above techniques to assist you in the (AI-assisted) creation of an illustrated artist book, and to self-publish this book through Lulu.com, an online vendor. Why are we doing this?
+(6-10 hours, due W/R Jan 28/29). Your challenge is to use generative AI to assist you in the creation of an illustrated book, and to self-publish this book through Lulu.com, an online vendor. Why are we doing this?
 
 (Ab)using AI creatively requires a very different way of thinking. We feel you should develop an understanding of the grain and possibilities of this new medium, and that you should have the skill to guide AI systems to produce compelling cultural objects. Everyday people like [this guy](https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1) are using AI to make stuff that superficially ‘looks good’; as an artist, you really ought to be better than them.
 
-You will need to use Adobe InDesign to layout the book, and you will need to navigate Lulu.com’s system for self-publishing. While your work with ChatGPT and Midjourney may be highly conceptual and experimental, your work with InDesign and the online digital publishing process will be bluntly practical.
+You will need to use Adobe InDesign to layout the book, and you will need to navigate Lulu.com’s system for self-publishing. While your work with Midjourney may be highly conceptual and experimental, your work with InDesign and the online digital publishing process will be bluntly practical.
 
-Our goal is to explore the potential of these tools as assistants or prosthetics for your creativity. For this reason, you are invited/permitted to hand-edit the texts and or images that you generate, in any way you deem necessary. Some possible types of books you might create include (but are not limited to):
+Our goal is to explore the potential of these tools as assistants or prosthetics for your creativity. For this reason, you are invited/permitted to hand-edit the texts and or images that you generate, in any way you deem necessary.
 
-> **Nonfiction**: Abecedarium, Art monograph, Autobiography, Biography, Catalogue, Coffeetable Travel Book, Crafts/hobbies, Cookbook, Dossier, Diary, Dictionary, Encyclopedia, Guide, History, Home and garden, Humor, Journal, Memoir, Philosophy, Prayer, Religion, Textbook, True crime, Review, Science, Self help, Sports and leisure, Travel, True Crime
-> 
-> **Fiction**: Action and adventure, Alternate history, Anthology, Chick lit, Children’s, Comic book, Coming-of-age, Crime, Drama, Fairytale, Graphic novel, Historical fiction, Horror, Mystery, Paranormal romance, Picture book, Poetry, Romance, Satire, Science fiction, Suspense, Thriller, Western, Young adult
+You are asked to consider a distinct narrative point of view, with a specific audience in mind. The goal is to see if it is possible to make something which is not slop. Some possibilities for what your book could be include: 
+
+* Retelling a dream
+* A personal anecdote or memory; an illustrated diary entry
+* A story about something that happened to a family member
+* A gift for a specific person
+
 
 ### How You Will Do It
 
-Your book may be: (A) all text; (B) all images; or (C) any mixture of text and images. You should use generative AI to assist in generating either the images, and/or the writing, or both.
-
-To generate images, you are encouraged to use MidJourney, but you may use another tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using Midjourney’s or Runway’s “Upscale” feature, or a superresolution AI upscaling tool like Waifu2x or Remini.
+Your book may be: all images, or any mixture of text and images. To generate images, you are encouraged to use MidJourney, but you may use another tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using Midjourney’s or Runway’s “Upscale” feature, or a superresolution AI upscaling tool like Waifu2x or Remini.
 
 We will use the Lulu.com “Comic Book” template for InDesign. Download this template (lulu-comic-book-interior-template.indd inside the lulu-book-template-comic-book.zip folder) by navigating through this form here. Select “Comic Book” and (for books between 2-32 pages) the “saddle stitch” binding. You may print in color or black-and-white, up to you. Your book may have up to 32 pages. Here are some important pain points to note about using Lulu’s templates:
 
@@ -141,3 +143,14 @@ If you use full bleed on your book (meaning, you want ink to go all the way to t
 * **Include** a link to your book, published at Lulu.com. **Ensure** this link is working. Your book *must* be publicly purchasable from Lulu.com, at the cost of production.
 * **Store** a PDF copy of your book’s interior and cover in your CMU Google drive. In your Discord post, include links to these PDF files. Make sure these links have ‘public viewing’ enabled.
 * **Present** your project in a class critique on Thursday, January 2x. You’ll present it digitally, from a PDF stored in your CMU Google Drive.
+
+---
+
+
+<!--
+
+> **Nonfiction**: Abecedarium, Art monograph, Autobiography, Biography, Catalogue, Coffeetable Travel Book, Crafts/hobbies, Cookbook, Dossier, Diary, Dictionary, Encyclopedia, Guide, History, Home and garden, Humor, Journal, Memoir, Philosophy, Prayer, Religion, Textbook, True crime, Review, Science, Self help, Sports and leisure, Travel, True Crime
+> 
+> **Fiction**: Action and adventure, Alternate history, Anthology, Chick lit, Children’s, Comic book, Coming-of-age, Crime, Drama, Fairytale, Graphic novel, Historical fiction, Horror, Mystery, Paranormal romance, Picture book, Poetry, Romance, Satire, Science fiction, Suspense, Thriller, Western, Young adult
+
+-->
