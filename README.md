@@ -1,6 +1,7 @@
 # 60-120
+
 Foundations of Electronic Media
 
 ---
 
-TEST.
+* [Spring 2026](2026/readme.md)
