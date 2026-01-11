@@ -10,7 +10,7 @@
 * `M Jan 19` - *MLK Day (no session)*
 * `W Jan 21`
 * `M Jan 26`
-* `W Jan 28` - **Due: Unit 1 Main Project** (Generative AI Book)
+* `W Jan 28` - **[Due: Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
 * `M Feb 02`
 * `W Feb 04`
