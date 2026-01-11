@@ -2,20 +2,22 @@
 
 ---
 
+![due_dates.png](due_dates.png)
+
 * [1-0-welcome-questionnaire](#1-0-welcome-questionnaire) (10 minutes, due Jan 14/15)
 * [1-1-introductions](#1-1-introductions) (10 minutes, due Jan 14/15)
 * [1-2-looking-outwards](#1-2-looking-outwards) (15 minutes, due Jan 14/15)
-* [1-3-reading-response](#1-3-reading-response) (1 hour, due Jan 14/15)
-* [1-4-image-generation](#1-4-image-generation)
-* [1-5-outpainting](#1-5-outpainting)
-* [1-6-proposal](#1-6-proposal)
-* [1-7-monograph](#1-7-monograph)
+* [1-3-reading-response](#1-3-reading-response) (60 minutes, due Jan 14/15)
+* [1-4-image-generation](#1-4-image-generation) (60 minutes, due Jan 20/21)
+* [1-5-outpainting](#1-5-outpainting) (30 minutes, due Jan 20/21)
+* [1-6-proposal](#1-6-proposal) (10 minutes, due R/M Jan 22/26)
+* [1-7-monograph](#1-7-monograph) **(10 hours, due M/T Feb 02/03)**
 
 ---
 
 ![chapbooks_2023.jpg](chapbooks_2023.jpg)
 
-The first unit in this course is concerned with the artistic use of “AI” tools for generating imagery. In order for students to develop an understanding of the “grain” of this medium, you will be asked to use generative AI tools like MidJourney to produce an illustrated monograph or chapbook. You will then lay out your book using Adobe InDesign, and physically produce your book using Lulu.com, an online print-on-demand service — a publication method of great practical value.
+The first unit in this course is concerned with the personal, creative, and critical use of “AI” tools for generating imagery. In order for you to develop an understanding of the “grain” of this medium, you will be asked to use generative AI tools like MidJourney to produce an illustrated monograph or chapbook. You will then lay out your book using Adobe InDesign, and physically produce your book using Lulu.com, an online print-on-demand service — a publication method of great practical value.
 
 The use of generative AI tools in arts pedagogy is new, poorly understood, and controversial. This project engages art students with experimental tools that are new, changing quickly, optimized for 'slop', and whose very existence is fraught with new forms of potential infringement and abuse. Our hope is that this exercise will not only be instructive in the aesthetics and mechanics of using these new technologies, but in their ethics as well.
 
@@ -80,17 +82,19 @@ You will be assigned one of the following three readings about generative AI in 
 
 ## 1-4-image-generation
 
+**(60 minutes, due T/W Jan 20/21)**
 
 ---
 
 ## 1-5-outpainting
 
+**(30 minutes, due T/W Jan 20/21)**
 
 ---
 
 ## 1-6-proposal
 
-**(10 minutes, due Thursday, 1/2X).**
+**(10 minutes, due M/R Jan 22/26).**
 
 The purpose of this sub-assignment is to keep you on track.
 
