@@ -11,7 +11,7 @@
 * Email: golan@andrew
 * OpenProcessing: https://openprocessing.org/user/6660
 
-1. #### Section B (TR 8am)
+#### Section B (TR 8am)
 * Professor: Johannes DeYoung (he/him)
 * Discord: @jsdeyoung
 * Email: johanned@andrew
