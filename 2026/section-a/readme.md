@@ -6,16 +6,16 @@
 ## Daily Notes
 
 * `M Jan 12` - [Hello](20260112.md)
-* `W Jan 14`
+* `W Jan 14` - **Due**: 1-0, 1-1, 1-2, 1-3
 * `M Jan 19` - *MLK Day (no session)*
-* `W Jan 21`
-* `M Jan 26`
-* `W Jan 28` - **[Due: Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
+* `W Jan 21` - **Due**: 1-4, 1-5: Image generation & outpainting exercise
+* `M Jan 26` - **Due**: 1-6: Proposal; InDesign introduction
+* `W Jan 28` - Work session
+* `M Feb 02` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
-* `M Feb 02`
 * `W Feb 04`
-* `M Feb 09` - **Due**: Generative pattern project
-* `W Feb 11`
+* `M Feb 09` 
+* `W Feb 11` - **Due**: Generative pattern exercise
 * `M Feb 16`
 * `W Feb 18` 
 * `M Feb 23` - **Due: Unit 2 Main Project** (Computational Clock)
