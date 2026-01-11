@@ -1,15 +1,26 @@
 # Unit 1: Generative AI
 
-Foundations of Electronic Media • 60-120
+---
 
-* [1-0-welcome-questionnaire](#1-0-welcome-questionnaire)
-* [1-1-introductions](#1-1-introductions)
+* [1-0-welcome-questionnaire](#1-0-welcome-questionnaire) (10 minutes, due Jan 14/15)
+* [1-1-introductions](#1-1-introductions) (10 minutes, due Jan 14/15)
 * [1-2-looking-outwards](#1-2-looking-outwards)
 * [1-3-reading-response](#1-3-reading-response)
 * [1-4-image-generation](#1-4-image-generation)
 * [1-5-outpainting](#1-5-outpainting)
 * [1-6-proposal](#1-6-proposal)
 * [1-7-monograph](#1-7-monograph)
+
+---
+
+![chapbooks_2023.jpg](chapbooks_2023.jpg)
+
+The first unit in this course is concerned with the artistic use of “AI” tools for generating imagery. In order for students to develop an understanding of the “grain” of this medium, you are asked to use generative AI tools like MidJourney to produce an illustrated monograph or chapbook. You will lay out your book using Adobe InDesign, and your book will then be physically produced through Lulu.com, an online print-on-demand service — a publication method of great practical value.
+
+The use of generative AI tools in arts pedagogy is new, poorly understood, and controversial. This project engages art students with experimental tools that are new, changing quickly, optimized for 'slop', and whose very existence is fraught with new forms of potential infringement and abuse. Our hope is that this exercise will not only be instructive in the aesthetics and mechanics of using these new technologies, but in their ethics as well.
+
+
+
 
 ---
 
