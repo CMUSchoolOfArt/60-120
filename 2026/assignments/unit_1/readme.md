@@ -2,14 +2,14 @@
 
 Foundations of Electronic Media • 60-120
 
-* 1-0-welcome-questionnaire
-* 1-1-introductions
-* 1-2-looking-outwards
-* 1-3-reading-response
-* 1-4-image-generation
-* 1-5-outpainting
-* 1-6-proposal
-* 1-7-chapbook
+* [1-0-welcome-questionnaire](#1-0-welcome-questionnaire)
+* [1-1-introductions](#1-1-introductions)
+* [1-2-looking-outwards](#1-2-looking-outwards)
+* [1-3-reading-response](#1-3-reading-response)
+* [1-4-image-generation](#1-4-image-generation)
+* [1-5-outpainting](#1-5-outpainting)
+* [1-6-proposal](#1-6-proposal)
+* [1-7-monograph](#1-7-monograph)
 
 ---
 
@@ -17,10 +17,10 @@ Foundations of Electronic Media • 60-120
 
 **(10 minutes, Due W/R January 14/15)**
 
-Please **complete** [**this Welcome Questionnaire**](https://forms.gle/DvVevLJ1AZohC6VGA) before the second session of class. **Note:** Among other questions, you'll be asked to please:
+Please **complete** [**this Welcome Questionnaire**](https://forms.gle/DvVevLJ1AZohC6VGA) before the second session of class. **Note:** Among other questions, you'll be asked to:
 
-* **Provide** your Discord ID (you may need to make one)
-* **Provide** your [OpenProcessing](https://openprocessing.org/) user ID (you may need to make one)
+* **Provide** your Discord ID (you may need to create an account)
+* **Provide** your [OpenProcessing](https://openprocessing.org/) user ID (you may need to create an account)
 
 ---
 
@@ -88,25 +88,24 @@ The purpose of this sub-assignment is to keep you on track.
 
 ---
 
-## 1-7-chapbook
+## 1-7-monograph
 
 ### What We’re Doing and Why
 
-(6-10 hours, due W/R Jan 28/29). Your challenge is to use generative AI to assist you in the creation of an illustrated book, and to self-publish this book through Lulu.com, an online vendor. Why are we doing this?
+(6-10 hours, due W/R Jan 28/29). Your challenge is to use generative AI to assist you in the creation of an illustrated monograph or chapbook, and to self-publish this book through Lulu.com, an online vendor.
 
-(Ab)using AI creatively requires a very different way of thinking. We feel you should develop an understanding of the grain and possibilities of this new medium, and that you should have the skill to guide AI systems to produce compelling cultural objects. Everyday people like [this guy](https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1) are using AI to make stuff that superficially ‘looks good’; as an artist, you really ought to be better than them.
-
-You will need to use Adobe InDesign to layout the book, and you will need to navigate Lulu.com’s system for self-publishing. While your work with Midjourney may be highly conceptual and experimental, your work with InDesign and the online digital publishing process will be bluntly practical.
-
-Our goal is to explore the potential of these tools as assistants or prosthetics for your creativity. For this reason, you are invited/permitted to hand-edit the texts and or images that you generate, in any way you deem necessary.
-
-You are asked to consider a distinct narrative point of view, with a specific audience in mind. The goal is to see if it is possible to make something which is not slop. Some possibilities for what your book could be include: 
+You are asked to consider a distinct narrative point of view, with a specific audience in mind. Our goal is to see if it is possible to make something which is not slop. Some possibilities for what your book could be, include: 
 
 * Retelling a dream
-* A personal anecdote or memory; an illustrated diary entry
+* An illustrated diary entry, personal anecdote, or memory
 * A story about something that happened to a family member
 * A gift for a specific person
 
+Why are we doing this? (Ab)using AI creatively requires a very different way of thinking. We feel you should develop an understanding of the grain and possibilities of this new medium, and that you should have the skill to guide AI systems to produce compelling cultural objects. Everyday people like [this guy](https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1) are using AI to make stuff that superficially ‘looks good’; as an artist, you really ought to be able to do better than them.
+
+You will need to use Adobe InDesign to layout the book, and you will need to navigate Lulu.com’s system for self-publishing. While your work with the Midjourney image generator may be highly conceptual and experimental, your work with the InDesign layout software and the online digital publishing process will be bluntly practical.
+
+Our goal is to explore the potential of these tools as assistants or prosthetics for your creativity. For this reason, you are invited/permitted to hand-edit the images that you generate, in any way you deem necessary.
 
 ### How You Will Do It
 
