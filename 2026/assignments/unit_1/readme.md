@@ -47,7 +47,21 @@ The theme of this "Looking Outwards" is *AI slop*.
 
 ## 1-3-reading-response
 
+**(1 hour, Due W/R January 14/15)**
 
+You will be assigned one of the following three readings about generative AI in class. Each is about 10 pages or less:
+
+* One
+* Two 
+* Three
+
+*Now:*
+
+* **Read** your article for the second session of class;
+* Be prepared to **discuss** your article in class;
+* **Create** a post in the Discord channel, `1-3-reading-response`
+* In your post, **write** a sentence summarizing the author's opinion
+* **Write** another sentence articulating your own position.
 
 ---
 
