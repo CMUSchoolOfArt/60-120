@@ -67,10 +67,10 @@ The theme of this "Looking Outwards" is *AI slop*.
 
 You will be assigned one of the following three readings about generative AI in class. Each is about 10 pages or less:
 
-* [Francesco D'Isa: "The Idea of AI Slop Is Slop" (2025)](https://drive.google.com/file/d/1_meAeg9p5-WrP3diZgjWTs2q5HNPG0nr/view?usp=drive_link)
-* [Maria Popova: "Music, Feeling, and Transcendence: Nick Cave on AI,
+1. [Francesco D'Isa: "The Idea of AI Slop Is Slop" (2025)](https://drive.google.com/file/d/1_meAeg9p5-WrP3diZgjWTs2q5HNPG0nr/view?usp=drive_link)
+2. [Maria Popova: "Music, Feeling, and Transcendence: Nick Cave on AI,
 Awe, and the Splendor of Our Human Limitations" (2019)](https://drive.google.com/file/d/1vnSgBM7_7-5aDMDoTGwwtmIi-r3NX4VJ/view?usp=drive_link) 
-* [Eryk Salvaggio: "Slop Infrastructures 1 & 2" (2024)](https://drive.google.com/file/d/1_aDHirFQaNQoI6mnzsYUdJDZWIDsQ0BP/view?usp=sharing)
+3. [Eryk Salvaggio: "Slop Infrastructures 1 & 2" (2024)](https://drive.google.com/file/d/1_aDHirFQaNQoI6mnzsYUdJDZWIDsQ0BP/view?usp=sharing)
 
 *Now:*
 
