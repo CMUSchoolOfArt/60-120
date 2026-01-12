@@ -11,7 +11,7 @@
 * [1-4-image-generation](#1-4-image-generation) (60 minutes, due Jan 20/21)
 * [1-5-outpainting](#1-5-outpainting) (30 minutes, due Jan 20/21)
 * [1-6-proposal](#1-6-proposal) (10 minutes, due R/M Jan 22/26)
-* [1-7-monograph](#1-7-monograph) **(10 hours, due M/T Feb 02/03)**
+* [1-7-monograph](#1-7-monograph) **(10-12 hours, due M/T Feb 02/03)**
 
 ---
 
@@ -85,6 +85,44 @@ Awe, and the Splendor of Our Human Limitations" (2019)](https://drive.google.com
 
 **(60 minutes, due T/W Jan 20/21)**
 
+In this exercise, you will use a machine learning system to generate some images that intrigue you. This system has (controversially) been trained on billions of images scraped from the Internet. This very entertaining [*Last Week Tonight*](https://www.youtube.com/watch?v=TWpg1RmzAbc) video gives some good perspective; I encourage you to watch it.
+
+
+You have been provided with access to a paid account for MidJourney, an image synthesis service. Login details for this account are available in the `key-information` channel of our course Discord. **NOTE**: These Discord/Midjourney accounts are a communally shared resource for the students in our class, and sharing it with you is an act of trust.
+
+* *In Discord account (bottom left); Switch accounts; Add an account; Email or Phone number: art-software-1@andrew.cmu.edu or art-software-2@andrew.cmu.edu; Use password from Discord.* 
+
+*Now,*
+
+* **Read** the [**Midjourney Quick Start Guide**](https://docs.midjourney.com/hc/en-us/articles/33329261836941-Getting-Started-Guide) — most especially, the [**"Parameter List" documentation**](https://docs.midjourney.com/hc/en-us/articles/32859204029709-Parameter-List). These parameters allow you to control the image aspect ratio, resolution, visual quality, inspiration source image, and (importantly) choice of AI model.
+* **Tinker!** Try experimenting with techniques like: “inspiring” an image with a seed image, using different model versions, making non-square images, etcetera.
+* **Generate** a half-dozen or so images, and present them in the Discord post. What you make is up to you, but we challenge you to make something *as weird as possible*. Try to work a prompt through at least 5 iterations of revision.
+* **Create** a Discord post in the channel `1-4-image-generation`
+* **Embed** your images in the post.
+* For each image, **include** the text of the prompt that you used to create it.
+* **Write** a few sentences of reflective commentary. What discoveries did you make? Were you able to ‘guide’ the system? 
+
+The following list additional guides may be helpful — they are packed full of practical tips. In particular, you may find it helpful to use what Kate Compton has called “seasonings” (discussed in this Twitter thread) — extra phrases and hashtags (like “trending on ArtStation” that hint and inflect the image synthesis in interesting ways.
+
+Midjourney’s official “Tips for Prompts“
+Crafting Exceptional Prompts for Midjourney
+Prompt-Engineering Tips
+Kate Compton on “Seasonings”
+Kevin Slavin on virtual photography
+Into prompt engineering for A.I.
+
+
+*In using our communal Midjourney (Discord) account, please adhere to the following:*
+
+* I’ll need to help you log in the first time by affirming that your login is kosher.
+* Do not share the login details of this account with anyone.
+* Do not modify any of the account settings (password, etc.)!
+* Do not use this account to connect to any other Discord servers.
+* Do not use this account to communicate with other people on Discord, harass them, etc. 
+* You must adhere to our course Code of Conduct.
+* You must adhere to the MidJourney terms of service. If you get booted off for doing bad things (like generating offensive content), it affects our whole class.
+
+
 ---
 
 ## 1-5-outpainting
@@ -101,34 +139,37 @@ The purpose of this sub-assignment is to keep you on track.
 
 * **Read** ahead to the prompt for the Book Project (`1-7-chapbook`), below.
 * **Create** a Discord post in the channel, `#1-6-proposal`.
-* **Write** a sentence or two that describes, in broad terms, the book you plan to make for this project. Optionally, please free to share some early results, or a brief update about your progress on the project (if any).
+* **Write** a sentence or two that describes, in broad terms, the book you plan to create for this project. Optionally, please free to share some early results, or a brief update about your progress on the project (if any).
 
 ---
 
 ## 1-7-monograph
 
+**(10-12 hours, due M/T Feb 02/03)**
+
 ### What We’re Doing and Why
 
-(6-10 hours, due W/R Jan 28/29). Your challenge is to use generative AI to assist you in the creation of an illustrated monograph or chapbook, and to self-publish this book through Lulu.com, an online vendor.
+You are invited to use generative AI to assist you in the creation of an illustrated monograph or chapbook, and to self-publish this book through Lulu.com, an online vendor. 
 
-You are asked to consider a distinct narrative point of view, with a specific audience in mind. Our goal is to see if it is possible to make something which is not slop. Some possibilities for what your book could be, include: 
+You are asked to consider a distinct narrative point of view, with a specific audience in mind. Your challenge — *THE* challenge — is to see if it is possible to make something which is not slop. Some possibilities for what your book could be, include: 
 
 * Retelling a dream
 * An illustrated diary entry, personal anecdote, or memory
 * A story about something that happened to a family member
 * A gift for a specific person
 
-Why are we doing this? (Ab)using AI creatively requires a very different way of thinking. We feel you should develop an understanding of the grain and possibilities of this new medium, and that you should have the skill to guide AI systems to produce compelling cultural objects. Everyday people like [this guy](https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1) are using AI to make stuff that superficially ‘looks good’; as an artist, you really ought to be able to do better than them.
+*Why are we doing this?* (Ab)using AI creatively requires a very different way of thinking. We feel you should develop an understanding of the grain and possibilities of this new medium, and that you should have the skill to guide AI systems to produce compelling cultural objects. Everyday people like [this guy](https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1) are using AI to make stuff that superficially ‘looks good’; as an artist, you really ought to be able to do better than them.
 
-You will need to use Adobe InDesign to layout the book, and you will need to navigate Lulu.com’s system for self-publishing. While your work with the Midjourney image generator may be highly conceptual and experimental, your work with the InDesign layout software and the online digital publishing process will be bluntly practical.
+You are asked to use Adobe InDesign to layout the book, and you will need to navigate Lulu.com’s system for self-publishing. While your work with the MidJourney image generator may be highly conceptual and experimental, your work with the InDesign layout software and the online digital publishing process will be bluntly practical.
 
 Our goal is to explore the potential of these tools as assistants or prosthetics for your creativity. For this reason, you are invited/permitted to hand-edit the images that you generate, in any way you deem necessary.
 
+
 ### How You Will Do It
 
-Your book may be: all images, or any mixture of text and images. To generate images, you are encouraged to use MidJourney, but you may use another tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using Midjourney’s or Runway’s “Upscale” feature, or a superresolution AI upscaling tool like Waifu2x or Remini.
+Your book may consist exclusively of images, or it can be any mixture of text and images. To generate images, you are encouraged to use MidJourney, but you may use another AI tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using MidJourney’s or Runway’s “Upscale” feature, or some other superresolution AI upscaling tool like Waifu2x or Remini.
 
-We will use the Lulu.com “Comic Book” template for InDesign. Download this template (lulu-comic-book-interior-template.indd inside the lulu-book-template-comic-book.zip folder) by navigating through this form here. Select “Comic Book” and (for books between 2-32 pages) the “saddle stitch” binding. You may print in color or black-and-white, up to you. Your book may have up to 32 pages. Here are some important pain points to note about using Lulu’s templates:
+We will use Lulu.com's “Comic Book” template for InDesign. Download this template (lulu-comic-book-interior-template.indd inside the lulu-book-template-comic-book.zip folder) by navigating through this form here. Select “Comic Book” and (for books between 2-32 pages) the “saddle stitch” binding. You may print in color or black-and-white, up to you. Your book may have up to 32 pages. Here are some important pain points to note about using Lulu’s templates:
 
 When you first open it, Lulu’s file templates default to having the workspace set to the locked “Template” layer—and you literally won’t be able to do or accomplish anything. This is very frustrating. Go to the Layers menu and switch your active layer to the unlocked layer called “Your Artwork”.
 
