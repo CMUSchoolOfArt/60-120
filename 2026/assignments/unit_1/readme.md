@@ -1,5 +1,7 @@
 # Unit 1: Generative AI
 
+How might we make great art—and not just more slop—with AI? 
+
 ---
 
 ![due_dates.png](resources/due_dates.png)
@@ -75,8 +77,8 @@ Awe, and the Splendor of Our Human Limitations" (2019)](https://drive.google.com
 * **Read** your article for the second session of class;
 * Be prepared to **discuss** your article in class;
 * **Create** a post in the Discord channel, `1-3-reading-response`
-* In your post, **write** a sentence summarizing the author's opinion
-* **Write** another sentence articulating your own position.
+* In your post, **write** a sentence summarizing the author's opinion. What stuck with you?
+* **Write** another sentence articulating your own position. 
 
 ---
 
@@ -88,7 +90,7 @@ Awe, and the Splendor of Our Human Limitations" (2019)](https://drive.google.com
 In this exercise, you will use a machine learning system to generate some images that intrigue you. This system has (controversially) been trained on billions of images scraped from the Internet. This very entertaining [*Last Week Tonight*](https://www.youtube.com/watch?v=TWpg1RmzAbc) video gives some good perspective; I encourage you to watch it.
 
 
-You have been provided with access to a paid account for MidJourney, an image synthesis service. Login details for this account are available in the `key-information` channel of our course Discord. **NOTE**: These Discord/Midjourney accounts are a communally shared resource for the students in our class, and sharing it with you is an act of trust.
+You have been provided with access to a paid account for MidJourney, an image synthesis service. Login details for this account are available in the `key-information` channel of our course Discord. **NOTE**: These Discord/Midjourney accounts are a communally shared resource for the students in our class, and sharing it with you is an act of trust. **Instructions:**
 
 * *In Discord account (bottom left); →Switch accounts; →Add an account; →Email or Phone number: art-software-1@andrew.cmu.edu or art-software-2@andrew.cmu.edu; →Use password from the `key-information` channel on Discord.* 
 
@@ -122,6 +124,26 @@ You have been provided with access to a paid account for MidJourney, an image sy
 **(30 minutes, due T/W Jan 20/21)**
 
 *Details TBA.* 
+
+<!--
+
+(30 minutes, due Tuesday, 1/23). You have been provided with account details to access Runway.ML, a powerful suite of machine-learning-based artist tools. In this exercise, you are asked to use the Runway.ML “infinite image”  and/or “expand image” tool to provocatively extend an image of your choice. Some possible images you could expand are:
+
+One or more of your own artworks
+One of the images you generated with Midjourney
+A [famous photograph or painting](https://artincontext.org/famous-photos/) (please be thoughtful)
+(This list is representative and not exhaustive.)
+(Note that it’s also possible to create a composition that connects multiple images.)
+Now,
+
+Watch the 2-minute video above, which helpfully explains how to use the tool.
+Make a large, high-resolution extended image. Consider making a tableau vivant. Compare the results of Runway’s “infinite image” tool (which asks for a text prompt) versus Runway’s “expand image” tool.
+Create a Discord post in the channel #1-5-outpainting, and embed your image.
+Also embed the “original” (seed) image that you extended, so we can better understand what you did.
+Write a few sentences of process description. What was the initial “kernel” image or images that you started from? Why did you choose this? Did you make any discoveries in your process?
+Write a few sentences of reflective commentary. What do you appreciate about the result, and what would you change?
+
+-->
 
 ---
 
