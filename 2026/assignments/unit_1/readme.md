@@ -2,7 +2,7 @@
 
 ---
 
-![due_dates.png](due_dates.png)
+![due_dates.png](resources/due_dates.png)
 
 * [1-0-welcome-questionnaire](#1-0-welcome-questionnaire) (10 minutes, due Jan 14/15)
 * [1-1-introductions](#1-1-introductions) (10 minutes, due Jan 14/15)
@@ -15,7 +15,7 @@
 
 ---
 
-![chapbooks_2023.jpg](chapbooks_2023.jpg)
+![chapbooks_2023.jpg](resources/chapbooks_2023.jpg)
 
 The first unit in this course is concerned with the personal, creative, and critical use of “AI” tools for generating imagery. In order for you to develop an understanding of the “grain” of this medium, you will be asked to use generative AI tools like MidJourney to produce an illustrated monograph or chapbook. You will then lay out your book using Adobe InDesign, and physically produce your book using Lulu.com, an online print-on-demand service — a publication method of great practical value.
 
@@ -90,31 +90,23 @@ In this exercise, you will use a machine learning system to generate some images
 
 You have been provided with access to a paid account for MidJourney, an image synthesis service. Login details for this account are available in the `key-information` channel of our course Discord. **NOTE**: These Discord/Midjourney accounts are a communally shared resource for the students in our class, and sharing it with you is an act of trust.
 
-* *In Discord account (bottom left); Switch accounts; Add an account; Email or Phone number: art-software-1@andrew.cmu.edu or art-software-2@andrew.cmu.edu; Use password from Discord.* 
+* *In Discord account (bottom left); →Switch accounts; →Add an account; →Email or Phone number: art-software-1@andrew.cmu.edu or art-software-2@andrew.cmu.edu; →Use password from the `key-information` channel on Discord.* 
 
 *Now,*
 
 * **Read** the [**Midjourney Quick Start Guide**](https://docs.midjourney.com/hc/en-us/articles/33329261836941-Getting-Started-Guide) — most especially, the [**"Parameter List" documentation**](https://docs.midjourney.com/hc/en-us/articles/32859204029709-Parameter-List). These parameters allow you to control the image aspect ratio, resolution, visual quality, inspiration source image, and (importantly) choice of AI model.
 * **Tinker!** Try experimenting with techniques like: “inspiring” an image with a seed image, using different model versions, making non-square images, etcetera.
+* **Research** tips for generating good prompts; there are many guides online. (Text-based LLMs like ChatGPT may also be helpful for this.)
 * **Generate** a half-dozen or so images, and present them in the Discord post. What you make is up to you, but we challenge you to make something *as weird as possible*. Try to work a prompt through at least 5 iterations of revision.
 * **Create** a Discord post in the channel `1-4-image-generation`
 * **Embed** your images in the post.
 * For each image, **include** the text of the prompt that you used to create it.
 * **Write** a few sentences of reflective commentary. What discoveries did you make? Were you able to ‘guide’ the system? 
 
-The following list additional guides may be helpful — they are packed full of practical tips. In particular, you may find it helpful to use what Kate Compton has called “seasonings” (discussed in this Twitter thread) — extra phrases and hashtags (like “trending on ArtStation” that hint and inflect the image synthesis in interesting ways.
 
-Midjourney’s official “Tips for Prompts“
-Crafting Exceptional Prompts for Midjourney
-Prompt-Engineering Tips
-Kate Compton on “Seasonings”
-Kevin Slavin on virtual photography
-Into prompt engineering for A.I.
+***In using our communal Midjourney (Discord) account, please adhere to the following:***
 
-
-*In using our communal Midjourney (Discord) account, please adhere to the following:*
-
-* I’ll need to help you log in the first time by affirming that your login is kosher.
+* I’ll need to help you log in the first time by affirming that your login is legit.
 * Do not share the login details of this account with anyone.
 * Do not modify any of the account settings (password, etc.)!
 * Do not use this account to connect to any other Discord servers.
@@ -128,6 +120,8 @@ Into prompt engineering for A.I.
 ## 1-5-outpainting
 
 **(30 minutes, due T/W Jan 20/21)**
+
+*Details TBA.* 
 
 ---
 
@@ -169,40 +163,34 @@ Our goal is to explore the potential of these tools as assistants or prosthetics
 
 Your book may consist exclusively of images, or it can be any mixture of text and images. To generate images, you are encouraged to use MidJourney, but you may use another AI tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using MidJourney’s or Runway’s “Upscale” feature, or some other superresolution AI upscaling tool like Waifu2x or Remini.
 
-We will use Lulu.com's “Comic Book” template for InDesign. Download this template (lulu-comic-book-interior-template.indd inside the lulu-book-template-comic-book.zip folder) by navigating through this form here. Select “Comic Book” and (for books between 2-32 pages) the “saddle stitch” binding. You may print in color or black-and-white, up to you. Your book may have up to 32 pages. Here are some important pain points to note about using Lulu’s templates:
+We will use Lulu.com's “Comic Book” template for InDesign. Your book may have up to 32 pages. Download this template (`lulu-comic-book-interior-template.indd` inside the `lulu-book-template-comic-book.zip` folder) by navigating through [this form here](https://www.lulu.com/pricing). Select “Comic Book” and the “saddle stitch” binding (because your book has 32 or fewer pages). You may print in color or black-and-white, this is up to you. Here are some important pain points to note about using Lulu’s templates:
 
-When you first open it, Lulu’s file templates default to having the workspace set to the locked “Template” layer—and you literally won’t be able to do or accomplish anything. This is very frustrating. Go to the Layers menu and switch your active layer to the unlocked layer called “Your Artwork”.
-
-For some infuriating reason, Lulu’s template comes with all typography set to “All Caps”. This means that no matter what text you type or paste, it LOOKS LIKE THIS. Fix this by going to Window→Type&Tables→Character palette, open the Options hamburger menu in the upper right, and unclick the “All Caps” checkbox.
-
-The Lulu template comes with the default font being “Open Sans”. If you don’t happen to have this font on your system, then all the text you try to display will be highlighted pink, indicating an error status (i.e. missing font). Choose a different font in the Character menu.
-
-To add pages using the Pages menu, go to the Pages palette, open the tiny Options hamburger menu in the upper right, and enable “Allow Document Pages to Shuffle”.
-I strongly suggest that you go File→DocumentSetup→Enable Facing Pages. This will help make it clear which page is on the left or right side of your book’s spreads.
-Here is a revised cover template (2024) that will be helpful when you lay out the cover.
-When you export the cover, make sure you have Export As Spreads checked.
-
-If you use full bleed on your book (meaning, you want ink to go all the way to the edges), make sure that your design goes past the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu will complain that your document is the wrong size.
+* When you first open it, Lulu’s file templates default to having the workspace set to the locked “Template” layer—and you literally won’t be able to do or accomplish anything. This is very frustrating. Go to the Layers menu and switch your active layer to the unlocked layer called “Your Artwork”. 
+* For some infuriating reason, Lulu’s template comes with all typography set to “All Caps”. This means that no matter what text you type or paste, it LOOKS LIKE THIS. You can fix this by going to Window→Type&Tables→Character palette, open the Options hamburger menu in the upper right, and unclick the “All Caps” checkbox.
+* The Lulu template comes with the default font being “Open Sans”. If you don’t happen to have this font on your system, then all the text you try to display will be highlighted pink, indicating an error status (i.e. missing font). Choose a different font in the Character menu.
+* To add pages using the Pages menu, go to the Pages palette, open the tiny Options hamburger menu in the upper right, and enable “Allow Document Pages to Shuffle”.
+* We *strongly* suggest that you go File→DocumentSetup→Enable Facing Pages. This will help make it clear which page is on the left or right side of your book’s spreads. Here is a [revised cover template](resources/lulu-comic-book-saddle-stitch-cover-template.indd.zip) (2024) that will be helpful when you lay out the cover. 
+* When you export the cover, make sure you have [Export As Spreads](resources/export.png) checked.
+* If you use *full bleed* on your book (meaning, you want ink to go all the way to the edges), make sure that your design goes past the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu will complain that your document is the wrong size.
 
 ### What are the Actual Deliverables?
 
-(I have presented an example of these deliverables on Lulu here, in PDF here, and on this page.)
+We have presented an example of these deliverables [on Lulu here](https://www.lulu.com/shop/golan-levin/an-abecedarium-of-dwellings/paperback/product-pp7ne7.html?page=1&pageSize=4), in PDF here ([cover](https://drive.google.com/file/d/1K1yetUrnYgXXIdfjdpdN36gRBuxH1Uq2/view?usp=sharing) / [interior](https://drive.google.com/file/d/1nvZ0n5JRtLPRpwqJemdm7BT7UIC7mmpP/view?usp=sharing
+)), and [on this page](https://web.archive.org/web/20241011014238/https://golancourses.net/60120/deliverables/1-aiart/sample-project-1/).
 
 *Now:*
 
-* Be prepared to **discuss** a proposal for your project in class on 1/X; see #1.X: Project Proposal above.
-* **Make** a book with AI-generated images, with up to 32 pages, and publish this on Lulu.com using their “Comic Book” printed format.
-* **Create** a Discord post, in the `#1-x-chapbook` channel.
-* In your post, **begin** by providing a single sentence declaring the title of your book, and briefly describing what your book “is”.
+* **Make** a book with AI-generated images, with up to 32 pages, and publish this on Lulu.com using their “Comic Book” (6x9) printed format.
+* **Create** a Discord post, in the `#1-7-monograph` channel.
+* In your Discord post, **begin** by providing a single sentence declaring the title of your book, and briefly describing what your book “is”.
 * **Write** a few sentences describing what inspired or motivated you to make this particular idea. What were you aiming for? How did your thinking evolve? Discuss your process.
 * **Write** a couple sentences of critical evaluation. Which specific aspects of your project do you feel proud of, and which aspects fell short of your vision?
 * **Provide** a screenshot of a “contact sheet” of the interior of your book, showing all of the pages. (You can do this using Preview or Acrobat.)
 * **Include** a link to your book, published at Lulu.com. **Ensure** this link is working. Your book *must* be publicly purchasable from Lulu.com, at the cost of production.
 * **Store** a PDF copy of your book’s interior and cover in your CMU Google drive. In your Discord post, include links to these PDF files. Make sure these links have ‘public viewing’ enabled.
-* **Present** your project in a class critique on Thursday, January 2x. You’ll present it digitally, from a PDF stored in your CMU Google Drive.
+* **Present** your project in a class critique on February 02/03. You’ll present it digitally, from a PDF stored in your CMU Google Drive.
 
 ---
-
 
 <!--
 
