@@ -7,13 +7,13 @@
 
 
 #### Section A (MW 10am)
-* Daily lecture notes
+* [Daily lecture notes](section-a/readme.md)
 * Professor: Golan Levin (he/him)
 * Discord: @golan 
 * Email: golan@andrew
 
 #### Section B (TR 8am)
-*
+* [Daily lecture notes](section-b/readme.md)
 * Professor: Johannes DeYoung (he/him)
 * Discord: @jsdeyoung
 * Email: johanned@andrew
