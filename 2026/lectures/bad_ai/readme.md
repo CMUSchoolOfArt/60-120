@@ -1,11 +1,12 @@
 # AI: The Bad
 
+![but_its_cheap.jpg](img/but_its_cheap.jpg)
 
 ---
 
 ![artists.jpg](img/artists.jpg)
 
-AI systems are trained on the work of artists. The models can then superficially create 'new' works in that artists' style.
+AI systems are trained on the work of artists. The models can then create 'new' works, seemingly in that artists' style. Some of those artists are still alive. *Discuss.*
 
 ---
 
