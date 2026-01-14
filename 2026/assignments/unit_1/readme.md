@@ -83,13 +83,13 @@ Awe, and the Splendor of Our Human Limitations" (2019)](https://drive.google.com
 ---
 
 
-## 1-4-image-generation
+## 1-4-wrong-things
 
-> ### "Wrong Things"
+> In this exercise we will use Midjourney to explore failure modes of generative AI.
 
 [![diving.jpg](resources/diving.jpg)](https://www.youtube.com/watch?v=CnyJ-BidzIg)
 
-**(60 minutes, due T/W Jan 20/21)**
+**(45 minutes, due T/W Jan 20/21)**
 
 Let's talk about *failure*. **Watch** this [90-second video of AI Diving](https://www.youtube.com/watch?v=CnyJ-BidzIg), and **consider** this quote from Brian Eno, which is often cited in discussions about creativity and technology:
 
@@ -109,7 +109,7 @@ You have been provided with access to a paid account for MidJourney, an image sy
 * **Tinker!** Try experimenting with techniques like: “inspiring” an image with a seed image, using different model versions, making non-square images, etcetera.
 * **Research** tips for generating good prompts; there are many guides online. (AI systems like ChatGPT could also be helpful for this.)
 * **Generate** at least 3 different images to explore the way the AI fails. For each of these ideas, **revise** your prompt through at least 3 iterations.
-* **Create** a Discord post in the channel `1-4-image-generation`
+* **Create** a Discord post in the channel `1-4-wrong-things`
 * **Embed** your images in the post.
 * For each image, **include** the text of the prompt that you used to create it.
 * **Write** a few sentences of reflective commentary. What failures did you discover? Were you eventually able to ‘guide’ the system around them? 
@@ -124,35 +124,31 @@ You have been provided with access to a paid account for MidJourney, an image sy
 * Do not use this account to communicate with other people on Discord, harass them, etc. 
 * You must adhere to our course Code of Conduct.
 * You must adhere to the MidJourney terms of service. If you get booted off for doing bad things (like generating offensive content), it affects our whole class.
+* Please do not generate video; it will use up our shared credits.
 
 
 ---
 
-## 1-5-outpainting
+## 1-5-image-generation
 
-**(30 minutes, due T/W Jan 20/21)**
+**(45 minutes, due T/W Jan 20/21)**
 
-*Details TBA.* 
+> In this exercise we will use RunwayML to explore additional imaging techniques.
 
-<!--
+![runway_outpainting.jpg](resources/runway_outpainting.jpg)
 
-(30 minutes, due Tuesday, 1/23). You have been provided with account details to access Runway.ML, a powerful suite of machine-learning-based artist tools. In this exercise, you are asked to use the Runway.ML “infinite image”  and/or “expand image” tool to provocatively extend an image of your choice. Some possible images you could expand are:
+In the `key-information` Discord channel, you have been provided with credentials to access [Runway.ML](https://app.runwayml.com/), a powerful suite of machine-learning-based artist tools. Runway.ML changes their tools often, to keep up with quickly-changing developments in AI tooling; your job in this exercise is to experiment with their offerings, and report back on your discoveries.
 
-One or more of your own artworks
-One of the images you generated with Midjourney
-A [famous photograph or painting](https://artincontext.org/famous-photos/) (please be thoughtful)
-(This list is representative and not exhaustive.)
-(Note that it’s also possible to create a composition that connects multiple images.)
-Now,
+Use one of Runway's many imaging tools to generate or manipulate an image of your choice. For example, you could explore "outpainting" (expanding the area beyond the borders of an image you provide), as shown in the cat image above. Or you could explore some of the other imaging models that Runway makes available, such as Google Nano Banana. 
 
-Watch the 2-minute video above, which helpfully explains how to use the tool.
-Make a large, high-resolution extended image. Consider making a tableau vivant. Compare the results of Runway’s “infinite image” tool (which asks for a text prompt) versus Runway’s “expand image” tool.
-Create a Discord post in the channel #1-5-outpainting, and embed your image.
-Also embed the “original” (seed) image that you extended, so we can better understand what you did.
-Write a few sentences of process description. What was the initial “kernel” image or images that you started from? Why did you choose this? Did you make any discoveries in your process?
-Write a few sentences of reflective commentary. What do you appreciate about the result, and what would you change?
+**PLEASE DO NOT GENERATE VIDEO!** Doing so risks using up all of our (shared) account credits. 
 
--->
+*Now:*
+
+* **Create** a Discord post in the channel `#1-5-image-generation`, and embed your result(s).
+* If you modified an existing image, then also **embed** the “original” image that you extended, so we can better understand what you did.
+* **Write** a few sentences describing your process. What did you discover? 
+* **Write** a few sentences of reflective commentary. What do you appreciate about the result, and what would you change?
 
 ---
 
