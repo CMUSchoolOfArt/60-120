@@ -10,8 +10,8 @@ How might we make great art—and not just more slop—with AI?
 * [1-1-introductions](#1-1-introductions) (10 minutes, due Jan 14/15)
 * [1-2-looking-outwards](#1-2-looking-outwards) (15 minutes, due Jan 14/15)
 * [1-3-reading-response](#1-3-reading-response) (60 minutes, due Jan 14/15)
-* [1-4-image-generation](#1-4-image-generation) (60 minutes, due Jan 20/21)
-* [1-5-outpainting](#1-5-outpainting) (30 minutes, due Jan 20/21)
+* [1-4-wrong-things](#1-4-wrong-things) (45 minutes, due Jan 20/21)
+* [1-5-image-generation](#1-5-image-generation) (45 minutes, due Jan 20/21)
 * [1-6-proposal](#1-6-proposal) (10 minutes, due R/M Jan 22/26)
 * [1-7-monograph](#1-7-monograph) **(10-12 hours, due M/T Feb 02/03)**
 
@@ -124,7 +124,7 @@ You have been provided with access to a paid account for MidJourney, an image sy
 * Do not use this account to communicate with other people on Discord, harass them, etc. 
 * You must adhere to our course Code of Conduct.
 * You must adhere to the MidJourney terms of service. If you get booted off for doing bad things (like generating offensive content), it affects our whole class.
-* Please do not generate video; it will use up our shared credits.
+* **Please do not generate video;** it will use up our shared credits.
 
 
 ---
@@ -133,7 +133,7 @@ You have been provided with access to a paid account for MidJourney, an image sy
 
 **(45 minutes, due T/W Jan 20/21)**
 
-> In this exercise we will use RunwayML to explore additional imaging techniques.
+> In this exercise we will use RunwayML to explore additional imaging techniques in a more self-directed way.
 
 ![runway_outpainting.jpg](resources/runway_outpainting.jpg)
 
@@ -141,7 +141,7 @@ In the `key-information` Discord channel, you have been provided with credential
 
 Use one of Runway's many imaging tools to generate or manipulate an image of your choice. For example, you could explore "outpainting" (expanding the area beyond the borders of an image you provide), as shown in the cat image above. Or you could explore some of the other imaging models that Runway makes available, such as Google Nano Banana. 
 
-**PLEASE DO NOT GENERATE VIDEO!** Doing so risks using up all of our (shared) account credits. 
+**PLEASE DO NOT GENERATE VIDEO.** Doing so risks using up all of our (shared) account credits. 
 
 *Now:*
 
