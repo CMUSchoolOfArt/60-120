@@ -29,6 +29,12 @@ Trisha Code:
 
 ---
 
+[Sofia Crespo](https://sofiacrespo.com/)
+
+![sofia-crespo-neural-zoo.jpg](img/sofia-crespo-neural-zoo.jpg)
+
+---
+
 [Elsa Carvalho](https://x.com/town_in_new)
 
 ![elsa_carvalho](img/elsa_carvalho.jpg)
@@ -45,6 +51,12 @@ AndrewJumpen: [animals eating noodles](https://x.com/_akhaliq/status/18125736861
 Ainterestingaf: [Sawdust store](https://www.instagram.com/ainterestingaf/p/CrtBRWSowIJ/?img_index=1)
 
 ![sawdust_store](img/sawdust_store.jpg)
+
+---
+
+Scott Eaton, [Entangled II](https://vimeo.com/345875600)
+
+![eaton_entangled.jpg](img/eaton_entangled.jpg)
 
 ---
 
@@ -89,3 +101,5 @@ Recently, the NYTimes asked Midjourney artist Johnny Darrell to prompt “produc
 
 ![jodorowsky-tron](img/jodorowsky-tron.jpg)
 
+---
+*EOF*
