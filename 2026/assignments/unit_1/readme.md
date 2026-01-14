@@ -85,10 +85,19 @@ Awe, and the Splendor of Our Human Limitations" (2019)](https://drive.google.com
 
 ## 1-4-image-generation
 
+> ### "Wrong Things"
+
+[![diving.jpg](resources/diving.jpg)](https://www.youtube.com/watch?v=CnyJ-BidzIg)
+
 **(60 minutes, due T/W Jan 20/21)**
 
-In this exercise, you will use a machine learning system to generate some images that intrigue you. This system has (controversially) been trained on billions of images scraped from the Internet. This very entertaining [*Last Week Tonight*](https://www.youtube.com/watch?v=TWpg1RmzAbc) video gives some good perspective; I encourage you to watch it.
+Let's talk about *failure*. **Watch** this [90-second video of AI Diving](https://www.youtube.com/watch?v=CnyJ-BidzIg), and **consider** this quote from Brian Eno, which is often cited in discussions about creativity and technology:
 
+> *"Whatever you now find weird, ugly, uncomfortable and nasty about a new medium will surely become its signature. CD distortion, the jitteriness of video, the crap sound of 8-bit—all these will be cherished and emulated as soon as they can be avoided."*
+
+Eno's premise is that the imperfections or "glitches" of a medium, which may initially be seen as flaws, often become celebrated characteristics that define its aesthetic and cultural significance. In our present case, we can see that the way AI fails may be exactly what is, frankly, *interesting* about it. One of [these videos of Will Smith eating spaghetti](https://www.reddit.com/r/ThatsInsane/comments/1jyja0s/2_years_difference_makes_you_wonder_where_ai_will/) is memorable, and the other is... not. We see the world in new ways, when we see how a machine has failed to know it as we do. 
+
+In this exercise, you will experiment with MidJourney to identify something that the AI has a difficult time representing. (You may find it helpful to explore some of the older versions of the MidJourney models, which you can access with the `--version` command.) **Generate** at least 3 images that show the glitches or failures you have discovered.
 
 You have been provided with access to a paid account for MidJourney, an image synthesis service. Login details for this account are available in the `key-information` channel of our course Discord. **NOTE**: These Discord/Midjourney accounts are a communally shared resource for the students in our class, and sharing it with you is an act of trust. **Instructions:**
 
@@ -98,12 +107,12 @@ You have been provided with access to a paid account for MidJourney, an image sy
 
 * **Read** the [**Midjourney Quick Start Guide**](https://docs.midjourney.com/hc/en-us/articles/33329261836941-Getting-Started-Guide) — most especially, the [**"Parameter List" documentation**](https://docs.midjourney.com/hc/en-us/articles/32859204029709-Parameter-List). These parameters allow you to control the image aspect ratio, resolution, visual quality, inspiration source image, and (importantly) choice of AI model.
 * **Tinker!** Try experimenting with techniques like: “inspiring” an image with a seed image, using different model versions, making non-square images, etcetera.
-* **Research** tips for generating good prompts; there are many guides online. (Text-based LLMs like ChatGPT may also be helpful for this.)
-* **Generate** a half-dozen or so images, and present them in the Discord post. What you make is up to you, but we challenge you to make something *as weird as possible*. Try to work a prompt through at least 5 iterations of revision.
+* **Research** tips for generating good prompts; there are many guides online. (AI systems like ChatGPT could also be helpful for this.)
+* **Generate** at least 3 different images to explore the way the AI fails. For each of these ideas, **revise** your prompt through at least 3 iterations.
 * **Create** a Discord post in the channel `1-4-image-generation`
 * **Embed** your images in the post.
 * For each image, **include** the text of the prompt that you used to create it.
-* **Write** a few sentences of reflective commentary. What discoveries did you make? Were you able to ‘guide’ the system? 
+* **Write** a few sentences of reflective commentary. What failures did you discover? Were you eventually able to ‘guide’ the system around them? 
 
 
 ***In using our communal Midjourney (Discord) account, please adhere to the following:***
