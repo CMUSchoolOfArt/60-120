@@ -5,8 +5,8 @@
 
 ## Daily Notes
 
-* `M Jan 12` - [Hello](20260112.md)
-* `W Jan 14` - **Due**: 1-0, 1-1, 1-2, 1-3
+* `M Jan 12` - [Notes](20260112.md)
+* `W Jan 14` - [Notes](20260114.md); **Due**: 1-0, 1-1, 1-2, 1-3
 * `M Jan 19` - *MLK Day (no session)*
 * `W Jan 21` - **Due**: 1-4, 1-5: Image generation & outpainting exercise
 * `M Jan 26` - **Due**: 1-6: Proposal; InDesign introduction
