@@ -137,16 +137,16 @@ You have been provided with access to a paid account for MidJourney, an image sy
 
 ![runway_outpainting.jpg](resources/runway_outpainting.jpg)
 
-In the `key-information` Discord channel, you have been provided with credentials to access [Runway.ML](https://app.runwayml.com/), a powerful suite of machine-learning-based artist tools. Runway.ML changes their tools often, to keep up with quickly-changing developments in AI tooling; your job in this exercise is to experiment with their offerings, and report back on your discoveries.
+In the `key-information` Discord channel, you have been provided with credentials to access [Runway.ML](https://app.runwayml.com/), a powerful suite of machine-learning-based artist tools. Runway.ML changes their tools *often*, to keep up with quickly-changing developments in AI tooling. Your job in this exercise is to experiment with their current offerings, and report back on your discoveries.
 
-Use one of Runway's many imaging tools to generate or manipulate an image of your choice. For example, you could explore "outpainting" (expanding the area beyond the borders of an image you provide), as shown in the cat image above. Or you could explore some of the other imaging models that Runway makes available, such as Google Nano Banana. 
+Use one of Runway's many imaging tools to generate or manipulate an image of your choice. For example, you could explore their **Expand** tool, which performs "outpainting" (expanding the area beyond the borders of an image you provide), as shown in the cat image above. Or you could explore some of the other imaging models that Runway makes available, such as Google's *Nano Banana*. 
 
 **PLEASE DO NOT GENERATE VIDEO.** Doing so risks using up all of our (shared) account credits. 
 
 *Now:*
 
 * **Create** a Discord post in the channel `#1-5-image-generation`, and embed your result(s).
-* If you modified an existing image, then also **embed** the “original” image that you extended, so we can better understand what you did.
+* If you did modify an existing image, then please also **embed** the “original” image that you extended, so we can better understand what you did.
 * **Write** a few sentences describing your process. What did you discover? 
 * **Write** a few sentences of reflective commentary. What do you appreciate about the result, and what would you change?
 
