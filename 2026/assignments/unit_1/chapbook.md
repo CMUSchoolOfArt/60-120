@@ -1,22 +1,7 @@
 # Artist Books, Chapbooks, & Monographs
 
-![artist_books](resources/artist_books.jpg)
 
----
-
-## Videos
-
-* **Giles Whitehead, [Artist Books - A Brief History and Ideas for Creating Your Own](https://www.youtube.com/watch?v=pV_W5DU-Ceg)** (7m)
-* *Additional (optional) viewings about artist books:*
-  * PBS Utah, [Artists Books](https://www.youtube.com/watch?v=AaynQuQyMnc) (3m)
-  * Craft in America, [Book artist Julie Chen, PROCESS EPISODE](https://www.youtube.com/watch?v=8rebvFWceFE) (7m)
-  * State Library Victoria, [Artists' Books](https://www.youtube.com/watch?v=9SrVzNnxCl0) (2m) 
-  * Banff Centre for Arts and Creativity, [Open Studio: Artists' Books Collection](https://www.youtube.com/watch?v=pcooWOwZOpI) (1m)
-  * Letterform Archive, [8_History and Materiality of the Artist Book](https://vimeo.com/523991804/e38d2f3554) (1h+)
-
----
-
-## Steps
+## Steps for Working with Lulu.com Templates
 
 1. On your laptop, with a wide browser window open, navigate to **[https://www.lulu.com/pricing](https://www.lulu.com/pricing)**. 
 2. Select "Comic Book" (6.625"x10.25"):<br/>![lulu_comic_book_choice](resources/lulu_comic_book_choice.jpg)
@@ -38,9 +23,11 @@
 16. **Navigate** to one of your pages, and **drag** in an image. You can resize your image by holding down *Shift*. If it looks cropped, don't worry; you can fix this by right-clicking on the image and selecting `Fitting > Fit Content to Frame`.
 17. If you'd like to add text to a text-box that is defined in a page Parent, you can do so with `Cmd + Shift + Click` (mac) or `Ctrl + Shift + Click` (win).
 17. To add pages using the Pages menu, **go** to the Pages palette, **open** the tiny Options hamburger menu in the upper right, and **click** "Insert Pages".
-17. If you use *full bleed* on your book (i.e., if you want ink to go all the way to the edges), make sure that your design goes past the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu may complain that your document is the wrong size.
+17. If you use *full bleed* on your book (i.e., when you want ink to go all the way to the edges), make sure that your design goes *past* the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu may complain that your document is the wrong size, or you might see white edges on your pages.
 18. **Note** that you will export the interior and exterior of your book as separate PDF files! 
 19. Before exporting your print-ready PDFs, **go** to the Layers palette and **delete** the Template Guides and Notes layers.20. **Export** your book's *interior* as a *single, multi-page PDF (not spreads!) with bleed.*
 21. However, when you export your book's *cover*, make sure you have [Export As Spreads](resources/export.png) checked.
+
+**More TBA.**
 
 ---
