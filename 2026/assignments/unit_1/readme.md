@@ -190,15 +190,24 @@ Our goal is to explore the potential of these tools as assistants or prosthetics
 
 Your book may consist exclusively of images, or it can be any mixture of text and images. To generate images, you are encouraged to use MidJourney, but you may use another AI tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using MidJourney’s or Runway’s “Upscale” feature, or some other superresolution AI upscaling tool like Waifu2x or Remini.
 
-We will use Lulu.com's “Comic Book” template for InDesign. Your book may have up to 32 pages. Download this template (`lulu-comic-book-interior-template.indd` inside the `lulu-book-template-comic-book.zip` folder) by navigating through [this form here](https://www.lulu.com/pricing). Select “Comic Book” and the “saddle stitch” binding (because your book has 32 or fewer pages). You may print in color or black-and-white, this is up to you. Here are some important pain points to note about using Lulu’s templates:
+We will use Lulu.com's “Comic Book” template for InDesign. Your book may have up to 30 pages. [**Instructions for obtaining and working with the Lulu.com InDesign templates are here.**](chapbook.md).
+
+
+<!-- 
+
+// OLD (2023) 
+
+Download this template (`lulu-comic-book-interior-template.indd` inside the `lulu-book-template-comic-book.zip` folder) by navigating through [this form here](https://www.lulu.com/pricing). Select “Comic Book” and the “saddle stitch” binding (because your book has 30 or fewer pages). You may print in color or black-and-white, this is up to you. Here are some important pain points to note about using Lulu’s templates:
 
 * When you first open it, Lulu’s file templates default to having the workspace set to the locked “Template” layer—and you literally won’t be able to do or accomplish anything. This is very frustrating. Go to the Layers menu and switch your active layer to the unlocked layer called “Your Artwork”. 
 * For some infuriating reason, Lulu’s template comes with all typography set to “All Caps”. This means that no matter what text you type or paste, it LOOKS LIKE THIS. You can fix this by going to Window→Type&Tables→Character palette, open the Options hamburger menu in the upper right, and unclick the “All Caps” checkbox.
 * The Lulu template comes with the default font being “Open Sans”. If you don’t happen to have this font on your system, then all the text you try to display will be highlighted pink, indicating an error status (i.e. missing font). Choose a different font in the Character menu.
 * To add pages using the Pages menu, go to the Pages palette, open the tiny Options hamburger menu in the upper right, and enable “Allow Document Pages to Shuffle”.
-* We *strongly* suggest that you go File→DocumentSetup→Enable Facing Pages. This will help make it clear which page is on the left or right side of your book’s spreads. Here is a [revised cover template](resources/lulu-comic-book-saddle-stitch-cover-template.indd.zip) (2024) that will be helpful when you lay out the cover. 
+* We *strongly* suggest that you go File→DocumentSetup→Enable Facing Pages. This will help make it clear which page is on the left or right side of your book’s spreads. Here is a [revised cover template](resources/2026/lulu-comic-book-saddle-stitch-cover-template.indd.zip) (2024) that will be helpful when you lay out the cover. 
 * When you export the cover, make sure you have [Export As Spreads](resources/export.png) checked.
 * If you use *full bleed* on your book (meaning, you want ink to go all the way to the edges), make sure that your design goes past the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu will complain that your document is the wrong size.
+
+-->
 
 ### What are the Actual Deliverables?
 
@@ -207,7 +216,7 @@ We have presented an example of these deliverables [on Lulu here](https://www.lu
 
 *Now:*
 
-* **Make** a book with AI-generated images, with up to 32 pages, and publish this on Lulu.com using their “Comic Book” (6x9) printed format.
+* **Make** a book with AI-generated images, with up to 32 pages, and publish this on Lulu.com using their “Comic Book” (6.625"x10.25") printed format.
 * **Create** a Discord post, in the `#1-7-monograph` channel.
 * In your Discord post, **begin** by providing a single sentence declaring the title of your book, and briefly describing what your book “is”.
 * **Write** a few sentences describing what inspired or motivated you to make this particular idea. What were you aiming for? How did your thinking evolve? Discuss your process.
