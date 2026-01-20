@@ -16,4 +16,5 @@
   * Laura Coombs, [The Book as Physical Object](https://www.youtube.com/watch?v=ATjFOz4VhwQ) (first ~15m)
   * Julia Born, [Book at](https://booksat.net/tags/julia-born/) and [Touching Graphic Design](https://www.youtube.com/watch?v=SYUcFBPLIWk&t=206s)
   * Julie Dreyfus, [The Evolution of the Book](https://www.youtube.com/watch?v=_YqYtdPUis4) (4m)
+  * Bainbridge Island Museum of Art, [Artist Books Unshelved](https://youtube.com/playlist?list=PLHwzS6Uhxef6LYVrKCrZ9FYriOI8fixYU&si=1agp7saeBPHs3x4d) (Playlist)
 
