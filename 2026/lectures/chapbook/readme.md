@@ -15,5 +15,5 @@
   * Letterform Archive, [8_History and Materiality of the Artist Book](https://vimeo.com/523991804/e38d2f3554) (1h+)
   * Laura Coombs, [The Book as Physical Object](https://www.youtube.com/watch?v=ATjFOz4VhwQ) (first ~15min)
   * Julia Born, [Book at](https://booksat.net/tags/julia-born/) and [Touching Graphic Design](https://www.youtube.com/watch?v=SYUcFBPLIWk&t=206s)
-  * Julie Dreyfus, [The Evolution of the Book](https://www.youtube.com/watch?v=_YqYtdPUis4)
+  * Julie Dreyfus, [The Evolution of the Book](https://www.youtube.com/watch?v=_YqYtdPUis4) (4m)
 
