@@ -154,7 +154,7 @@ Use one of Runway's many imaging tools to generate or manipulate an image of you
 
 ## 1-6-proposal
 
-**(10 minutes, due M/R Jan 22/26).**
+**(10 minutes, due R/M Jan 22/26).**
 
 The purpose of this sub-assignment is to keep you on track.
 

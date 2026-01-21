@@ -8,7 +8,7 @@
 * `M Jan 12` - [Notes](20260112.md)
 * `W Jan 14` - [Notes](20260114.md); **Due**: 1-0, 1-1, 1-2, 1-3
 * `M Jan 19` - *MLK Day (no session)*
-* `W Jan 21` - **Due**: 1-4, 1-5: image generation exercises
+* `W Jan 21` - [Notes](20260121.md); **Due**: 1-4, 1-5: image generation exercises
 * `M Jan 26` - **Due**: 1-6: Proposal; InDesign introduction
 * `W Jan 28` - Work session
 * `M Feb 02` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
