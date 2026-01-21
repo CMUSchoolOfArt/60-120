@@ -13,4 +13,8 @@
   * State Library Victoria, [Artists' Books](https://www.youtube.com/watch?v=9SrVzNnxCl0) (2m) 
   * Banff Centre for Arts and Creativity, [Open Studio: Artists' Books Collection](https://www.youtube.com/watch?v=pcooWOwZOpI) (1m)
   * Letterform Archive, [8_History and Materiality of the Artist Book](https://vimeo.com/523991804/e38d2f3554) (1h+)
+  * Laura Coombs, [The Book as Physical Object](https://www.youtube.com/watch?v=ATjFOz4VhwQ) (first ~15m)
+  * Julia Born, [Book at](https://booksat.net/tags/julia-born/) and [Touching Graphic Design](https://www.youtube.com/watch?v=SYUcFBPLIWk&t=206s)
+  * Julie Dreyfus, [The Evolution of the Book](https://www.youtube.com/watch?v=_YqYtdPUis4) (4m)
+  * Bainbridge Island Museum of Art, [Artist Books Unshelved](https://youtube.com/playlist?list=PLHwzS6Uhxef6LYVrKCrZ9FYriOI8fixYU&si=1agp7saeBPHs3x4d) (Playlist)
 
