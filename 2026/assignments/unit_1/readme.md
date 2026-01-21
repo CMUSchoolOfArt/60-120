@@ -154,11 +154,12 @@ Use one of Runway's many imaging tools to generate or manipulate an image of you
 
 ## 1-6-proposal
 
-**(10 minutes, due R/M Jan 22/26).**
+**(20 minutes, due R/M Jan 22/26).**
 
 The purpose of this sub-assignment is to keep you on track.
 
 * **Read** ahead to the prompt for the Book Project (`1-7-chapbook`), below.
+* Take a few minutes to **browse** some of the artist books discussed in [this video playlist](https://www.youtube.com/playlist?list=PLHwzS6Uhxef6LYVrKCrZ9FYriOI8fixYU).
 * **Create** a Discord post in the channel, `#1-6-proposal`.
 * **Write** a sentence or two that describes, in broad terms, the book you plan to create for this project. Optionally, please free to share some early results, or a brief update about your progress on the project (if any).
 
