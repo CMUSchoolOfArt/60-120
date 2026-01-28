@@ -222,10 +222,13 @@ We have presented an example of these deliverables [on Lulu here](https://www.lu
 * In your Discord post, **begin** by providing a single sentence declaring the title of your book, and briefly describing what your book “is”.
 * **Write** a few sentences describing what inspired or motivated you to make this particular idea. What were you aiming for? How did your thinking evolve? Discuss your process.
 * **Write** a couple sentences of critical evaluation. Which specific aspects of your project do you feel proud of, and which aspects fell short of your vision?
-* **Provide** a screenshot of a “contact sheet” of the interior of your book, showing all of the pages. (You can do this using Preview or Acrobat.)
-* **Include** a link to your book, published at Lulu.com. **Ensure** this link is working. Your book *must* be publicly purchasable from Lulu.com, at the cost of production.
-* **Store** a PDF copy of your book’s interior and cover in your CMU Google drive. In your Discord post, include links to these PDF files. Make sure these links have ‘public viewing’ enabled.
-* **Present** your project in a class critique on February 02/03. You’ll present it digitally, from a PDF stored in your CMU Google Drive.
+* **Include** a screenshot of a “contact sheet” of the interior of your book, showing all of the pages. (You can do this using Preview or Acrobat.)
+* **Include** a screenshot of one of your favorite pages or spreads from the book.
+* **Include** a link to your book, published at Lulu.com. **Ensure** that this link is working! Your book *must* be publicly purchasable from Lulu.com, at the cost of production. (The professors will use this link to buy copies of your book.)
+* **Store** a PDF copy of your book’s interior and cover in your CMU Google drive or Box drive. In your Discord post, **include** links to these PDF files. **Ensure** these links have ‘public viewing’ enabled.
+* **Present** your project in a class critique on February 02/03. You’ll present it at the lectern, from a PDF stored in your CMU Google Drive.
+
+*The professors will purchase two copies of each students' book: One for the school, and one for you.*
 
 ---
 
