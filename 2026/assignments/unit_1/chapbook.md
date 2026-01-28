@@ -1,4 +1,4 @@
-# Artist Books, Chapbooks, & Monographs
+# Instructions for Making Your Monographs
 
 **Contents**: 
 
