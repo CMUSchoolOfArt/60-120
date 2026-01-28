@@ -10,7 +10,7 @@
 * `M Jan 19` - *MLK Day (no session)*
 * `W Jan 21` - [Notes](20260121.md); **Due**: 1-4, 1-5: image generation exercises
 * `M Jan 26` - **Due**: 1-6: Proposal; InDesign introduction
-* `W Jan 28` - Work session
+* `W Jan 28` - [Notes](20260128.md): Viewings of artist books, and work session.
 * `M Feb 02` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
 * `W Feb 04`
