@@ -5,12 +5,12 @@
 
 ## Daily Notes
 
-* `T Jan 13` - Hello 
-* `R Jan 15` - **Due**: 1-0, 1-1, 1-2, 1-3
-* `T Jan 20` - **Due**: 1-4, 1-5: Image generation & outpainting exercise
-* `R Jan 22` - **Due**: 1-6: Proposal; InDesign introduction
-* `T Jan 27` - Work session
-* `R Jan 29` - Work session
+* `T Jan 13` - [Hello](20260113.md) 
+* `R Jan 15` - [Notes](20260115.md); **Due**: 1-0, 1-1, 1-2, 1-3
+* `T Jan 20` - [Notes](20260120.md); **Due**: 1-4, 1-5: Image generation & outpainting exercise
+* `R Jan 22` - [Notes](20260122.md); **Due**: 1-6: Proposal; InDesign introduction
+* `T Jan 27` - [Notes](20260127.md); Work session
+* `R Jan 29` - [Notes](20260129.md); Work session
 * `T Feb 03` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
 * `R Feb 05`
