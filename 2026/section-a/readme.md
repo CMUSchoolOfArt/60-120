@@ -13,7 +13,7 @@
 * `W Jan 28` - [Notes](20260128.md): Viewings of artist books, and work session.
 * `M Feb 02` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
-* `W Feb 04`
+* `W Feb 04` - [Notes](): Introduction to p5.js
 * `M Feb 09` 
 * `W Feb 11` - **Due**: Generative pattern exercise
 * `M Feb 16`
