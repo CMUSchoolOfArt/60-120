@@ -11,9 +11,9 @@
 * `W Jan 21` - [Notes](20260121.md); **Due**: 1-4, 1-5: image generation exercises
 * `M Jan 26` - **Due**: 1-6: Proposal; InDesign introduction
 * `W Jan 28` - [Notes](20260128.md): Viewings of artist books, and work session.
-* `M Feb 02` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
+* `M Feb 02` - [Notes](20260202.md); **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (monograph)
 * `--------`
-* `W Feb 04` - [Notes](): Introduction to p5.js
+* `W Feb 04` - [Notes](20260204.md): Introduction to p5.js
 * `M Feb 09` 
 * `W Feb 11` - **Due**: Generative pattern exercise
 * `M Feb 16`
