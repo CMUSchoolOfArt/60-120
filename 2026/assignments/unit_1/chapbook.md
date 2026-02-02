@@ -20,7 +20,8 @@
 6. For "Paper Type", choose **White — 70# Coated**.
 7. For "Cover Finish", I recommend **Glossy** (unless you're certain you want Matte).
 8. At this point you can now **download your book template**. <br />Scroll to the bottom of the page and click "Book Templates" and "Custom Cover Template":<br />![lulu_book_template_download](resources/lulu_book_template_download.png)<br />This will cause the following files to download: 
-  * `cover_template.pdf`  * `lulu-book-template-comic-book.zip`
+  * `cover_template.pdf`
+  * `lulu-book-template-comic-book.zip`
   * Later on, Here is a [revised cover template](resources/2026/lulu-comic-book-saddle-stitch-cover-template.indd.zip) (2024) that may be helpful when you lay out the cover. 
 9. **Unzip** (uncompress) the `lulu-book-template-comic-book.zip` archive, probably by double-clicking on it. You'll get a folder called `lulu-book-template-comic-book`. 
 10. Inside, **locate** the Adobe InDesign (.indd) file:<br />`Interior Templates/InDesign Spreads/lulu-comic-interior-template-spread.indd`. This is your template file. 
@@ -34,7 +35,8 @@
 17. To add pages using the Pages menu, **go** to the Pages palette, **open** the tiny Options hamburger menu in the upper right, and **click** "Insert Pages".
 17. If you use *full bleed* on your book (i.e., when you want ink to go all the way to the edges), make sure that your design goes *past* the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu may complain that your document is the wrong size, or you might see white edges on your pages.
 18. **Note** that you will export the interior and exterior of your book as separate PDF files! 
-19. Before exporting your print-ready PDFs, **go** to the Layers palette and **delete** the Template Guides and Notes layers.20. **Export** your book's ***interior*** as a *single, multi-page PDF (not spreads!) with bleed.*
+19. Before exporting your print-ready PDFs, **go** to the Layers palette and **delete** the Template Guides and Notes layers.
+20. **Export** your book's ***interior*** as a *single, multi-page PDF (not spreads!) with bleed.*
 
 
 ---
@@ -68,4 +70,13 @@
 13. On the next page, *Project Details*, **add** well-considered metadata about your book. **Write** (and proofread!) a *description* of your book; add *Categories and Keywords*. Select an *Audience*. 
 14. On the next page, you will *Set a Retail Price*. For this class assignment, **set** your *Revenue Goal* to 0.00 USD. (When you publish your next book, you can charge whatever markup you wish.)
 15. You'll also have to **add** yourself as a payee, even though you won't be making any money on this book. It's not necessary to add any tax information, but you need to enter an address.
-16. **Confirm and Publish**!
+16. **Confirm your Upload**!
+17. After you've confirmed your PDF files, the last step at Lulu.com is to **publish**. You'll be given three options: (1) Public, (2) Unlisted, or (3) Private. **Make sure** to select Public or Unlisted — *not* Private! Otherwise, we won't be able to view the link to your book in our class Discord (and the professors won't be able to purchase copies). 
+18. **Copy** the URL link for your book's page — it should look something like "[https://www.lulu.com/shop/golan-levin/an-abecedarium-of-dwellings/paperback/product-pp7ne7.html?page=1&pageSize=4](https://www.lulu.com/shop/golan-levin/an-abecedarium-of-dwellings/paperback/product-pp7ne7.html?page=1&pageSize=4)". It's a good idea to **test** your book's Lulu link in another browser (or on another computer — somewhere that you're not logged in to Lulu.com) to make sure that it's accessible.
+
+---
+
+## Wrapping Up
+
+1. **Paste** your book's Lulu link into a Discord post, and **follow** the rest of the deliverables documentation requirements described [here](readme.md#1-7-monograph).
+2. It's an excellent idea to **create an "InDesign Package"** in order to *archive* all of your work files. This way, it will be easy for you to edit your book at a later time, if you want, and you won't be accidentally missing any files. In InDesign, **select** File -> Package...; **ensure** any missing images or fonts are resolved; and **save** a package archive to your Google Drive, CMU Box, and/or personal hard drive. 
