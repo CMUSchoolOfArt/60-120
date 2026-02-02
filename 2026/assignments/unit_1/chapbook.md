@@ -2,9 +2,10 @@
 
 **Contents**: 
 
-* Steps for Working with the Lulu.com *Interior* Template
-* Working with the *Cover* Template
-* Publishing on Lulu.com
+* [Steps for Working with the Lulu.com *Interior* Template](#steps-for-working-with-the-lulucom-interior-template)
+* [Working with the *Cover* Template](#working-with-the-cover-template)
+* [Publishing on Lulu.com](#publishing-on-lulucom)
+* [Wrapping Up](#wrapping-up)
 
 
 ---
