@@ -191,7 +191,7 @@ Our goal is to explore the potential of these tools as assistants or prosthetics
 
 Your book may consist exclusively of images, or it can be any mixture of text and images. To generate images, you are encouraged to use MidJourney, but you may use another AI tool (ChatGPT, Google Nano Banana, RunwayML, etc.) if you prefer. **NOTE:** To make your book look good, you’ll need to generate images in the highest resolution possible, either using MidJourney’s or Runway’s “Upscale” feature, or some other superresolution AI upscaling tool like Waifu2x or Remini.
 
-We will use Lulu.com's “Comic Book” template for InDesign. Your book may have up to 30 pages. [**Instructions for obtaining and working with the Lulu.com InDesign templates are here.**](chapbook.md).
+We will use Lulu.com's “Comic Book” template for InDesign. Your book may have up to 30 pages.<br />[**INSTRUCTIONS for obtaining and working with the Lulu.com InDesign templates are here.**](chapbook.md)
 
 
 <!-- 
