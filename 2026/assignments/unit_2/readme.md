@@ -2,24 +2,32 @@
 
 Foundations of Electronic Media • 60-120 • Spring 2026
 
-<!-- ASSIGNMENT 2 -->
+*Creative coding treats programming as a material rather than a utility: a way to think, sketch, and compose through rules, parameters, and systems. In this unit, we will use code to generate form, variation, and time-based behavior, working incrementally from simple visual constraints to systems that produce many outcomes. Our emphasis is not technical mastery, but learning how structured processes, repetition, and controlled variation can become expressive artistic strategies.*
+
 
 ---
 
 ## Schedule of Deliverables
 
-Due Monday 2/9 (for Section A) or Tuesday 2/10 (for Section B): 
+Due Monday **2/9** (for Section A) or Tuesday **2/10** (for Section B): 
 
-* [2.1. Orientation](#21-orientation) *(15m; Due 2/9 or 2/10)*
-* [2.2. Looking Outwards: Generative Art](#22-looking-outwards-generative-art) *(30m; Due 2/9 or 2/10)*
-* [2.3. Reading-Response: Artist Narratives](#23-reading-response-artist-narratives) *(30m; Due 2/9 or 2/10)*
-* [2.4. Reading-Response: Effective Complexity and The Oatmeal Problem](#24-reading-response-effective-complexity-and-the-oatmeal-problem) *(45m; Due 2/9 or 2/10)*
-* [2.5. Warmup Exercise: Ten Shapes, One Rule](#25-warmup-exercise-ten-shapes-one-rule) *(45m; Due 2/9 or 2/10)*
+* [2.1. Orientation](#21-orientation) *(15m)*
+* [2.2. Looking Outwards: Generative Art](#22-looking-outwards-generative-art) *(30m)*
+* [2.3. Reading-Response: Artist Narratives](#23-reading-response-artist-narratives) *(30m)*
+* [2.4. Reading-Response: Effective Complexity and The Oatmeal Problem](#24-reading-response-effective-complexity-and-the-oatmeal-problem) *(45m)*
+* [2.5. Warmup Exercise: Ten Shapes, One Rule](#25-warmup-exercise-ten-shapes-one-rule) *(45m)*
 
-Due Wednesday 2/11 (for Section A) or Thursday 2/12 (for Section B): 
+Due Wednesday **2/11** (for Section A) or Thursday **2/12** (for Section B): 
 
-* [2.6. Face Generator](#26-face-generator) *(2h; Due 2/11 or 2/12)*
-* 
+* [2.6. Face Generator](#26-face-generator) *(2.5h)*
+
+Due Monday **2/16** (for Section A) or Tuesday **2/17** (for Section B): 
+
+* [2.7. Pattern: Nested Iteration](#27-pattern-nested-iteration) *(3h)*
+
+Due Monday **2/23** (for Section A) or Tuesday **2/24** (for Section B): 
+
+* [2.8. Computational Clocks](#28-computational-clocks) *(5h)*
 
 
 ---
@@ -34,11 +42,11 @@ Before the end of class on February 4th/5th, please make sure to have done the f
 
 *Now: (15 minutes; Due Monday 2/9 or Tuesday 2/10)*
 
-**Spend 15 minutes familiarizing yourself** with the following online resources. The goal here is simply to make sure you are *aware* of these media, that you know *where* to find them, and that you know *how* they can help you. *There is no deliverable for this exercise.*
+**Spend 15 minutes familiarizing yourself** with the following online resources. The goal here is simply to make sure you are *aware* of these media, that you have seen them with your *eyes*, that you know *where* to find them, and that you know *how* they can help you. *There is no deliverable for this exercise.*
 
 * Here's a [p5.js **Cheat Sheet**](https://bmoren.github.io/p5js-cheat-sheet/)
 * This is the official [p5.js **Reference**](https://p5js.org/reference/)) and the [older version](https://archive.p5js.org/reference/) that you might like better.
-* Here are the [p5.js **Examples**](https://archive.p5js.org/examples/). I recommend you browse at least 5 of them.
+* Here are the [p5.js **Examples**](https://archive.p5js.org/examples/). I recommend you browse at least five of them.
 * Here are some extremely helpful and important **YouTube tutorial channels**: 
   * The legendary [**Coding Train**](https://www.youtube.com/@TheCodingTrain/videos) by Dan Shiffman — featuring 1200+ videos, ranging from [this great p5.js introduction](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) to very advanced tutorials
   * [PattVira](https://www.youtube.com/@pattvira) – excellent tutorials (by a CMU alum!), including this great [introductory playlist](https://www.youtube.com/playlist?list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn)
@@ -112,12 +120,12 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ## 2.5. Warmup Exercise: Ten Shapes, One Rule
 
-*(45 minutes; Due Monday 2/9 or Tuesday 2/10)*
+*Due: Monday 2/9 (for Section A) or Tuesday 2/10 (for Section B). ~45 minutes.*
 
 * **Create** a new sketch at OpenProcessing, with a canvas no larger than 600×600px. 
 * **Write** p5.js code to create a single static composition using only the 2D primitive shapes (`ellipse`, `rect`, `line`, `triangle`, `quad`, etc) described [here](https://p5js.org/reference/#Shape). You may use any of these shapes you wish. 
 * **Use** exactly 10 shapes total.
-* **Choose** one self-imposed rule and follow it strictly. Examples of rules include:
+* **Choose** one self-imposed rule and follow it strictly. Select one of the following rules (or devise your own, if you wish):
 	* All shapes must share one edge or touch at one point.
 	* All shapes are variations of a single proportion.
 	* All shapes align to an invisible grid.
@@ -126,21 +134,21 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 	* Shapes get progressively larger or smaller.
 	* Horizontal symmetry only, no vertical symmetry.
 * **Heed** these additional constraints: 
-	* Static result only. All your code should be in `setup()`, not `draw()`.
+	* Static results *only*. All your code should be in `setup()`, not `draw()`.
 	* No image files, no text, no interaction, no randomness.
-* **Create** a post in the Discord channel, `#2-5-ten-shapes`.
+* In OpenProcessing, **edit** the information about your project (click ⓘ and EDIT). **Add** a title, **capture** a thumbnail screenshot, and **describe** your rule in the description field. 
+* Add your project to the [correct OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105114).
+* **Create** a post in the Discord channel, `#2-5-ten-shapes`, to document your work,
 * In your Discord post, **upload** a screenshot of your exercise. 
-* **Write** 2–3 sentences describing the rule you chose, and something that surprised you.
+* In your Discord post, **Write** 2–3 sentences describing the rule you chose, and something that surprised you about the process of developing your project.
 
 ---
 
 ## 2.6. Face Generator
 
-This is an exercise in *procedural character design*. 
+*Due: Wednesday 2/11 (for Section A) or Thursday 2/12 (for Section B). ~2.5 hours.*
 
-*(Recommended due date: Thursday 2/13. ~2.5 hours)*
-
-Consider the following:
+This is an exercise in *procedural character design*. Consider the following:
 
 ![dorfelt_moka_faces.jpg](img/dorfelt_moka_faces.jpg)<br />Matthias Dörfelt’s [*Weird Faces*](https://www.mokafolio.de/works/Weird-Faces) (2012) — The artist’s attempt to recreate his doodling drawing style in code.
 
@@ -198,7 +206,47 @@ Below are some faces by Bruno Munari. Observe how they are simple yet interestin
 
 ![munari.png](img/munari.png)
 
+---
+
+## 2.7. Pattern: Nested Iteration
+
+*Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~3 hours.*
+
+![freeke.png](img/freeke.png)
+
+*Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
+
+In this project, you are asked to write code to generate “infinite” variations of a tiling pattern or repetitive textural composition, as for wallpaper or fabric. Your pattern should be designed so that it could be infinitely tiled or extended. Design something you would like to put on the walls or floor of your home, or that you might imagine yourself wearing. (Images by [Saskia Freeke](https://sasj.nl/portfolio/).)
+
+*Additional details TBA.*
+
+<!-- 
+
+* In OpenProcessing, **create** a new sketch which uses the full screen.
+* **Write** code that renders a simple, small visual motif. You may use any colors and shapes you please. You may work abstractly, or you can design a motif such as a leaf, flower, etc.
+Using “nested iteration”, write additional code that renders this motif numerous times, as in a grid.
+* **Add** some randomness so that each repeat of the motif is slightly different from the others.
+* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96712). 
+* **Post** a screenshot to the Discord channel, `#2-7-pattern`. 
+* **Write** a sentence to describe your goals, approach, challenges, and/or experience.
+
+**Give consideration to:**
+
+* *Symmetry*, whether achieved through reflection or rotation. Experiment with 2D graphics transformations, such as rotation, scaling, and mirror reflections
+* *Rhythm*. Try using nested iteration to develop 2D patterns or other gridlike structures
+* *Positive vs. negative space*
+* *Foreground*, middle-ground, and background “layers”
+* *Detail at multiple scales*, i.e., variation at the macro-scale, meso-scale, and micro-scale.
+* The *potential for surprise* through the placement of infrequent features
+* Give attention to *color*. Feel free to use a palette creator, a palette extraction tool, etc.
+* *Randomness*. Give consideration to the depth of variation in your pattern, and how randomness shapes the design. After how many viewings does your pattern become predictable? How might you forestall this as long as possible? At least 3 different parameters must be subject to variation.
+
+-->
 
 ---
 
+## 2.8. Computational Clock(s)
 
+*Due Monday 2/23 (for Section A) or Tuesday 2/24 (for Section B). ~5 hours.*
+
+*Details TBA.*
