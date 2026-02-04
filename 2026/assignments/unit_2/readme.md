@@ -8,10 +8,10 @@ Foundations of Electronic Media • 60-120 • Spring 2026
 
 ## Schedule of Deliverables
 
-* [2.1. Orientation]()
-* [2.2. Looking Outwards: Generative Art]()
-* [2.3. Reading-Response: Artist Narratives]()
-* [2.4. Reading-Response: Effective Complexity and The Oatmeal Problem]()
+* [2.1. Orientation](#21-orientation)
+* [2.2. Looking Outwards: Generative Art](#22-looking-outwards-generative-art)
+* [2.3. Reading-Response: Artist Narratives](#23-reading-response-artist-narratives)
+* [2.4. Reading-Response: Effective Complexity and The Oatmeal Problem](#24-reading-response-effective-complexity-and-the-oatmeal-problem)
 
 
 ---
@@ -102,6 +102,75 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ---
 
+## 2.5. Small Exercises
 
+---
+
+## 2.6. Face Generator
+
+This is an exercise in *procedural character design*. 
+
+*(Recommended due date: Thursday 2/13. ~2.5 hours)*
+
+Consider the following:
+
+![dorfelt_moka_faces.jpg](img/dorfelt_moka_faces.jpg)<br />Matthias Dörfelt’s [*Weird Faces*](https://www.mokafolio.de/works/Weird-Faces) (2012) — The artist’s attempt to recreate his doodling drawing style in code.
+
+![chernoff.png](img/chernoff.png)<br />Herman Chernoff’s [multivariate face visualizations](https://en.wikipedia.org/wiki/Chernoff_face) (1973) — displays of multivariate data in the shape of a human face, whose individual parts represent values of the variables by their shape, size, placement and orientation.
+
+![hyphen_labs_pills_usjd_666x522.jpg](img/hyphen_labs_pills_usjd_666x522.jpg)<br/>[Hyphen Labs](http://eyeofestival.com/2018/speaker/hyphen-labs/), [*Everyday Painkillers*](https://hyphen-labs.com/Everyday-Painkillers) (2016): An installation in which, every 24 minutes (the frequency of U.S. opioid deaths), a script directs an onsite CNC machine to carve a novel face into an additional pill. [[Video at Eyeo 2018](https://vimeo.com/287093806), jump to 23:20]
+
+![cryptopunks.png](img/cryptopunks.png)<br />Larva Labs, *Cryptopunks* (2018): 10,000 unique, computationally generated faces, some of the first NFTs.
+
+*And,*
+
+* Mark Wilson, [Meta-Face](http://mgwilson.com/Drawing%20with%20Computers.pdf) (1985): One of the earliest face generators I could find, pictured below.
+* Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021
+* Aditya Jain, [Face Generator](https://x.com/adityajainart/status/1675563610490413056), 2023
+
+![mark_wilson_metaface_dwg_w_comp_p18.png](img/mark_wilson_metaface_dwg_w_comp_p18.png)
+
+*Now:* 
+
+* In [OpenProcessing](https://openprocessing.org/class/104705#/), **create** a p5.js sketch whose canvas is no larger than 600x600 pixels.
+* **Write** code to design an image of a face or character that is parameterized by at least three variables, but preferably more. Using the recommended code structure below, your sketch should generate a new face whenever the user clicks the mouse button. 
+* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105113).
+* **Create** a post in the Discord channel, `#2-6-face-generator`.
+* In your post, **upload** a couple of screenshots, showing your generator's variety.
+* **Write** a sentence to describe your approach, or to direct our attention.
+
+In your project, you might have variables that specify the size, position, color, or other visual characteristics of the eyes, nose, and mouth. By randomizing these values, you could vary properties like: the face’s expression (happy, sad, angry); the face’s identity (Chris, Pat, Alex, Sam); or the face’s species (cat, monkey, zombie, alien). These are just examples.
+
+Give special consideration to controlling the precise **shape** of face parts, such as the curves of the nose, chin, ears, and jowls, and/or characteristics such as skin color, stubble, hairstyle, blemishes, inter-pupillary distance, facial asymmetry, cephalic index, and prognathism. Consider having both **continuous** parameters (such as variables that control the size, position, and/or color of features) and **discrete** parameters (such as variables that control the number of eyeballs, or the presence or absence of a hat).
+
+*Place your character.* A face floating in an empty void reads as unfinished because it omits context that helps viewers interpret scale, orientation, mood, and identity. Even minimal surroundings provide visual grounding: a neck and shoulders establish anatomy and posture; a background color or shape sets contrast and emotional tone; a hint of environment can imply lighting and narrative. A little context can help you make a much more compelling character system, and it does so with very little extra code.
+
+We recommend you begin with the code template provided below. The particular structure of this code will allow your sketch to generate a new face whenever the user clicks the mouse button.
+
+
+```
+function setup() {
+  createCanvas(600, 600);
+}
+
+function draw() {
+  background('white'); 
+  // generate a face HERE...
+  noLoop();
+}
+
+function mousePressed(){
+  loop();
+}
+```
+
+*Please do not use an LLM to write this code for you. LLMs will make generic faces; we are interested in eliciting your own creative work, no matter how basic your skills are.*
+
+Below are some faces by Bruno Munari. Observe how they are simple yet interesting.
+
+![munari.png](img/munari.png)
+
+
+---
 
 
