@@ -8,10 +8,18 @@ Foundations of Electronic Media • 60-120 • Spring 2026
 
 ## Schedule of Deliverables
 
-* [2.1. Orientation](#21-orientation)
-* [2.2. Looking Outwards: Generative Art](#22-looking-outwards-generative-art)
-* [2.3. Reading-Response: Artist Narratives](#23-reading-response-artist-narratives)
-* [2.4. Reading-Response: Effective Complexity and The Oatmeal Problem](#24-reading-response-effective-complexity-and-the-oatmeal-problem)
+Due Monday 2/9 (for Section A) or Tuesday 2/10 (for Section B): 
+
+* [2.1. Orientation](#21-orientation) *(15m; Due 2/9 or 2/10)*
+* [2.2. Looking Outwards: Generative Art](#22-looking-outwards-generative-art) *(30m; Due 2/9 or 2/10)*
+* [2.3. Reading-Response: Artist Narratives](#23-reading-response-artist-narratives) *(30m; Due 2/9 or 2/10)*
+* [2.4. Reading-Response: Effective Complexity and The Oatmeal Problem](#24-reading-response-effective-complexity-and-the-oatmeal-problem) *(45m; Due 2/9 or 2/10)*
+* [2.5. Warmup Exercise: Ten Shapes, One Rule](#25-warmup-exercise-ten-shapes-one-rule) *(45m; Due 2/9 or 2/10)*
+
+Due Wednesday 2/11 (for Section A) or Thursday 2/12 (for Section B): 
+
+* [2.6. Face Generator](#26-face-generator) *(2h; Due 2/11 or 2/12)*
+* 
 
 
 ---
@@ -47,7 +55,7 @@ Before the end of class on February 4th/5th, please make sure to have done the f
 
 ![William Mapan (detail)](img/mapan.jpg)
 
-*(45 minutes; Due Monday 2/9 or Tuesday 2/10)*
+*(30 minutes; Due Monday 2/9 or Tuesday 2/10)*
 
 > *“Generative art refers to any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art.”* — Philip Galanter
 
@@ -66,9 +74,9 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ![Vera Molnar's 'Letters from My Mother'](img/molnar_letters.jpg)
 
-*(45 minutes; Due Monday 2/9 or Tuesday 2/10)*
+*(30 minutes; Due Monday 2/9 or Tuesday 2/10)*
 
-* Briefly **skim** the five short artist narratives below, and **choose** one artist's article to focus on.
+* Briefly **skim** the five short artist narratives below, and **choose** *one* artist's article to focus on. (Each is approximately a 10-15 minute read. You only have to read one article.)
 * **Create** a post in the Discord channel `#2-3-narratives`. 
 * In your post, **write** 100–150 words responding to the questions below. **Answer** all parts concisely and concretely, please.
 	1. *(Process insight)* **Describe** one specific aspect of the artist’s process that stood out to you. For example, this might include how they: begin a project, iterate over time, use constraints, decide when something is “working”, or balance control and surprise.
@@ -102,7 +110,27 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ---
 
-## 2.5. Small Exercises
+## 2.5. Warmup Exercise: Ten Shapes, One Rule
+
+*(45 minutes; Due Monday 2/9 or Tuesday 2/10)*
+
+* **Create** a new sketch at OpenProcessing, with a canvas no larger than 600×600px. 
+* **Write** p5.js code to create a single static composition using only the 2D primitive shapes (`ellipse`, `rect`, `line`, `triangle`, `quad`, etc) described [here](https://p5js.org/reference/#Shape). You may use any of these shapes you wish. 
+* **Use** exactly 10 shapes total.
+* **Choose** one self-imposed rule and follow it strictly. Examples of rules include:
+	* All shapes must share one edge or touch at one point.
+	* All shapes are variations of a single proportion.
+	* All shapes align to an invisible grid.
+	* Only three colors total.
+	* Every shape must overlap at least one other.
+	* Shapes get progressively larger or smaller.
+	* Horizontal symmetry only, no vertical symmetry.
+* **Heed** these additional constraints: 
+	* Static result only. All your code should be in `setup()`, not `draw()`.
+	* No image files, no text, no interaction, no randomness.
+* **Create** a post in the Discord channel, `#2-5-ten-shapes`.
+* In your Discord post, **upload** a screenshot of your exercise. 
+* **Write** 2–3 sentences describing the rule you chose, and something that surprised you.
 
 ---
 

@@ -14,11 +14,11 @@
 * `M Feb 02` - [Notes](20260202.md); **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (monograph)
 * `--------`
 * `W Feb 04` - [Notes](20260204.md): Introduction to p5.js
-* `M Feb 09` 
-* `W Feb 11` - **Due**: Generative pattern exercise
-* `M Feb 16`
+* `M Feb 09` - **Due**: 2-1, 2-2, 2-3, 2-4, 2-5: Viewings, Readings, & Warmup Exercises
+* `W Feb 11` - **Due**: 2-6 Face Generator
+* `M Feb 16` - **Due**: 2-7 Pattern Generator
 * `W Feb 18` 
-* `M Feb 23` - **Due: Unit 2 Main Project** (Computational Clock)
+* `M Feb 23` - **Due**: 2-8 Computational Clock
 * `--------`
 * `W Feb 25` - Curation lecture
 * `M Mar 02` - *Spring Break (no session)*
