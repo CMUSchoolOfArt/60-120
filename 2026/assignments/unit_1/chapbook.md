@@ -37,7 +37,7 @@
 17. If you use *full bleed* on your book (i.e., when you want ink to go all the way to the edges), make sure that your design goes *past* the edge of the page, and make sure you set a Bleed of 0.125 when you export the file. Otherwise, Lulu may complain that your document is the wrong size, or you might see white edges on your pages.
 18. **Note** that you will export the interior and exterior of your book as separate PDF files! 
 19. Before exporting your print-ready PDFs, **go** to the Layers palette and **delete** the Template Guides and Notes layers.
-20. **Export** your book's ***interior*** as a *single, multi-page PDF (not spreads!) with bleed.*
+20. **Export** your book's ***interior*** as a *single, multi-page PDF (pages, not spreads!) with bleed.*
 
 
 ---
