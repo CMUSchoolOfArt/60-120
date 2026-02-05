@@ -13,7 +13,7 @@
 * `R Jan 29` - [Notes](20260129.md); Work session
 * `T Feb 03` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
-* `R Feb 05`
+* `R Feb 05` - [Notes](20260205.md); Intro to p5
 * `T Feb 10` 
 * `R Feb 12` - **Due**: Generative pattern exercise
 * `T Feb 17`
