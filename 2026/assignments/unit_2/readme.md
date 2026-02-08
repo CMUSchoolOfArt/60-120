@@ -148,40 +148,48 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 *Due: Wednesday 2/11 (for Section A) or Thursday 2/12 (for Section B). ~2.5 hours.*
 
-This is an exercise in *procedural character design*. Consider the following:
+**Study** these whimsical hand-drawn faces by Bruno Munari (from *Design as Art,* 1969). His drawings are highly economical constructions: a few specific marks stand in for eyes, nose, and mouth, yet they cohere immediately as faces through [gestalt perception](https://en.wikipedia.org/wiki/Gestalt_psychology) rather than realistic rendering. Their humor comes from a tension between abstraction and specificity: each face is unmistakably "someone", even though almost nothing descriptive is actually drawn.
+
+![faces by Bruno Munari](img/munari.png)
+
+We now begin an exercise in *procedural character design*. Consider the following examples of *computationally generated faces:* 
 
 ![dorfelt_moka_faces.jpg](img/dorfelt_moka_faces.jpg)<br />Matthias Dörfelt’s [*Weird Faces*](https://www.mokafolio.de/works/Weird-Faces) (2012) — The artist’s attempt to recreate his doodling drawing style in code.
 
-![chernoff.png](img/chernoff.png)<br />Herman Chernoff’s [multivariate face visualizations](https://en.wikipedia.org/wiki/Chernoff_face) (1973) — displays of multivariate data in the shape of a human face, whose individual parts represent values of the variables by their shape, size, placement and orientation.
+![chernoff.png](img/chernoff.png)<br />Herman Chernoff’s [multivariate face visualizations](https://en.wikipedia.org/wiki/Chernoff_face) (1973) — displays of multivariate data in the shape of a human face, whose individual parts represent values of the variables by their shape, size, placement and orientation. *(Another example [from Tufte](img/chernoff_tufte.png))*
 
-![hyphen_labs_pills_usjd_666x522.jpg](img/hyphen_labs_pills_usjd_666x522.jpg)<br/>[Hyphen Labs](http://eyeofestival.com/2018/speaker/hyphen-labs/), [*Everyday Painkillers*](https://hyphen-labs.com/Everyday-Painkillers) (2016): An installation in which, every 24 minutes (the frequency of U.S. opioid deaths), a script directs an onsite CNC machine to carve a novel face into an additional pill. [[Video at Eyeo 2018](https://vimeo.com/287093806), jump to 23:20]
+![hyphen_labs_pills_usjd_666x522.jpg](img/hyphen_labs_pills_usjd_666x522.jpg)<br/>[Hyphen Labs](https://hyphen-labs.com/who-is-hyphen-labs) (Ece Tankal and Carmen Aguilar y Wedge), [*Everyday Painkillers*](https://hyphen-labs.com/Everyday-Painkillers) (2016): An installation in which, every 24 minutes (the frequency of U.S. opioid deaths), a script directs an onsite CNC machine to carve a novel face into an additional pill. *([Video from Eyeo 2018](https://vimeo.com/287093806#t=24m40s), jump to 24:40)*
 
-![cryptopunks.png](img/cryptopunks.png)<br />Larva Labs, *Cryptopunks* (2018): 10,000 unique, computationally generated faces, some of the first NFTs.
+![cryptopunks.png](img/cryptopunks.png)<br />Larva Labs, *Cryptopunks* (2018): 10,000 unique, computationally generated faces; some of the first and most successful NFTs.
 
 *And,*
 
 * Mark Wilson, [Meta-Face](http://mgwilson.com/Drawing%20with%20Computers.pdf) (1985): One of the earliest face generators I could find, pictured below.
-* Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021
-* Aditya Jain, [Face Generator](https://x.com/adityajainart/status/1675563610490413056), 2023
+* Jean-Paul Delahaye, [face generator from *Nouveaux dessins géométriques et artistiques*](img/delahaye_faces_1985.jpg) (1985).
+* Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021 (p5.js)
+* Aditya Jain, [Face Generator](img/aditya_jain_face_generator.gif), 2023 *([original](https://x.com/adityajainart/status/1675563610490413056))*
 
 ![mark_wilson_metaface_dwg_w_comp_p18.png](img/mark_wilson_metaface_dwg_w_comp_p18.png)
 
-*Now:* 
+#### Requirements
 
-* In [OpenProcessing](https://openprocessing.org/class/104705#/), **create** a p5.js sketch whose canvas is no larger than 600x600 pixels.
-* **Write** code to design an image of a face or character that is parameterized by at least three variables, but preferably more. Using the recommended code structure below, your sketch should generate a new face whenever the user clicks the mouse button. 
+* In [OpenProcessing](https://openprocessing.org/class/104705/#/c/105113), **create** a p5.js sketch whose canvas is no larger than 600x600 pixels.
+* **Write** code to generate an image of a face or character. Using the recommended code structure below, your sketch should generate a new face whenever the user clicks the mouse button.
+  * Your project should be parameterized by **at least three variables**, but preferably more (aim for 5–10). Include at least one *discrete* parameter (such as a variable that controls the number of eyeballs, or the presence or absence of a hat), and one *continuous* parameter (such as a variable that controls the size, position, and/or color of features).
+  * Your project should include at least one **grounding cue**, such as a background shape or color, neck/shoulders, or a simple prop. Keep it minimal.
 * **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105113).
 * **Create** a post in the Discord channel, `#2-6-face-generator`.
 * In your post, **upload** a couple of screenshots, showing your generator's variety.
-* **Write** a sentence to describe your approach, or to direct our attention.
+* **Write** a sentence to direct our attention. What are you proudest of? 
+* **Write** a sentence listing a few of your face's most important variables (e.g. "nose size; number of pimples", etc.)
 
-In your project, you might have variables that specify the size, position, color, or other visual characteristics of the eyes, nose, and mouth. By randomizing these values, you could vary properties like: the face’s expression (happy, sad, angry); the face’s identity (Chris, Pat, Alex, Sam); or the face’s species (cat, monkey, zombie, alien). These are just examples.
+#### Development Notes
 
-Give special consideration to controlling the precise **shape** of face parts, such as the curves of the nose, chin, ears, and jowls, and/or characteristics such as skin color, stubble, hairstyle, blemishes, inter-pupillary distance, facial asymmetry, cephalic index, and prognathism. Consider having both **continuous** parameters (such as variables that control the size, position, and/or color of features) and **discrete** parameters (such as variables that control the number of eyeballs, or the presence or absence of a hat).
+In your project, you might have variables that specify the size, position, color, or other visual characteristics of the eyes, nose, and mouth. By randomizing these values, you could vary properties like: the face’s expression (happy, sad, angry); the face’s identity (Chris, Pat, Alex, Sam); or the face’s species (cat, monkey, zombie, alien). (These are just examples.) Give special consideration to controlling the precise shape of face parts, such as the curves of the nose, chin, ears, and jowls, and/or characteristics such as skin color, stubble, hairstyle, blemishes, inter-pupillary distance, facial asymmetry, cephalic index, and prognathism.
 
-*Place your character.* A face floating in an empty void reads as unfinished because it omits context that helps viewers interpret scale, orientation, mood, and identity. Even minimal surroundings provide visual grounding: a neck and shoulders establish anatomy and posture; a background color or shape sets contrast and emotional tone; a hint of environment can imply lighting and narrative. A little context can help you make a much more compelling character system, and it does so with very little extra code.
+**Place your character.** A face floating in an empty void feels unfinished because it omits context that helps viewers interpret scale, orientation, mood, and identity. Even minimal surroundings provide visual grounding: a neck and shoulders establish anatomy and posture; a background color or simple shape sets contrast and emotional tone; a hint of environment can imply lighting and narrative. A little context can help you make a much more compelling character system, and it does so with very little extra code.
 
-We recommend you begin with the code template provided below. The particular structure of this code will allow your sketch to generate a new face whenever the user clicks the mouse button.
+We recommend you **begin** with the code template provided below. The particular structure of this code will allow your sketch to generate a new face whenever the user clicks the mouse button.
 
 
 ```
@@ -200,11 +208,13 @@ function mousePressed(){
 }
 ```
 
-*Please do not use an LLM to write this code for you. LLMs will make generic faces; we are interested in eliciting your own creative work, no matter how basic your skills are.*
+We will evaluate your generator based on considerations including its:
 
-Below are some faces by Bruno Munari. Observe how they are simple yet interesting.
+* *Range*: produces clearly different faces across clicks
+* *Coherence*: features remain face-like across clicks
+* *Authorship*: style choices are intentional and specific
 
-![munari.png](img/munari.png)
+*Please do not use an LLM to write this code for you. LLMs will make generic faces; we are interested in eliciting your own creative work, no matter how basic your skills are. If you do use an LLM for code, you must disclose it in your post.*
 
 ---
 
