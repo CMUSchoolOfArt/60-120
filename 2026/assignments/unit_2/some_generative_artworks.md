@@ -51,7 +51,7 @@ At artblocks.com:
 * [*Ceramics*](https://www.artblocks.io/collection/ceramics-by-charlotte-dann) by Charlotte Dann
 * [*Fidenza*](https://www.artblocks.io/collection/fidenza-by-tyler-hobbs) by Tyler Hobbs
 * [*Fontana*](https://www.artblocks.io/collection/fontana-by-harvey-rayner-%7C-patterndotco) by Harvey Rayner
-* [*Primitives*](https://www.artblocks.io/collection/primitives-by-aranda-lasch) by Aranda\Lasch
+* [*Primitives*](https://www.artblocks.io/collection/primitives-by-arandalasch) by Aranda\Lasch
 * [*Geometry Runners*](https://www.artblocks.io/collection/geometry-runners-by-rich-lord) by Rich Lord
 * [*FAKE IT TILL YOU MAKE IT*](https://www.artblocks.io/collection/fake-it-till-you-make-it-by-maya-man) by Maya Man
 
@@ -75,7 +75,6 @@ At verse.works:
 
 Elsewhere: 
 
-* [*Yafa*](https://www.samiahalaby.com/computer-art.html) by Samia Halaby
 * [*nth culture*](https://deca.art/collection/nth-culture-by-fingacode) by [Fingacode (Junior Ngoma)](https://www.youtube.com/watch?v=2Lero3In5uc)
 * [*Distance*](https://opensea.io/collection/distance-by-william-mapan-lacma) by William Mapan
 * [*Vvttmmnn*](https://www.behance.net/gallery/79529337/vvttmmnn) by Manolo Gamboa Naon
@@ -83,3 +82,5 @@ Elsewhere:
 * [*little boxes on the hillsides, child*](https://www.liaworks.com/theprojects/little-boxes-on-the-hillsides-child/) by Lia
 
 ---
+
+<!-- * [*Yafa*](https://www.samiahalaby.com/computer-art.html) by Samia Halaby -->
