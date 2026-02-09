@@ -148,7 +148,7 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 *Due: Wednesday 2/11 (for Section A) or Thursday 2/12 (for Section B). ~2.5 hours.*
 
-**Study** these whimsical hand-drawn faces by Bruno Munari (from *Design as Art,* 1969). His drawings are highly economical constructions: a few specific marks stand in for eyes, nose, and mouth, yet they cohere immediately as faces through [gestalt perception](https://en.wikipedia.org/wiki/Gestalt_psychology) rather than realistic rendering. Their humor comes from a tension between abstraction and specificity: each face is unmistakably "someone", even though almost nothing descriptive is actually drawn.
+**Study** these whimsical hand-drawn faces by Bruno Munari (from *Design as Art,* 1969). His drawings are highly economical constructions: a few specific marks stand in for eyes, nose, and mouth, yet they cohere immediately as faces through [gestalt perception](https://en.wikipedia.org/wiki/Gestalt_psychology) rather than realistic rendering. Their humor comes from a tension between abstraction and specificity: each face is unmistakably "someone", even though almost nothing conventionally descriptive is actually drawn.
 
 ![faces by Bruno Munari](img/munari.png)
 
