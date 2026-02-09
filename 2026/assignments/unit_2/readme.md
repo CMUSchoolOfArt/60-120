@@ -125,7 +125,7 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 * **Create** a new sketch at OpenProcessing, with a canvas no larger than 600×600px. 
 * **Write** p5.js code to create a single static composition using only the 2D primitive shapes (`ellipse`, `rect`, `line`, `triangle`, `quad`, etc) described [here](https://p5js.org/reference/#Shape). You may use any of these shapes you wish. 
 * **Use** exactly 10 shapes total.
-* **Choose** one self-imposed rule and follow it strictly. Select one of the following rules (or devise your own, if you wish):
+* **Choose** one self-imposed rule and follow it strictly. **Select** *one* of the following rules (or devise your own, if you wish):
 	* All shapes must share one edge or touch at one point.
 	* All shapes are variations of a single proportion.
 	* All shapes align to an invisible grid.
