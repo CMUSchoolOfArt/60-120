@@ -14,7 +14,7 @@
 * `M Feb 02` - [Notes](20260202.md); **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (monograph)
 * `--------`
 * `W Feb 04` - [Notes](20260204.md): Introduction to p5.js
-* `M Feb 09` - **Due**: 2-1, 2-2, 2-3, 2-4, 2-5: Viewings, Readings, & Warmup Exercises
+* `M Feb 09` - [Notes](20260209.md); **Due**: 2-1, 2-2, 2-3, 2-4, 2-5
 * `W Feb 11` - **Due**: 2-6 Face Generator
 * `M Feb 16` - **Due**: 2-7 Pattern: Nested Iteration
 * `W Feb 18` 
