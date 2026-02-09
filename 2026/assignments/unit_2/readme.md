@@ -183,6 +183,27 @@ We now begin an exercise in *procedural character design*. Consider the followin
 * **Write** a sentence to direct our attention. What are you proudest of? 
 * **Write** a sentence listing a few of your face's most important variables (e.g. "nose size; number of pimples", etc.)
 
+<details><summary><strong>Helpful YouTube Tutorials</strong></summary>
+Feeling uncertain? These YouTube tutorials may be helpful. 
+
+**Variables**
+
+* [Variable - Creative Coding with p5.js](https://www.youtube.com/watch?v=xhdIJo8lxWA&list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn&index=5) (Patt Vira)
+* [2.1: Variables in p5.js (mouseX, mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi) (Coding Train)
+* [2.2: Variables in p5.js (Make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi) (Coding Train)
+
+**Conditional Testing**
+
+* [Conditionals (Boolean Expression)](https://www.youtube.com/watch?v=V8aJnrXlGhY&list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn&index=6) (Patt Vira)
+* [Conditionals (If, Else If, Else)](https://www.youtube.com/watch?v=btVdEgjooGE&list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn&index=7) (Patt Vira)
+
+**Iteration**
+
+* [For and While Loops](https://www.youtube.com/watch?v=cnRD9o6odjk&t=1s) (Coding Train)
+* [For Loop - Creative Coding with p5.js](https://www.youtube.com/watch?v=SFAQ9cn5ImE&list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn&index=9) (Patt Vira)
+* [For Loop - p5.js Tutorial](https://www.youtube.com/watch?v=QdGeb0H5idM&list=PLT233rQkMw761t_nQ_6GkejNT1g3Ew4PU&index=12) (Xin Xin)
+</details>
+
 #### Development Notes
 
 In your project, you might have variables that specify the size, position, color, or other visual characteristics of the eyes, nose, and mouth. By randomizing these values, you could vary properties like: the face’s expression (happy, sad, angry); the face’s identity (Chris, Pat, Alex, Sam); or the face’s species (cat, monkey, zombie, alien). (These are just examples.) Give special consideration to controlling the precise shape of face parts, such as the curves of the nose, chin, ears, and jowls, and/or characteristics such as skin color, stubble, hairstyle, blemishes, inter-pupillary distance, facial asymmetry, cephalic index, and prognathism.
