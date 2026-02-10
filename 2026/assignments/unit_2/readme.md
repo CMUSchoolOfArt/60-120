@@ -183,8 +183,13 @@ We now begin an exercise in *procedural character design*. Consider the followin
 * **Write** a sentence to direct our attention. What are you proudest of? 
 * **Write** a sentence listing a few of your face's most important variables (e.g. "nose size; number of pimples", etc.)
 
-<details><summary><strong>Helpful YouTube Tutorials</strong></summary>
-Feeling uncertain? These YouTube tutorials may be helpful. 
+<details><summary><strong>Helpful Tutorials</strong></summary>
+Feeling uncertain? These tutorials may be helpful. 
+
+**Golan's Tutorials at OpenProcessing**
+
+* [**Tutorial on variables**](https://openprocessing.org/sketch/2531328#page-1) (variables, for-loop, if-statement, scoping)
+* [**Tutorial on random compositions**](https://openprocessing.org/sketch/2540323)
 
 **Variables**
 
