@@ -168,8 +168,12 @@ We now begin an exercise in *procedural character design*. Consider the followin
 * Jean-Paul Delahaye, [face generator from *Nouveaux dessins géométriques et artistiques*](img/delahaye_faces_1985.jpg) (1985).
 * Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021 (p5.js)
 * Aditya Jain, [Face Generator](img/aditya_jain_face_generator.gif), 2023 *([original](https://x.com/adityajainart/status/1675563610490413056))*
+* Kate Compton, [Face Generator](img/compton_kate_onethird.png)
+* And [this nice project](https://openprocessing.org/sketch/1361275) (2025)
 
 ![mark_wilson_metaface_dwg_w_comp_p18.png](img/mark_wilson_metaface_dwg_w_comp_p18.png)
+
+[![openprocessing_sketch_1361275.png](img/openprocessing_sketch_1361275.png)](https://openprocessing.org/sketch/1361275)
 
 #### Requirements
 
