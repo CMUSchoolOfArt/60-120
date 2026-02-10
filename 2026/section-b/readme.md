@@ -14,11 +14,11 @@
 * `T Feb 03` - **[Due: 1-7 Unit 1 Main Project](../assignments/unit_1/readme.md)** (Generative AI Book)
 * `--------`
 * `R Feb 05` - [Notes](20260205.md); Intro to p5
-* `T Feb 10` 
-* `R Feb 12` - **Due**: Generative pattern exercise
-* `T Feb 17`
+* `T Feb 10` - [Notes](20260205.md); Work session
+* `R Feb 12` - **Due**: 2-6 Face Generator
+* `T Feb 17` - **Due**: 2-7 Pattern: Nested Iteration
 * `R Feb 19`
-* `T Feb 24` - **Due: Unit 2 Main Project** (Computational Clock)
+* `T Feb 24` - **Due**: 2-8 Computational Clock
 * `--------`
 * `R Feb 26` - Curation Lecture
 * `T Mar 03` - *Spring Break (no session)*
