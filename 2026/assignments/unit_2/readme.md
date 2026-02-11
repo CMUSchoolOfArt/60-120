@@ -178,7 +178,7 @@ We now begin an exercise in *procedural character design*. Consider the followin
 #### Requirements
 
 * In [OpenProcessing](https://openprocessing.org/class/104705/#/c/105113), **create** a p5.js sketch whose canvas is no larger than 600x600 pixels.
-* **Write** code to generate an image of a face or character. Using the recommended code structure below, your sketch should generate a new face whenever the user clicks the mouse button.
+* **Write** code to generate an image of a face or character. Using the recommended code structure below, your sketch should generate a new character whenever the user clicks the mouse button.
   * Your project should be parameterized by **at least three variables**, but preferably more (aim for 5–10). Include at least one *discrete* parameter (such as a variable that controls the number of eyeballs, or the presence or absence of a hat), and one *continuous* parameter (such as a variable that controls the size, position, and/or color of features).
   * Your project should include at least one **grounding cue**, such as a background shape or color, neck/shoulders, or a simple prop. Keep it minimal.
 * **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105113).
@@ -254,7 +254,7 @@ We will evaluate your generator based on considerations including its:
 
 ![freeke.png](img/freeke.png)
 
-*Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
+> *Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
 
 In this project, you are asked to write code to generate “infinite” variations of a tiling pattern or repetitive textural composition, as for wallpaper or fabric. Your pattern should be designed so that it could be infinitely tiled or extended. Design something you would like to put on the walls or floor of your home, or that you might imagine yourself wearing. (Images by [Saskia Freeke](https://sasj.nl/portfolio/).)
 
