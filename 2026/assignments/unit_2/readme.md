@@ -238,11 +238,10 @@ function mousePressed(){
 }
 ```
 
-We will evaluate your generator based on considerations including its:
+If you're curious, [**here are a few face generators**](student_face_generators.md) made by previous students from this course. We will evaluate your generator based on considerations including its:
 
-* *Range*: produces clearly different faces across clicks
-* *Coherence*: features remain face-like across clicks
-* *Authorship*: style choices are intentional and specific
+* *Range*: produces meaningfully different faces across clicks (it's not oatmeal).
+* *Authorship*: style choices are intentional and specific (only *you* could have made this).
 
 *Please do not use an LLM to write this code for you. LLMs will make generic faces; we are interested in eliciting your own creative work, no matter how basic your skills are. If you do use an LLM for code, you must disclose it in your post.*
 
