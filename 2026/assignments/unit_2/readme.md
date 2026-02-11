@@ -166,7 +166,7 @@ We now begin an exercise in *procedural character design*. Consider the followin
 
 * Mark Wilson, [Meta-Face](http://mgwilson.com/Drawing%20with%20Computers.pdf) (1985): One of the earliest face generators I could find, pictured below.
 * Jean-Paul Delahaye, [face generator from *Nouveaux dessins géométriques et artistiques*](img/delahaye_faces_1985.jpg) (1985).
-* Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021 (p5.js)
+* Shunsuke Takawo, [Face Generator](https://openprocessing.org/sketch/1207768), 2021 (p5.js), and [another](https://openprocessing.org/sketch/2333020)
 * Aditya Jain, [Face Generator](img/aditya_jain_face_generator.gif), 2023 *([original](https://x.com/adityajainart/status/1675563610490413056))*
 * Kate Compton, [Face Generator](img/compton_kate_onethird.png)
 * And [this nice project](https://openprocessing.org/sketch/1361275) (2025)
@@ -249,7 +249,7 @@ If you're curious, [**here are a few face generators**](student_face_generators.
 
 ## 2.7. Pattern: Nested Iteration
 
-*Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~3 hours.*
+*Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~4 hours.*
 
 ![freeke.png](img/freeke.png)
 
@@ -257,11 +257,7 @@ If you're curious, [**here are a few face generators**](student_face_generators.
 
 In this project, you are asked to write code to generate “infinite” variations of a tiling pattern or repetitive textural composition, as for wallpaper or fabric. Your pattern should be designed so that it could be infinitely tiled or extended. Design something you would like to put on the walls or floor of your home, or that you might imagine yourself wearing. (Images by [Saskia Freeke](https://sasj.nl/portfolio/).)
 
-*Additional details TBA.*
-
-<!-- 
-
-* In OpenProcessing, **create** a new sketch which uses the full screen.
+* In OpenProcessing, **create** a new sketch which fills the full screen, using `createCanvas(windowWidth, windowHeight)`. 
 * **Write** code that renders a simple, small visual motif. You may use any colors and shapes you please. You may work abstractly, or you can design a motif such as a leaf, flower, etc.
 Using “nested iteration”, write additional code that renders this motif numerous times, as in a grid.
 * **Add** some randomness so that each repeat of the motif is slightly different from the others.
@@ -280,7 +276,6 @@ Using “nested iteration”, write additional code that renders this motif nume
 * Give attention to *color*. Feel free to use a palette creator, a palette extraction tool, etc.
 * *Randomness*. Give consideration to the depth of variation in your pattern, and how randomness shapes the design. After how many viewings does your pattern become predictable? How might you forestall this as long as possible? At least 3 different parameters must be subject to variation.
 
--->
 
 ---
 
