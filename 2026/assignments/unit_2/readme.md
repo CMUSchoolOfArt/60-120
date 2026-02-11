@@ -249,45 +249,57 @@ If you're curious, [**here are a few face generators**](student_face_generators.
 
 ## 2.7. Pattern Generator
 
+*Five Parts. Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~4 hours.*
+
 ![freeke.png](img/freeke.png)
 
 
-*Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~4 hours.*
-
-### This Assignment has 5 Parts!
-
-The first four parts ([2.7.A](https://openprocessing.org/class/104705/#/c/105301), [2.7.B](https://openprocessing.org/class/104705/#/c/105299), [2.7.C](https://openprocessing.org/class/104705/#/c/105302), and [2.7.D](https://openprocessing.org/class/104705/#/c/105300)) are brief technical exercises. These will help you develop the skills you'll need to execute the main creative project, **2.7.E Pattern Generator.**
-
-1. [2.7.A. Exercise: Lines to the Cursor](https://openprocessing.org/class/104705/#/c/105301) (10 minutes)
-2. [2.7.B. Exercise: Transitioning Rectangles](https://openprocessing.org/class/104705/#/c/105299) (20 minutes)
-3. [2.7.C. Exercise: Iteration & Positioning](https://openprocessing.org/class/104705/#/c/105302) (15 minutes)
-4. [2.7.D. Exercise: Nested Iteration & Randomness](https://openprocessing.org/class/104705/#/c/105300) (20 minutes)
-5. [**2.7.E. Pattern Generator**](https://openprocessing.org/class/104705/#/c/105115) (3 hours)
+Pattern is a way of organizing repetition and variation. Across textiles, architecture, ornament, and computation, patterns emerge from rules that are applied repeatedly. In this project, you will write code that generates an **infinitely extendable pattern**—like wallpaper, fabric, or tile—using iteration, structure, and controlled variation. Your pattern should feel **designed**, not merely repeated.
 
 
-> *Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
+### What you are making
 
-In this project, you are asked to write code to generate “infinite” variations of a tiling pattern or repetitive textural composition, as for wallpaper or fabric. Your pattern should be designed so that it could be infinitely tiled or extended. Design something you would like to put on the walls or floor of your home, or that you might imagine yourself wearing. (Images by [Saskia Freeke](https://sasj.nl/portfolio/).)
+Create a full-screen p5.js sketch that:
 
-* **Warm up** by completing the four brief technical exercises, [2.7.A](https://openprocessing.org/class/104705/#/c/105301), [2.7.B](https://openprocessing.org/class/104705/#/c/105299), [2.7.C](https://openprocessing.org/class/104705/#/c/105302), and [2.7.D](https://openprocessing.org/class/104705/#/c/105300). These should hopefully take you less than an hour. 
-* In OpenProcessing, **create** a new sketch which fills the full screen, using `createCanvas(windowWidth, windowHeight)`. 
-* **Write** code that renders one or more simple, small visual motif(s). You may use any colors and shapes you please. You may work abstractly, or you can design a motif such as a leaf, flower, etc.
-Using “nested iteration”, write additional code that renders your motif(s) numerous times, as in a patterned grid.
-* **Add** some randomness so that each repeat of the motif is slightly different from the others.
-* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105115). 
-* **Post** a screenshot to the Discord channel, `#2-7-pattern`. 
-* **Write** a sentence to describe your goals, approach, challenges, and/or experience.
+* Defines one or more small visual motifs
+* Repeats them using nested iteration (using a grid structure or other rhythmic pattern)
+* Uses controlled randomness so each instance is related but not identical
+* Could plausibly be tiled or extended forever without a visible “edge”
 
-**Give consideration to:**
+Design something you could imagine living with: on a wall, a floor, or a garment.
 
-* *Symmetry*, whether achieved through reflection or rotation. Experiment with 2D graphics transformations, such as rotation, scaling, and mirror reflections
-* *Rhythm*. Try using nested iteration to develop 2D patterns or other gridlike structures
-* *Positive vs. negative space*
-* *Foreground*, middle-ground, and background “layers”
-* *Detail at multiple scales*, i.e., variation at the macro-scale, meso-scale, and micro-scale.
-* The *potential for surprise* through the placement of infrequent features
-* Give attention to *color*. Feel free to use a palette creator, a palette extraction tool, etc.
-* *Randomness*. Give consideration to the depth of variation in your pattern, and how randomness shapes the design. After how many viewings does your pattern become predictable? How might you forestall this as long as possible? At least 3 different parameters must be subject to variation.
+### Required steps
+
+* **Complete** warm-up exercises 2.7.A–2.7.D before starting the main project: 
+	1. [2.7.A. Exercise: Lines to the Cursor](https://openprocessing.org/class/104705/#/c/105301) (10 minutes)
+	2. [2.7.B. Exercise: Transitioning Rectangles](https://openprocessing.org/class/104705/#/c/105299) (20 minutes)
+	3. [2.7.C. Exercise: Iteration & Positioning](https://openprocessing.org/class/104705/#/c/105302) (15 minutes)
+	4. [2.7.D. Exercise: Nested Iteration & Randomness](https://openprocessing.org/class/104705/#/c/105300) (20 minutes)
+* **Create** a new OpenProcessing sketch using `createCanvas(windowWidth, windowHeight)`
+* **Write** code that:
+	* Draws your motif(s)
+	* Repeats them using nested loops
+	* Varies at least three meaningful parameters (not just position jitter)
+* Upload your sketch to the correct OpenProcessing collection, [**2.7.E. Pattern Generator**](https://openprocessing.org/class/104705/#/c/105115)
+* **Post** a screenshot in the Discord channel `#2-7-pattern`
+* In your post, **write** one sentence describing your goals or approach.
+
+### Design expectations (read carefully)
+
+Your pattern should demonstrate **intentional structure**. Give consideration to:
+
+* **Repetition vs. variation** — What stays consistent? What changes? Why?
+* **Rhythm and spacing** — Regular, irregular, alternating, clustered
+* **Figure and ground** — How shapes relate to empty space
+* **Scale** — Variation at more than one level (overall layout vs. local detail)
+* **The potential for surprise** through the placement of infrequent features
+* **Attention to color**. Feel free to use a palette creator, a palette extraction tool, etc.
+* **Constrained Randomness**. Give consideration to the depth of variation in your pattern, and how randomness shapes the design. After how many viewings does your pattern become predictable? How might you forestall this as long as possible?
+
+Avoid patterns that are just:
+
+* Uniform grids of identical shapes
+* Random noise without structure
 
 
 ---
