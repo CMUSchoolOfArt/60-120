@@ -23,7 +23,7 @@ Due Wednesday **2/11** (for Section A) or Thursday **2/12** (for Section B):
 
 Due Monday **2/16** (for Section A) or Tuesday **2/17** (for Section B): 
 
-* [2.7. Pattern: Nested Iteration](#27-pattern-nested-iteration) *(3h)*
+* [2.7. Pattern Generator](#27-pattern-generator) *(4h)*
 
 Due Monday **2/23** (for Section A) or Tuesday **2/24** (for Section B): 
 
@@ -247,21 +247,34 @@ If you're curious, [**here are a few face generators**](student_face_generators.
 
 ---
 
-## 2.7. Pattern: Nested Iteration
+## 2.7. Pattern Generator
+
+![freeke.png](img/freeke.png)
+
 
 *Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~4 hours.*
 
-![freeke.png](img/freeke.png)
+### This Assignment has 5 Parts!
+
+The first four parts ([2.7.A](https://openprocessing.org/class/104705/#/c/105301), [2.7.B](https://openprocessing.org/class/104705/#/c/105299), [2.7.C](https://openprocessing.org/class/104705/#/c/105302), and [2.7.D](https://openprocessing.org/class/104705/#/c/105300)) are brief technical exercises. These will help you develop the skills you'll need to execute the main creative project, **2.7.E Pattern Generator.**
+
+1. [2.7.A. Exercise: Lines to the Cursor](https://openprocessing.org/class/104705/#/c/105301) (10 minutes)
+2. [2.7.B. Exercise: Transitioning Rectangles](https://openprocessing.org/class/104705/#/c/105299) (20 minutes)
+3. [2.7.C. Exercise: Iteration & Positioning](https://openprocessing.org/class/104705/#/c/105302) (15 minutes)
+4. [2.7.D. Exercise: Nested Iteration & Randomness](https://openprocessing.org/class/104705/#/c/105300) (20 minutes)
+5. [**2.7.E. Pattern Generator**](https://openprocessing.org/class/104705/#/c/105115) (3 hours)
+
 
 > *Pattern is the starting point from which we perceive and impose order in the world. Examples of functional, decorative, and expressive pattern-making date from ancient times and take the form of mosaics, calendars, tapestry, quilting, jewelry, calligraphy, furniture, and architecture. There is an intimate connection between pattern design, visual rhythm, geometry, mathematics, and iterative algorithms. This assignment invites you to hone your understanding of these relationships in formal terms.*
 
 In this project, you are asked to write code to generate “infinite” variations of a tiling pattern or repetitive textural composition, as for wallpaper or fabric. Your pattern should be designed so that it could be infinitely tiled or extended. Design something you would like to put on the walls or floor of your home, or that you might imagine yourself wearing. (Images by [Saskia Freeke](https://sasj.nl/portfolio/).)
 
+* **Warm up** by completing the four brief technical exercises, [2.7.A](https://openprocessing.org/class/104705/#/c/105301), [2.7.B](https://openprocessing.org/class/104705/#/c/105299), [2.7.C](https://openprocessing.org/class/104705/#/c/105302), and [2.7.D](https://openprocessing.org/class/104705/#/c/105300). These should hopefully take you less than an hour. 
 * In OpenProcessing, **create** a new sketch which fills the full screen, using `createCanvas(windowWidth, windowHeight)`. 
-* **Write** code that renders a simple, small visual motif. You may use any colors and shapes you please. You may work abstractly, or you can design a motif such as a leaf, flower, etc.
-Using “nested iteration”, write additional code that renders this motif numerous times, as in a grid.
+* **Write** code that renders one or more simple, small visual motif(s). You may use any colors and shapes you please. You may work abstractly, or you can design a motif such as a leaf, flower, etc.
+Using “nested iteration”, write additional code that renders your motif(s) numerous times, as in a patterned grid.
 * **Add** some randomness so that each repeat of the motif is slightly different from the others.
-* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/95759/#/c/96712). 
+* **Upload** your project to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105115). 
 * **Post** a screenshot to the Discord channel, `#2-7-pattern`. 
 * **Write** a sentence to describe your goals, approach, challenges, and/or experience.
 
