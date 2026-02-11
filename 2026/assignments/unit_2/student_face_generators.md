@@ -1,6 +1,6 @@
 # Some Previous Student Face Generators
 
-Here are some screen recordings of face generators created by previous CMU School of Art students from this course (60-120), 2023-2025. 
+Here are a few screen recordings of face generators created by previous CMU School of Art students for this assignment (in 60-120), 2023–2025. 
 
 ---
 
