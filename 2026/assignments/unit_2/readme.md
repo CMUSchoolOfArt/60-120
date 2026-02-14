@@ -263,7 +263,7 @@ Create a full-screen p5.js sketch that:
 
 * Defines one or more small visual motifs
 * Repeats them using nested iteration (using a grid structure or other rhythmic pattern)
-* Uses controlled randomness so each instance is related but not identical
+* Creates variation across the pattern using controlled randomness
 * Could plausibly be tiled or extended forever without a visible “edge”
 
 Design something you could imagine living with: on a wall, a floor, or a garment.
@@ -278,7 +278,7 @@ Design something you could imagine living with: on a wall, a floor, or a garment
 * **Create** a new OpenProcessing sketch using `createCanvas(windowWidth, windowHeight)`
 * **Write** code that:
 	* Draws your motif(s)
-	* Repeats them using nested loops
+	* Repeats them using nested loops, with occasional variation
 	* Varies at least three meaningful parameters (not just position jitter)
 * Upload your sketch to the correct OpenProcessing collection, [**2.7.E. Pattern Generator**](https://openprocessing.org/class/104705/#/c/105115)
 * **Post** a screenshot in the Discord channel `#2-7-pattern`
@@ -288,15 +288,15 @@ Design something you could imagine living with: on a wall, a floor, or a garment
 
 Your pattern should demonstrate **intentional structure**. Give consideration to:
 
-* **Repetition vs. variation** — What stays consistent? What changes? Why?
+* **Repetition vs. variation** — What stays consistent across the pattern? What changes? Why?
 * **Rhythm and spacing** — Regular, irregular, alternating, clustered
 * **Figure and ground** — How shapes relate to empty space
-* **Scale** — Variation at more than one level (overall layout vs. local detail)
-* **The potential for surprise** through the placement of infrequent features
+* **Scale** — Variation at more than one level of detail (overall layout vs. local detail)
+* **The potential for surprise** through the placement of infrequent features in the pattern
 * **Attention to color**. Feel free to use a palette creator, a palette extraction tool, etc.
 * **Constrained Randomness**. Give consideration to the depth of variation in your pattern, and how randomness shapes the design. After how many viewings does your pattern become predictable? How might you forestall this as long as possible?
 
-Avoid patterns that are just:
+**Avoid** patterns that are merely:
 
 * Uniform grids of identical shapes
 * Random noise without structure
