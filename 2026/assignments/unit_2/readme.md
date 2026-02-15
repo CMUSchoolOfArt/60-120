@@ -247,7 +247,7 @@ If you're curious, [**here are a few face generators**](student_face_generators.
 
 ---
 
-## 2.7. Pattern Generator
+# 2.7. Pattern Generator
 
 *Five Parts. Due Monday 2/16 (for Section A) or Tuesday 2/17 (for Section B). ~4 hours.*
 
@@ -262,11 +262,11 @@ Pattern is a way of organizing repetition and variation. Across textiles, archit
 Create a full-screen p5.js sketch that:
 
 * Defines one or more small visual motifs
-* Repeats them using nested iteration (using a grid structure or other rhythmic pattern)
+* Repeats them using nested iteration (using a 2D grid structure or other rhythmic pattern)
 * Creates variation across the pattern using controlled randomness
 * Could plausibly be tiled or extended forever without a visible “edge”
 
-Design something you could imagine living with: on a wall, a floor, or a garment.
+Design something you could imagine living with: on a wall (like wallpaper), a floor (like tiles), or a garment (like a textile pattern).
 
 ### Required steps
 
