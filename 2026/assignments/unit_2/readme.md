@@ -27,12 +27,12 @@ Due Monday **2/16** (for Section A) or Tuesday **2/17** (for Section B):
 
 Due Monday **2/23** (for Section A) or Tuesday **2/24** (for Section B): 
 
-* [2.8. Clocks](#28-clocks) *(5h)*
+* [2.8. Two Clocks](#28-two-clocks) *(5h)*
 
 
 ---
 
-## 2.1. Orientation
+# 2.1. Orientation
 
 Before the end of class on February 4th/5th, please make sure to have done the following:
 
@@ -59,7 +59,7 @@ Before the end of class on February 4th/5th, please make sure to have done the f
 
 ---
 
-## 2.2. Looking Outwards: Generative Art
+# 2.2. Looking Outwards: Generative Art
 
 ![William Mapan (detail)](img/mapan.jpg)
 
@@ -78,7 +78,7 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ---
 
-## 2.3. Reading-Response: Artist Narratives
+# 2.3. Reading-Response: Artist Narratives
 
 ![Vera Molnar's 'Letters from My Mother'](img/molnar_letters.jpg)
 
@@ -104,7 +104,7 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 ---
 
 
-## 2.4. Reading-Response: Effective Complexity and The Oatmeal Problem
+# 2.4. Reading-Response: Effective Complexity and The Oatmeal Problem
 
 ![Kate Compton](img/compton.png)
 
@@ -118,7 +118,7 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ---
 
-## 2.5. Warmup Exercise: Ten Shapes, One Rule
+# 2.5. Warmup Exercise: Ten Shapes, One Rule
 
 *Due: Monday 2/9 (for Section A) or Tuesday 2/10 (for Section B). ~45 minutes.*
 
@@ -144,7 +144,7 @@ In this exercise, you'll look at some artworks, and make a brief post about one 
 
 ---
 
-## 2.6. Face Generator
+# 2.6. Face Generator
 
 *Due: Wednesday 2/11 (for Section A) or Thursday 2/12 (for Section B). ~2.5 hours.*
 
@@ -266,7 +266,7 @@ Create a full-screen p5.js sketch that:
 * Creates variation across the pattern using controlled randomness
 * Could plausibly be tiled or extended forever without a visible “edge”
 
-Design something you could imagine living with: on a wall (like wallpaper), a floor (like tiles), or a garment (like a textile pattern).
+Design something you could imagine living with, for example, on a wall (like wallpaper), a floor (like a tiling pattern), a garment (like a textile pattern), or as wrapping paper for a gift. 
 
 ### Required steps
 
@@ -304,89 +304,96 @@ Your pattern should demonstrate **intentional structure**. Give consideration to
 
 ---
 
-## 2.8. Clocks
+# 2.8. Two Clocks
 
-*Due Monday 2/23 (for Section A) or Tuesday 2/24 (for Section B). ~5 hours.*
+*Due Monday 2/23 (for Section A) or Tuesday 2/24 (for Section B). ~7 hours.*
 
 ![banded_clock.gif](img/banded_clock.gif)
 
-The dynamic control of visual media over time is a core concern in new media arts. In this project, you are asked to create visualizations that display novel or unconventional representations of the time. This work is due at the beginning of class on 2/23 or 2/24.
+In this project, you are asked to create **two clocks**: one visualization that displays a **traditional** representation of the time, and another that displays an **unconventional** representation of time. In support of this, there are also some viewings and readings. This set of projects is due at the beginning of class on **2/23 or 2/24** and project has **4 main components**: 
 
-This project has **4 main components**: 
+* **2.8.A.** *(15 minutes; 10%)* **[Looking Outwards](#2-8-a-looking-outwards)**
+* **2.8.B.** *(60 minutes; 10%)* **[Readings and Viewings](#2-8-b-readings-and-viewings)**
+* **2.8.C.** *(2 hours; 30%)* **[Make A Traditional (Digital or Analog) Clock](#2-8-c-make-a-traditional-digital-or-analog-clock)**
+* **2.8.D.** *(4 hours; 50%)* **[Make An Unconventional Clock](#2-8-d-make-an-unconventional-clock)**
 
-* **2.8.A.** *(15 minutes; 5%)* **[Looking Outwards](#2-8-a-looking-outwards)**
-* **2.8.B.** *(60 minutes; 10%)* **[Readings and Viewings](#42-readings-and-viewings)**
-* **2.8.C.** *(9 hours; 80%)* **[Make A Conventional Clock](#43-make-three-clocks)**
-4. *(15 minutes, 5%)* **[Document Your Work](#document-your-work)**
+The dynamic control of visual media over time is a core concern in new media arts. The learning objectives of this project are:
 
-The learning objectives of this project are:
-
+* To refine your craft skills in the use of code to govern a spatiotemporal design, by effectively and expressively controlling shape, color, form, type, and motion.
 * To devise technologies and graphic concepts for representing time that go beyond conventional methods of visualization and mediation.
-* To refine your craft skills in the use of code to govern a spatiotemporal design, by effectively and expressively controlling shape, color, form, and motion.
 * To become acquainted with the history of systems and devices for timekeeping.
 
 ---
 
 ### 2.8.A. Looking Outwards
 
-*(15 minutes; 5%)* **Browse** the timepieces listed in this [**Lecture on Clocks**](https://github.com/golanlevin/lectures/tree/master/lecture_clock) directory. Now, in the `#2-8-looking-outwards` Discord channel, **write** a couple of sentences about a clock that you find particularly memorable. Why does it stick with you?
+![history-of-calendar.jpg](img/history-of-calendar.jpg)
+
+*(15 minutes; 10%)* **Browse** the timepieces listed in this [**Lecture on Clocks**](https://github.com/golanlevin/lectures/tree/master/lecture_clock) repository. *Now,*
+
+* **Create** a post in the `#2-8-looking-outwards` Discord channel.
+* **Write** a couple of sentences about a clock that you find particularly memorable. How would you explain it to someone who hasn't seen it? Why does it stick with you? 
 
 ---
 
 ### 2.8.B. Readings and Viewings
 
-*(60 minutes; 10%)* You are asked to enrich your understanding of clocks and timekeeping by **reviewing** the following resources. These readings and viewings should take less an hour.
+![stonehenge.jpg](img/stonehenge.jpg)
 
-![history-of-calendar.jpg](../../2024/assignments/images/history-of-calendar.jpg)
+*(<60 minutes; 10%)* You are asked to enrich your understanding of clocks and timekeeping by **reviewing** the following resources. These readings and viewings should take less an hour.
 
-<!--
-Attempts to mark time stretch back many thousands of years, with some of the earliest timekeeping technologies being gnomons, sundials, water clocks, and lunar calendars. Even today’s standard representation of time, with hours and minutes divided into 60 parts, is a legacy inherited from the ancient Sumerians, who used a sexagesimal counting system.
+Attempts to mark time stretch back many thousands of years, with some of the earliest timekeeping technologies being gnomons, sundials, water clocks, and lunar calendars. Even today’s standard representation of time, with hours and minutes divided into 60 parts, is a legacy inherited from the ancient Sumerians, who used a sexagesimal counting system. The history of timekeeping is a history driven by economic and militaristic desires for greater precision, accuracy, and synchronization. Every increase in our ability to precisely measure time has had a profound impact on science, agriculture, navigation, communications, and, as always, warcraft.
 
-The history of timekeeping is a history driven by economic and militaristic desires for greater precision, accuracy, and synchronization. Every increase in our ability to precisely measure time has had a profound impact on science, agriculture, navigation, communications, and, as always, warcraft.
+To expand your familiarity with timekeeping, **review** the following **5** resources:
 
-Despite the widespread adoption of technological standards, there are many other ways to understand time. *Psychological* time contracts and expands with attention; *biological* cycles affect our moods and behavior; *ecological* time is observed in species and resource dynamics; *geological* and *astronomical* rhythms can span millennia. In the twentieth century, Einstein’s theory of relativity further upended our understanding of time, showing that it does not flow in a constant way, but rather in relation to the position from which it is measured—a possibly surprising return to the significance of the observer.
-
--->
-
-Please **review** the following **5** resources:
-
-* Please **read** this this [**5-page PDF about timekeeping**](../../../readings/drucker_timekeeping.pdf) by design theorist Johanna Drucker, from her book *Graphesis: Visual Forms of Knowledge Production* (Harvard Press, 2014).
+* **Read** this this [**5-page PDF about timekeeping**](../../../readings/drucker_timekeeping.pdf) by design theorist Johanna Drucker, from her book *Graphesis: Visual Forms of Knowledge Production* (Harvard Press, 2014).
 * **Browse** or **skim** the [**Wikipedia History of Timekeeping Devices**](https://en.wikipedia.org/wiki/History_of_timekeeping_devices).
 * **Review** the information at [**https://yourcalendricalfallacyis.com/**](https://yourcalendricalfallacyis.com/). (It’s awesome!)
 * In case you missed it in class, please **watch** this excellent 6-minute YouTube video on the [**History of Timekeeping Devices**](https://www.youtube.com/watch?v=SsULOvIWSUo).
 * In case you missed it in class, please **watch** the first 13 minutes of [**A Brief History of the Calendar and Timekeeping**](https://www.youtube.com/watch?v=OaYMK2n9Aow&t=4s), a YouTube lecture by [Dr. Donna Carroll](https://www.maastrichtuniversity.nl/dl-carroll), Lecturer of Physics, Maastricht University.
 
-*Now:* In a Discord post in the `#2-8-b-time-readings` channel, please **write** two sentences about something that stuck with you from any of these readings or viewings. What did you see, read or learn that was interesting? Why was it interesting to you?
+*Now:* 
+
+* **Create** a Discord post in the `#2-8-readings` channel. 
+* **Write** two sentences about something that stuck with you from any of these readings or viewings. What did you see, read or learn that was interesting? Why was it interesting to you?
 
 ---
 
-## 43. Make Three Clocks
+### 2.8.C. Make A Traditional (Digital or Analog) Clock
 
-![proposals-for-clocks_horvitz.jpg](../../2024/assignments/images/proposals-for-clocks_horvitz.jpg)<br />*“Proposals for Clocks” by David Horvitz*
+![analog-clocks](img/analog-clocks.png)
 
-*(9 hours; 80%)* In OpenProcessing, make three different clocks: 
+*(2 hours; 30%)* In OpenProcessing, make a timepiece in which you **creatively interpret** a conventional strategy for representing the time — such as a **"digital clock"** (which displays the current time using Arabic, Roman, or Chinese numerals), or an **"analog clock"** (which presents the current time using the changing positions of rotating indicators. This project can be a good opportunity to experiment with self-made type design or dynamic typography. **Give** your project a personal twist, and **be prepared** to explain why you approached the problem the way you did. 
 
-* **A**. *(20%)* One clock which is "digital", and presents the current time in an appealing way using *numbers* — for example: Arabic, Roman, or Chinese numerals. (This can be an opportunity to experiment with self-made type design or dynamic typography.)
-* **B**. *(20%)* One clock which is "analog", and presents the current time in an appealing way using the changing positions of (for example) rotating indicators.
-* **C**. *(40%)* One clock which is entirely of your own design, which makes the time legible in a new way (through means other than numbers or a traditional clock face). For example, you might visualize numeric bit patterns, or use iteration to present countable graphic elements.
+[The sketch below](https://openprocessing.org/sketch/2018166) demonstrates how to use the p5.js basic time functions, [hour()](https://archive.p5js.org/reference/#/p5/hour), [minute()](https://archive.p5js.org/reference/#/p5/minute), [second()](https://archive.p5js.org/reference/#/p5/second), and [millis()](https://archive.p5js.org/reference/#/p5/millis). There are also many good tutorials you can follow (such as Coding Train's [clock tutorial](https://www.youtube.com/watch?v=E4RyStef-gY), Patt Vira's [clock tutorial](https://www.youtube.com/watch?v=3Aa8CzklS6c), or Xin Xin's [clock tutorial](https://www.youtube.com/watch?v=JgLlQPF22Gw)), but be sure to make the work your own.
 
-Each timepiece should appear different at all times of the day, and should (probably) repeat its appearance every 24 hours (or other relevant cycle, if desired). You will probably want to use the *[hour()](https://archive.p5js.org/reference/#/p5/hour), [minute()](https://archive.p5js.org/reference/#/p5/minute), [second()](https://archive.p5js.org/reference/#/p5/second)*, and *[millis()](https://archive.p5js.org/reference/#/p5/millis)* functions, but you’re also welcome to use *[day()](https://archive.p5js.org/reference/#/p5/day), [month()](https://archive.p5js.org/reference/#/p5/month)*, and *[year()](https://archive.p5js.org/reference/#/p5/year)* functions in order to build a clock that evolves over longer timescales. If your timepiece measures other phenomena, that’s fine too. You may choose the dimensions and aspect ratio of each clock as necessary, including fullscreen clocks. If your laptop screen does not inspire you, feel free to design a prototype clock display intended for a different display, such as a smart-watch or a public outdoor LED screen.
+[![clock demo](img/clock-demo.gif)](https://openprocessing.org/sketch/2018166)
+
+*Now,*
+
+* **Upload** your clock to the correct [OpenProcessing collection]().
+* **Create** a post in the Discord channel, `2-8-traditional-clock`.
+* **Embed** one or more images of your clock. You may wish to show what it looks like at different times of day. If your clock involves animation in a special way, embed an animated GIF.
+* **Write** a couple sentences that describe your clock. **Write** another few sentences reflecting on your experience making this work (what was successful, what was a struggle, what did you learn).
+
+[![clock-tuts](img/clock-tuts.jpg)](https://www.youtube.com/watch?v=E4RyStef-gY)
+
+
+---
+
+### 2.8.D. Make An Unconventional Clock
+
+![proposals-for-clocks by davis horvitz](img/proposals-for-clocks_horvitz.jpg)
+
+*(4 hours; 50%)* In OpenProcessing, **create** a novel timepiece which is entirely of your own design. It should make time legible in a new way — through means *other than* numbers or a traditional clock face. For example, you might visualize numeric bit patterns, or display countable elements, or present the time using poetic language.
+
+Your timepiece should (probably) appear different at all times of the day, and should (probably) repeat its appearance every 24 hours (or other relevant cycle, if desired). You may wish to use the [day()](https://archive.p5js.org/reference/#/p5/day), [month()](https://archive.p5js.org/reference/#/p5/month), and [year()](https://archive.p5js.org/reference/#/p5/year) functions in order to build a clock that evolves over longer timescales. If your timepiece measures other phenomena, that’s fine too. You may choose the display dimensions for your clock as necessary, including the possibility of being fullscreen. If your laptop screen does not inspire you, feel free to make your clock be a "prototype" intended for a different display, such as a smart-watch or a public outdoor LED screen.
 
 You are encouraged to **question** basic assumptions about which kind of time is represented, and how. **Consider** things like biological time ([chronobiology](https://en.wikipedia.org/wiki/Chronobiology)), [ultradian rhythms](https://en.wikipedia.org/wiki/Ultradian_rhythm) and [infradian rhythms](https://en.wikipedia.org/wiki/Infradian_rhythm), solar and lunar cycles, celestial time, geological time, decimal time, historical time, [psychological time](http://cpl.revues.org/4998), and subjective time. (This list is not exclusive or exhaustive.) Remember to **sketch** first in your paper sketchbook. At the top of your code for each timepiece, **add a comment** which explains that project. For example, you might explain what your timepiece displays, or how to read it, or how it works.
 
-[This sketch](https://openprocessing.org/sketch/2018166) demonstrates how to use the p5.js basic time functions:<br />[![clock demo](../../2024/assignments/images/clock-demo.gif)](https://openprocessing.org/sketch/2018166)
+* **Upload** your clock to the correct [OpenProcessing collection]().
+* **Create** a post in the Discord channel, `2-8-novel-clock`.
+* **Embed** one or more images of your clock in the Discord post. You may wish to show what your clock looks like at different times of day. If your clock involves animation in a special way, embed an animated GIF.
+* **Write** a couple sentences that describe your clock (what is the concept, how is it made, how is a person meant to experience it). **Write** another few sentences reflecting on your experience making this work (what was successful, what was a struggle, what did you learn).
 
-Here are some potentially helpful clock tutorials on YouTube: 
-
-* Coding Train's [clock tutorial](https://www.youtube.com/watch?v=E4RyStef-gY)
-* Patt Vira's [clock tutorial](https://www.youtube.com/watch?v=3Aa8CzklS6c)
-* Xin Xin's [clock tutorial](https://www.youtube.com/watch?v=JgLlQPF22Gw)
-
-### Document Your Work
-
-*(15 minutes, 5%)* In one or more Discord posts in the channel `#43-clocks`, concisely describe your three clocks.
-
-**Embed** one or more images of each clock. Show what it looks like or how it behaves at different times of day. If a clock involves animation in a special way, embed an animated GIF.
-
-**Write** a couple sentences that describes each clock (what is the concept, how is it made, how is a person meant to experience it). **Write** another few sentences reflecting on your experience making this work (what was successful, what was a struggle, what did you learn).
-
+---
