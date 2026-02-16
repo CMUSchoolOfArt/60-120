@@ -308,14 +308,15 @@ Your pattern should demonstrate **intentional structure**. Give consideration to
 
 *Due Monday 2/23 (for Section A) or Tuesday 2/24 (for Section B). ~7 hours.*
 
-![banded_clock.gif](img/banded_clock.gif)
+[![banded_clock.gif](img/banded_clock.gif)](https://openprocessing.org/sketch/503941)
 
 In this project, you are asked to create **two clocks**: one visualization that displays a **traditional** representation of the time, and another that displays an **unconventional** representation of time. In support of this, there are also some viewings and readings. This set of projects is due at the beginning of class on **2/23 or 2/24** and project has **4 main components**: 
 
-* **2.8.A.** *(15 minutes; 10%)* **[Looking Outwards](#2-8-a-looking-outwards)**
-* **2.8.B.** *(60 minutes; 10%)* **[Readings and Viewings](#2-8-b-readings-and-viewings)**
-* **2.8.C.** *(2 hours; 30%)* **[Make A Traditional (Digital or Analog) Clock](#2-8-c-make-a-traditional-digital-or-analog-clock)**
-* **2.8.D.** *(4 hours; 50%)* **[Make An Unconventional Clock](#2-8-d-make-an-unconventional-clock)**
+
+* **2.8.A.** *(15 minutes; 10%)* **[Looking Outwards](#28a-looking-outwards)**
+* **2.8.B.** *(60 minutes; 10%)* **[Readings and Viewings](#28b-readings-and-viewings)**
+* **2.8.C.** *(2 hours; 30%)* **[Make A Traditional (Digital or Analog) Clock](#28c-make-a-traditional-digital-or-analog-clock)**
+* **2.8.D.** *(4 hours; 50%)* **[Make An Unconventional Clock](#28d-make-an-unconventional-clock)**
 
 The dynamic control of visual media over time is a core concern in new media arts. The learning objectives of this project are:
 
@@ -371,7 +372,7 @@ To expand your familiarity with timekeeping, **review** the following **5** reso
 
 *Now,*
 
-* **Upload** your clock to the correct [OpenProcessing collection]().
+* **Upload** your clock to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105116).
 * **Create** a post in the Discord channel, `2-8-traditional-clock`.
 * **Embed** one or more images of your clock. You may wish to show what it looks like at different times of day. If your clock involves animation in a special way, embed an animated GIF.
 * **Write** a couple sentences that describe your clock. **Write** another few sentences reflecting on your experience making this work (what was successful, what was a struggle, what did you learn).
@@ -389,11 +390,11 @@ To expand your familiarity with timekeeping, **review** the following **5** reso
 
 Your timepiece should (probably) appear different at all times of the day, and should (probably) repeat its appearance every 24 hours (or other relevant cycle, if desired). You may wish to use the [day()](https://archive.p5js.org/reference/#/p5/day), [month()](https://archive.p5js.org/reference/#/p5/month), and [year()](https://archive.p5js.org/reference/#/p5/year) functions in order to build a clock that evolves over longer timescales. If your timepiece measures other phenomena, that’s fine too. You may choose the display dimensions for your clock as necessary, including the possibility of being fullscreen. If your laptop screen does not inspire you, feel free to make your clock be a "prototype" intended for a different display, such as a smart-watch or a public outdoor LED screen.
 
-You are encouraged to **question** basic assumptions about which kind of time is represented, and how. **Consider** things like biological time ([chronobiology](https://en.wikipedia.org/wiki/Chronobiology)), [ultradian rhythms](https://en.wikipedia.org/wiki/Ultradian_rhythm) and [infradian rhythms](https://en.wikipedia.org/wiki/Infradian_rhythm), solar and lunar cycles, celestial time, geological time, decimal time, historical time, [psychological time](http://cpl.revues.org/4998), and subjective time. (This list is not exclusive or exhaustive.) Remember to **sketch** first in your paper sketchbook. At the top of your code for each timepiece, **add a comment** which explains that project. For example, you might explain what your timepiece displays, or how to read it, or how it works.
+You are encouraged to **question** basic assumptions about which kind of time is represented, and how. **Consider** things like biological time ([chronobiology](https://en.wikipedia.org/wiki/Chronobiology)), [ultradian rhythms](https://en.wikipedia.org/wiki/Ultradian_rhythm) and [infradian rhythms](https://en.wikipedia.org/wiki/Infradian_rhythm), solar and lunar cycles, celestial time, geological time, decimal time, historical time, [psychological time](https://en.wikipedia.org/wiki/Time_perception), and subjective time. (This list is not exclusive or exhaustive.) Remember to **sketch** first in your paper sketchbook. At the top of your code for your timepiece, **add a comment** which explains that project. For example, you might explain what your timepiece displays, or how to read it, or how it works.
 
-* **Upload** your clock to the correct [OpenProcessing collection]().
+* **Upload** your clock to the correct [OpenProcessing collection](https://openprocessing.org/class/104705/#/c/105386).
 * **Create** a post in the Discord channel, `2-8-novel-clock`.
 * **Embed** one or more images of your clock in the Discord post. You may wish to show what your clock looks like at different times of day. If your clock involves animation in a special way, embed an animated GIF.
-* **Write** a couple sentences that describe your clock (what is the concept, how is it made, how is a person meant to experience it). **Write** another few sentences reflecting on your experience making this work (what was successful, what was a struggle, what did you learn).
+* **Write** a few sentences that describe your clock (what is the concept, how is it made, how is a person meant to experience it, how should it be read). **Write** another few sentences reflecting on your experience making this work (what was successful, what was a struggle, what did you learn).
 
 ---
