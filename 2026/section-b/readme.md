@@ -16,7 +16,7 @@
 * `R Feb 05` - [Notes](20260205.md); Intro to p5
 * `T Feb 10` - [Notes](20260210.md); Work session
 * `R Feb 12` - [Notes](20260212.md); **Due**: 2-6 Face Generator
-* `T Feb 17` - **Due**: 2-7 Pattern: Nested Iteration
+* `T Feb 17` - [Notes](20260217.md); **Due**: 2-7 Pattern: Nested Iteration
 * `R Feb 19`
 * `T Feb 24` - **Due**: **2-8 Computational Clock**
 * `--------`
