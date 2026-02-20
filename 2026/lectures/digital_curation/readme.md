@@ -1,6 +1,24 @@
 # Digital Curation / Internet Readymades
 
-*(Based in part on notes by Paolo Pedercini.)*
+This unit is about **artistic authorship through selection, framing, and context rather than fabrication**. We will treat the internet not primarily as a tool for self-expression, but as a vast, already-existing cultural archive: messy, biased, automated, redundant, ideological, and full of overlooked material. Our task is to operate as artist-researchers who enter that archive, identify something that matters, and makes it legible through careful collection and presentation.
+
+This approach has a clear lineage. In the early 20th century, artists associated with Dada and later Conceptual Art introduced the idea of the **readymade**: an ordinary object transformed into art through choice, displacement, and framing. In this logic, the artist becomes less a maker of things and more a **chooser**, **editor**, and **defamiliarizer**. Today, the internet multiplies this logic at a massive scale. Instead of urinals or bicycle wheels, we encounter screenshots, search results, metadata, default filenames, glitches, comments, memes, surveillance imagery, absences, and repetitions. The raw material of contemporary culture is already there. Our work lies in how it is gathered, structured, and interpreted.
+
+Three conceptual pillars underlie this unit:
+
+* **Selection as authorship:** Choosing what to include, what to exclude, and where to draw boundaries is the primary creative act.
+* **Curation as meaning-making:** Curating is not neutral organization; it is a way of bringing objects, systems, and ideas into relation so that a pattern or argument becomes visible.
+* **Systems over artifacts:** Many of the strongest works here focus less on individual images or items and more on the processes, ideologies, and infrastructures that produce them.
+
+The projects you will see in this lecture fall into several overlapping families of practice:
+
+* **Taxonomic collections**, which reveal patterns through accumulation and comparison.
+* **Procedural or rule-based aggregations**, where a simple constraint exposes larger cultural behaviors.
+* **Critical excavations**, which surface political, social, or ethical dimensions embedded in digital systems.
+* **Attention to absence**, where what is missing, excluded, or unrecorded becomes the subject.
+
+Across all of these examples, the goal is the same: to make something newly visible by treating the internet itself as a site of inquiry. We can appreciate these projects, not just by how entertaining or ironic their findings are, but by how clearly their curation reveals a structure, bias, logic, or question that was not obvious before.
+
 
 ---
 
@@ -56,9 +74,9 @@ For this assignment, let’s embrace this collapse of roles and contexts, and se
 
 ![4-sorry-arcangel](img/4-sorry-arcangel.jpg)
 
-![5-everything-ive-wanted-to-know](img/5-everything-ive-wanted-to-know.png)<br />[*EVERYTHINGIVEEVERWANTEDTOKNOW.COM*](https://anthology.rhizome.org/everythingiveeverwantedtoknow-com) by Martine Syms (2007), is a conceptual work of net art. Visiting the site presents the viewer with a drop-down menu that features all of the artist’s Google searches from a three year period, from 2004 to 2007.
+![5-everything-ive-wanted-to-know](img/5-everything-ive-wanted-to-know.png)<br />[*EVERYTHINGIVEEVERWANTEDTOKNOW.COM*](https://anthology.rhizome.org/everythingiveeverwantedtoknow-com) by Martine Syms (2007), is a conceptual work of net art. Visiting the site presents the viewer with a drop-down menu that features all of the artist’s Google searches from a three year period, from 2004 to 2007. [[Site](https://everythingiveeverwantedtoknow.com/)]
 
-![6-im-google-dina-kelberman](img/6-im-google-dina-kelberman.jpg)<br />[*I’m Google*](https://imgoogle.dinakelberman.com/) by Dina Kelberman (2011-) is an ongoing tumblr blog in which batches of images and videos that Kelberman culls from the internet are compiled into a long stream-of-consciousness.
+![6-im-google-dina-kelberman](img/6-im-google-dina-kelberman.jpg)<br />[*I’m Google*](https://imgoogle.dinakelberman.com/) by Dina Kelberman (2011-) is an ongoing blog in which batches of images and videos that Kelberman culls from the internet are compiled into a long visual stream-of-consciousness.
 
 ![7-bridle-iraq](img/7-bridle-iraq.jpg)<br />[*Iraq War Wikihistoriography*](https://jamesbridle.com/works/iraq-war-wikihistoriography) by James Bridle (2010), also known as “The Iraq War: A History of Wikipedia Changelogs”, is a twelve-volume set of all changes to the Wikipedia article on the Iraq War. The twelve volumes cover a five year period from December 2004 to November 2009, a total of 12,000 changes and almost 7,000 pages. His essay points out that although an article on Wikipedia may tell a “single” specific story, the edits show a process that involves the opinions and conflicting biases of each writer. In this respect Wikipedia offers two stories: one that is front-facing to the reader and one that reveals the behind-the-scenes editing, writing and creative process.
 
@@ -109,7 +127,7 @@ Some approaches to meme curation and archiving:
 
 ![18-odell-satellite](img/18-odell-satellite.jpg)<br />[*Satellite Collections*](https://www.jennyodell.com/satellite.html) by Jenny Odell (2009-2011)
 
-![20-bridle-dronestagram](img/20-bridle-dronestagram.jpg)<br />[*Dronestragram*](https://www.instagram.com/dronestagram/) by James Bridle (2012-2015): posting satellite images of the locations of drone strikes to Instagram, as they occur.
+![20-bridle-dronestagram](img/20-bridle-dronestagram.jpg)<br />[*Dronestragram*](https://www.instagram.com/dronestagram/) by James Bridle (2012-2015): posting satellite images of the locations of drone strikes to Instagram... as they occur.
 
 ![23-onformative](img/23-onformative.jpg)<br />[*Google Faces*](https://www.itsnicethat.com/articles/onformative) by Onformative (2013) used face-recognition software to find satellite images containing what appeared to be faces.
 
@@ -117,21 +135,22 @@ Some approaches to meme curation and archiving:
 
 ### Some projects by CMU Art Students
 
-![22-connie-sephora](img/22-connie-sephora.png)<br />[*Sephora*](https://github.com/everestpipkin/datagardens/tree/master/students/khanniie/5_newDataSet) (2019) by CMU art student Connie Ye. “A popular metric for a successful waterproof product is whether or not it can withstand tears and emotional turmoil. I remembered seeing a review giving an eyeliner 5 stars for surviving through a teary breakup, and I wanted to see if there would be more. Thus, for this project, I scraped Sephora’s website for reviews, and filtered through them for reviews mentioning crying.”
+![22-connie-sephora](img/22-connie-sephora.png)<br />[*Sephora*](https://github.com/everestpipkin/datagardens/tree/master/students/khanniie/5_newDataSet) (2019) by CMU art student Connie Ye. “A popular metric for a successful waterproof product is whether or not it can withstand tears and emotional turmoil. I remembered seeing a review giving an eyeliner 5 stars for surviving through a teary breakup, and I wanted to see if there would be more. Thus, for this project, I scraped Sephora’s website for reviews, and filtered through them for reviews mentioning *crying*.”
 
 ![21-circles-caroline-hermans](img/21-circles-caroline-hermans.jpg)
 
-![circles-of-life.gif](img/circles-of-life.gif)<br />[*@the.circles.of.life*](https://www.instagram.com/the.circles.of.life/) (2017) by CMU art student Caroline Hermans. Hermans created a collection of Instagram pregnancy portraits, which she annotated with custom p5.js software in order to “find the center and radius of pregnancy.” Described [here](https://ems.andrew.cmu.edu/excap17/author/caro/) and documented on Instagram [here](https://www.instagram.com/the.circles.of.life/).
+![circles-of-life.gif](img/circles-of-life.gif)<br />[*@the.circles.of.life*](https://www.instagram.com/the.circles.of.life/) (2017) by CMU art student Caroline Hermans. Hermans collected a dataset of Instagram pregnancy selfies, which she annotated with custom p5.js software in order to “find the center and radius of pregnancy.” For each portrait, Hermans overlaid a perfect circle showing the precise dimensions of the mother's baby bump. Described [here](https://ems.andrew.cmu.edu/excap17/author/caro/) and documented on Instagram [here](https://www.instagram.com/the.circles.of.life/).
 
-[![nymeyer_neck_cracking supercut](img/nymeyer_neck_cracking.jpg)](https://www.youtube.com/watch?v=mc_J4wbwKxY)<br />[*Chiropractic Neck Cracking Supercut*](https://www.youtube.com/watch?v=mc_J4wbwKxY) by Reiley Nymeyer, CMU, created for *Foundations of Digital Media*, 2021.
+[![nymeyer_neck_cracking supercut](img/nymeyer_neck_cracking.jpg)](https://www.youtube.com/watch?v=mc_J4wbwKxY)<br />[*Chiropractic Neck Cracking Supercut*](https://www.youtube.com/watch?v=mc_J4wbwKxY) by Reiley Nymeyer, CMU, created for *Foundations of Digital Media*, 2021. Nymeyer, a sophomore, created a "supercut" of disturbing moments from YouTube videos about chiropracty. 
 
-[![Eventide by Cassandra C. Jones](img/cassandra_jones_eventide.gif)](https://vimeo.com/84883569)<br />[*Eventide*](https://vimeo.com/84883569) by MFA student Cassandra C. Jones, 2004.
+[![Eventide by Cassandra C. Jones](img/cassandra_jones_eventide.gif)](https://vimeo.com/84883569)<br />[*Eventide*](https://vimeo.com/84883569) by MFA student Cassandra C. Jones, 2004, is a video work comprised of photographs of other people's sunsets that the artist collected using Google image search. After aligning the suns and horizons, Jones sequenced them into a video that shows the sun setting, with the duration of an actual sunset. We see how the sunset figures into the popular collective imagination: romantic moments, etc.
 
 [![anisha_baid_break_the_glass](img/anisha_baid_break_the_glass.jpg)](https://vimeo.com/513282704)<br />[*Breaking the [glass] Screen*](https://anishabaid.com/breaking-the-glass-screen) (2021) by art MFA student Anisha Baid is “a video presentation articulating gendered frustrations with the computer interface using a collection of found clipart and stock images. The video is made using appropriated corporated aesthetic strategies usually used in presentations about workplace ethics, sexual harassment and work-life balance.” [[more](https://empowering-women.net/about-breaking-the-screen-2020/)]
 
 
 ---
 
+*(Based in part on notes by Paolo Pedercini.)*
 
 <!--
 Old links: 
