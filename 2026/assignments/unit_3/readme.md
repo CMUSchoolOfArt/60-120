@@ -70,6 +70,10 @@ By **organizing** your collection, we mean that you should:
 
 ## How This Will Be Evaluated
 
+<!-- 
+We’re doing this assignment not because we expect you to become a curator or learn a particular website-making tool, but because it trains a way of thinking that almost no one practices deliberately: turning constant exposure to digital culture into structured understanding. You already spend thousands of hours online, but most of the time that experience stays passive and unexamined. This project asks you to slow that down, impose constraints, collect evidence, and make patterns visible—to move from scrolling to research, from vibes to insight. The reason most people struggle with it is precisely why it matters: it requires sustained attention, judgment, and the ability to see systems rather than isolated examples. The students who do well aren’t “more artistic”; they’ve learned how to notice something that bothers or intrigues them, stay with it, and let accumulation do intellectual work. Those skills—critical observation, sense-making, framing, and communicating insight without overexplaining—are directly transferable to design, art, UX, research, journalism, strategy, and any field where understanding how digital systems shape behavior is valuable. This assignment is a short, concentrated exercise in that kind of thinking.
+-->
+
 Successful projects will demonstrate:
 
 * **Clear curatorial intent**: it is obvious why these items belong together.
