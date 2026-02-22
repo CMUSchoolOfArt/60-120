@@ -16,7 +16,7 @@ You will publish your work as a “single-serving” web page. This is not a por
 
 #### Learning Objectives
 
-* **Conduct research** to curate a focused collection of found digital material — leveraging selection, repetition, and comparison to transform isolated examples into meaningful evidence.
+* **Conduct research** to critically examine the internet by **curating** a focused collection of found digital material — leveraging selection, repetition, and comparison to transform isolated examples into meaningful evidence.
 * **Publish** a self-contained, public-facing web page that communicates your curatorial idea clearly through layout, structure, and basic web-based presentation tools.
 
 ---
