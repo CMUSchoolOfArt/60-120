@@ -9,19 +9,19 @@
 
 **Contents:**
 
-* Introduction
-* From Curiosity to Collection
-* What is a “found object”? How does it work?
-* What is a “curator”? What do they do?
-* Methodologies of Digital Readymade Curation 
-  1. Aggregation as Pattern-Making
-  2. Personal Data as Cultural Artifact
-  3. Revealing Hidden Processes and Metadata
-  4. Ideologies Embedded in Systems
-  5. Language, Bootlegs, and Collective Authorship
-  6. Memes, Power, and Visibility
-  7. Absence, Omission, and Surveillance
-* Some Projects by CMU Art Students
+* [Introduction](#introduction)
+* [From Curiosity to Collection](#from-curiosity-to-collection)
+* [What is a “found object”? How does it work?](#what-is-a-found-object-how-does-it-work)
+* [What is a “curator”? What do they do?](#what-is-a-curator-what-do-they-do)
+* [Methodologies of Digital Readymade Curation](#methodologies-of-digital-readymade-curation) 
+  1. [Aggregation as Pattern-Making](#1-aggregation-as-pattern-making)
+  2. [Personal Data as Cultural Artifact](#2-personal-data-as-cultural-artifact)
+  3. [Revealing Hidden Processes and Metadata](#3-revealing-hidden-processes-and-metadata)
+  4. [Ideologies Embedded in Systems](#4-ideologies-embedded-in-systems)
+  5. [Language, Bootlegs, and Collective Authorship](#5-language-bootlegs-and-collective-authorship)
+  6. [Memes, Power, and Visibility](#6-memes-power-and-visibility)
+  7. [Absence, Omission, and Surveillance](#7-absence-omission-and-surveillance)
+* [Some Projects by CMU Art Students](#some-projects-by-cmu-art-students)
 
 ---
 
