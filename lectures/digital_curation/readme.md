@@ -5,6 +5,8 @@
 
 ---
 
+[![valla-postcards](img/valla-postcards.jpg)](https://www.postcards-from-google-earth.com/)
+
 **Contents:**
 
 * Introduction
@@ -165,8 +167,6 @@ Other projects turn inward, treating personal digital traces not as private mate
 
 Some readymade collections focus not on content, but on the **invisible systems** that produce, organize, and maintain it. These works expose algorithms, edits, glitches, and edge cases.
 
-[![valla-postcards](img/valla-postcards.jpg)](https://www.postcards-from-google-earth.com/)
-
 [![11-valla](img/11-valla.jpg)](https://www.postcards-from-google-earth.com/)<br />
 [*Postcards from Google Earth*](https://www.postcards-from-google-earth.com/) by Clement Valla (2011–13) a collection of screenshots from Google Earth which reveal its inner workings. Valla writes:
 
@@ -265,4 +265,4 @@ Old links:
 * https://ems.andrew.cmu.edu/2022f/daily-notes/unit-4-internet-readymades/index.html
 * https://github.com/golanlevin/60-120-old/tree/main/2025/assignments/digital_curation
 * https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/typologies.md
--->
+--> 
