@@ -40,5 +40,5 @@
 * `T Apr 21`
 * `R Apr 23` in class due
 * `T Apr 28` - **Due: Unit 5 Main Project** (Responsive System)
-
+* `W Apr 29` - 5pm: **Exhibition Opening**, CFA 3rd fl. South Foyer
 

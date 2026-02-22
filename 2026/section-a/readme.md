@@ -18,12 +18,12 @@
 * `W Feb 11` - [Notes](20260211.md); **Due**: 2-6 Face Generator
 * `M Feb 16` - [Notes](20260216.md); **Due**: 2-7 Pattern: Nested Iteration
 * `W Feb 18` - [Notes](20260218.md); Work session.
-* `M Feb 23` - **Due**: 2-8 Two Clocks
+* `M Feb 23` - [Notes](20260223.md); **Due**: 2-8 Two Clocks
 * `--------`
-* `W Feb 25` - Curation lecture
+* `W Feb 25` - Curation lecture; Work Session
 * `M Mar 02` - *Spring Break (no session)*
 * `W Mar 04` - *Spring Break (no session)*
-* `M Mar 09` - 
+* `M Mar 09` - Work Session
 * `W Mar 11` - **Due: Unit 3 Main Project** (Internet Curation)
 * `--------`
 * `M Mar 16`
@@ -40,7 +40,7 @@
 * `M Apr 20` 
 * `W Apr 22` - Responsive System due in-class
 * `M Apr 27` - **Due: Unit 5 Main Project** (Responsive System)
-
+* `W Apr 29` - 5pm: **Exhibition Opening**, CFA 3rd fl. South Foyer 
 
 
 
