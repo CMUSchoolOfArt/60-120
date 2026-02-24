@@ -188,7 +188,9 @@ Here, artists collect vernacular traces to show how political assumptions are em
 
 ![10-barely-legal](img/10-barely-legal.jpg)<br />[*barelyLegal*](https://www.onchanneltwo.com/CH2-barelyLegal) by CH2 (2015) is a series of desktop documentary Google-Map “drives” tracing routes to obtain safe legal abortions in the United States. For example, in 2015, an adult person who needed an abortion living in Odessa TX would need to travel to LasCruces NM for medical care — a five-hour drive.
 
+<!-- 
 [![27-OmerFast](img/27-OmerFast.jpg)](https://www.youtube.com/watch?v=IID_XUsl0JM)<br />[*CNN Concatenated*](https://www.youtube.com/watch?v=IID_XUsl0JM) by Omer Fast (2002) presents an 18-minute monologue composed from cable news talking-head videos, collected by the artist around the time of the September 11, 2001 World Trade Center attacks in New York City. Fast's edited assembly presents a new narrative voice, directly addressing its viewer with reflexive urgency, fear, and uncertaintity, altogether exposing a point-of-view and hidden agenda within the larger news media apparatus.
+-->
 
 See also Lenka Clayton, [*Qaeda Quality Question Quickly Quickly Quiet*](https://www.lenkaclayton.com/archive#/qaeda-quality-question-quickly-quickly-quiet/), 2002.
 
@@ -200,11 +202,6 @@ Some projects treat linguistic debris and cultural knockoffs as poetic or politi
 [*Shanzhai Lyric*](https://www.instagram.com/shanzhai_lyric/) by Ming Lin and Alexandra Tatarsky (2015–) collects bootleg English phrases, framing mistranslation and mimicry as collective, resistant authorship.
 
 > *“Shanzhai [~Bootleg] Lyric is the name of both the project and the phenomenon we are trying to identify—an anonymously and collectively authored ongoing poem emerging out of the detritus of consumerism. […] an attempt at expressing solidarity with the aesthetic philosophy and politics of this hybrid English while not claiming ownership over the found phrases that we are gathering as our subject. We are less interested in producing our own bootlegs than in identifying shanzhai strategies and sharing them across various platforms […] Our aim is to place shanzhai lyrics in dialogue with other poetic and artistic lineages that also experiment with mimicry, wordplay, poetic plagiarism, and nonsense as subversive methods.”*
-
-![24-PenelopeUmbrico](img/24-PenelopeUmbrico.jpg)<br />
-[*541,795 Suns from Sunsets from Flickr (Partial) 1/23/06*](http://www.penelopeumbrico.net/index.php/project/suns-from-sunsets-from-flickr/) by Penelope Umbrico (2006–) collects sunsets from the photo-sharing website Flickr, framing the personal photographic act as one of ubiquitous collective practice.
-
-> *"Perhaps part of the beauty of taking a picture of a sunset is that while you are doing it it’s likely that a million other people are doing it as well – at exactly the same time. I love this idea of collective practice, something we all engage in despite any artistic concern, knowing that there have been millions before and there will be millions after. While the intent of photographing a sunset may be to capture something ephemeral or to assert an individual subjective point of view–the result is quite the opposite - through the technology of our common cameras we experience the power of millions of synoptic views, all shared the same way, at the same moment. To claim individual authorship while photographing a sunset is to disengage from this collective practice and therefor negate a large part of why capturing a sunset is so irresistible in the first place."*
 
 ![25-ShannonEbner](img/25-ShannonEbner.jpg)<br />
 [*The electric comma (A language of exposures)*](https://www.contemporaryartlibrary.org/project/shannon-ebner-at-hammer-museum-los-angeles-16096) by Shannon Ebner (2011) uses photography as a linguistic tool, collecting typographic letterforms as an index of the material world.
@@ -251,6 +248,13 @@ Some readymades focus on what is missing, suppressed, or invisibly accumulated.
 ## Some Projects by CMU Art Students
 
 [![Eventide by Cassandra C. Jones](img/cassandra_jones_eventide.gif)](https://vimeo.com/84883569)<br />[*Eventide*](https://vimeo.com/84883569) by MFA student Cassandra C. Jones, 2004, is a video work comprised of photographs of other people's sunsets that the artist collected using Google image search. After aligning the suns and horizons, Jones sequenced them into a video that shows the sun setting, with the duration of an actual sunset. We see how the sunset figures into the popular collective imagination: romantic moments, etc.
+
+<details><summary>Related: see Penelope Umbrico, 2006</summary>
+![24-PenelopeUmbrico](img/24-PenelopeUmbrico.jpg)<br />
+[*541,795 Suns from Sunsets from Flickr (Partial) 1/23/06*](http://www.penelopeumbrico.net/index.php/project/suns-from-sunsets-from-flickr/) by Penelope Umbrico (2006–) collects sunsets from the photo-sharing website Flickr, framing the personal photographic act as one of ubiquitous collective practice.
+
+> *"Perhaps part of the beauty of taking a picture of a sunset is that while you are doing it it’s likely that a million other people are doing it as well – at exactly the same time. I love this idea of collective practice, something we all engage in despite any artistic concern, knowing that there have been millions before and there will be millions after. While the intent of photographing a sunset may be to capture something ephemeral or to assert an individual subjective point of view–the result is quite the opposite - through the technology of our common cameras we experience the power of millions of synoptic views, all shared the same way, at the same moment. To claim individual authorship while photographing a sunset is to disengage from this collective practice and therefor negate a large part of why capturing a sunset is so irresistible in the first place."*
+</details>
 
 ![21-circles-caroline-hermans](img/21-circles-caroline-hermans.jpg)
 
