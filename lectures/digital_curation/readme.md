@@ -250,8 +250,9 @@ Some readymades focus on what is missing, suppressed, or invisibly accumulated.
 [![Eventide by Cassandra C. Jones](img/cassandra_jones_eventide.gif)](https://vimeo.com/84883569)<br />[*Eventide*](https://vimeo.com/84883569) by MFA student Cassandra C. Jones, 2004, is a video work comprised of photographs of other people's sunsets that the artist collected using Google image search. After aligning the suns and horizons, Jones sequenced them into a video that shows the sun setting, with the duration of an actual sunset. We see how the sunset figures into the popular collective imagination: romantic moments, etc.
 
 <details><summary>Related: see Penelope Umbrico, 2006</summary>
-![24-PenelopeUmbrico](img/24-PenelopeUmbrico.jpg)<br />
-[*541,795 Suns from Sunsets from Flickr (Partial) 1/23/06*](http://www.penelopeumbrico.net/index.php/project/suns-from-sunsets-from-flickr/) by Penelope Umbrico (2006–) collects sunsets from the photo-sharing website Flickr, framing the personal photographic act as one of ubiquitous collective practice.
+<img src="img/24-PenelopeUmbrico.jpg"><br />
+<a href="http://www.penelopeumbrico.net/index.php/project/suns-from-sunsets-from-flickr/">
+<em>541,795 Suns from Sunsets from Flickr (Partial) 1/23/06</em></a> by Penelope Umbrico (2006–) collects sunsets from the photo-sharing website Flickr, framing the personal photographic act as one of ubiquitous collective practice.
 
 > *"Perhaps part of the beauty of taking a picture of a sunset is that while you are doing it it’s likely that a million other people are doing it as well – at exactly the same time. I love this idea of collective practice, something we all engage in despite any artistic concern, knowing that there have been millions before and there will be millions after. While the intent of photographing a sunset may be to capture something ephemeral or to assert an individual subjective point of view–the result is quite the opposite - through the technology of our common cameras we experience the power of millions of synoptic views, all shared the same way, at the same moment. To claim individual authorship while photographing a sunset is to disengage from this collective practice and therefor negate a large part of why capturing a sunset is so irresistible in the first place."*
 </details>
