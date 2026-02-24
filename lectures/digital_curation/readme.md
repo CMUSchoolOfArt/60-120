@@ -92,6 +92,8 @@ Under the logic of the readymade, the artist becomes a **critical selector, edit
 
 Crucially, this often requires **typological thinking** — i.e. making **collections**. While a *single* found object may read as an accident or curiosity, a collection of *several* makes patterns visible, allowing repeated forms to become legible as *evidence* rather than exception.
 
+[![28-ZoeLeonard](img/28-ZoeLeonard.jpg)](https://diaart.org/exhibition/exhibitions-projects/zoe-leonard-you-see-i-am-here-after-all-2008-exhibition)<br/>Zoe Leonard, *You see I am here after all* (2008) — a collection of several thousand vintage postcards of Niagara Falls, dating from the early 1900s to the 1950s.
+
 This strategy has continued and expanded well beyond the 20th-century. In digital culture, the “objects” may be screenshots, search results, metadata, defaults, or glitches, but the underlying readymade logic remains the same. Here are some examples of internet-based readymade collections:
 
 [![9-rafman](img/9-rafman.jpg)](https://9-eyes.com/)<br />[*The 9 Eyes of Google Streetview*](https://9-eyes.com/) by Jon Rafman (2008) is a post-photography project comprised of remarkable, jarring, and poignant images that the artist has found through exhaustive “travels” on Google Streetview.
