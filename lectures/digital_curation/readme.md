@@ -186,6 +186,8 @@ Here, artists collect vernacular traces to show how political assumptions are em
 
 ![10-barely-legal](img/10-barely-legal.jpg)<br />[*barelyLegal*](https://www.onchanneltwo.com/CH2-barelyLegal) by CH2 (2015) is a series of desktop documentary Google-Map “drives” tracing routes to obtain safe legal abortions in the United States. For example, in 2015, an adult person who needed an abortion living in Odessa TX would need to travel to LasCruces NM for medical care — a five-hour drive.
 
+[![27-OmerFast](img/27-OmerFast.jpg)](https://www.youtube.com/watch?v=IID_XUsl0JM)<br />[*CNN Concatenated*](https://www.youtube.com/watch?v=IID_XUsl0JM) by Omer Fast (2002) presents an 18-minute monologue composed from cable news talking-head videos, collected by the artist around the time of the September 11, 2001 World Trade Center attacks in New York City. Fast's edited assembly presents a new narrative voice, directly addressing its viewer with reflexive urgency, fear, and uncertaintity, altogether exposing a point-of-view and hidden agenda within the larger news media apparatus.
+
 ### 5. Language, Bootlegs, and Collective Authorship
 
 Some projects treat linguistic debris and cultural knockoffs as poetic or political material.
@@ -195,6 +197,15 @@ Some projects treat linguistic debris and cultural knockoffs as poetic or politi
 
 > *“Shanzhai [~Bootleg] Lyric is the name of both the project and the phenomenon we are trying to identify—an anonymously and collectively authored ongoing poem emerging out of the detritus of consumerism. […] an attempt at expressing solidarity with the aesthetic philosophy and politics of this hybrid English while not claiming ownership over the found phrases that we are gathering as our subject. We are less interested in producing our own bootlegs than in identifying shanzhai strategies and sharing them across various platforms […] Our aim is to place shanzhai lyrics in dialogue with other poetic and artistic lineages that also experiment with mimicry, wordplay, poetic plagiarism, and nonsense as subversive methods.”*
 
+![24-PenelopeUmbrico](img/24-PenelopeUmbrico.jpg)<br />
+[*541,795 Suns from Sunsets from Flickr (Partial) 1/23/06*](http://www.penelopeumbrico.net/index.php/project/suns-from-sunsets-from-flickr/) by Penelope Umbrico (2006–) collects sunsets from the photo-sharing website Flickr, framing the personal photographic act as one of ubiquitous collective practice.
+
+> *"Perhaps part of the beauty of taking a picture of a sunset is that while you are doing it it’s likely that a million other people are doing it as well – at exactly the same time. I love this idea of collective practice, something we all engage in despite any artistic concern, knowing that there have been millions before and there will be millions after. While the intent of photographing a sunset may be to capture something ephemeral or to assert an individual subjective point of view–the result is quite the opposite - through the technology of our common cameras we experience the power of millions of synoptic views, all shared the same way, at the same moment. To claim individual authorship while photographing a sunset is to disengage from this collective practice and therefor negate a large part of why capturing a sunset is so irresistible in the first place."*
+
+![25-ShannonEbner](img/25-ShannonEbner.jpg)<br />
+[*The electric comma (A language of exposures)*](https://www.contemporaryartlibrary.org/project/shannon-ebner-at-hammer-museum-los-angeles-16096) by Shannon Ebner (2011) uses photography as a linguistic tool, collecting typographic letterforms as an index of the material world.
+
+>*" I was trying to reduce images and language to units, as in movable parts. I don’t necessarily differentiate between the two."*
 
 ### 6. Memes, Power, and Visibility
 
@@ -206,6 +217,11 @@ Meme archives make explicit how humor, ideology, and circulation intersect.
 ![15-onlineculturewars](img/15-onlineculturewars.jpg)<br />[*Online culture wars*](http://disnovation.org/ocw.php) by Disnovation (2018-19) is a map or visualization “of hundreds of politicized memes. It is designed as a discussion starter, intended to visualize and contextualize the ongoing online culture wars, and some of the main political references, actors, and influencers.”
 
 [![Video Thumbnail](https://img.youtube.com/vi/LK90lJCHlV4/hqdefault.jpg)](https://www.youtube.com/watch?v=LK90lJCHlV4)<br />[*787 Cliparts by Oliver Laric*](https://www.youtube.com/watch?v=LK90lJCHlV4) (2008)
+
+![26-JimShaw](img/26-JimShaw.jpg)<br />
+[*Paintings Found in an 0-ist Thrift Store*](https://www.metropictures.com/exhibitions/jim-shaw7) by Jim Shaw (2002-05) presents a selection of 62 paintings derived from found objects, offered as collective evidence for the existence of an imagined religious cult that purportedly proliferates the heartland of the United States. Shaw draws from his ongoing collection of [*"thrift store paintings"*](https://jimshaw.ensembles.org/ensembles/jim-shaw-thrift-store-paintings?panel=436) as the supporting ground for his painted interventions and fantastic speculations into the cultural collective unconscious.
+
+>*With the care and dedication of a true collector, Jim Shaw has been collecting paintings by amateur artists for more than half a century now, purchasing them at thrift stores, flea markets, and online auctions – paying between $5 and $35 per canvas. This way, his diverse yet surprisingly coherent collection grows with a mixture of banal and absurd scenes. The Thrift Store Paintings fit within Shaw's interest in American popular culture, and his equal approach to both professional and non-professional cultural production. As extremely personal and idiosyncratic responses to life within the prevailing systems, and to the political climate, this collection depicts a hidden worldview, deviating from mainstream media and culture. It suggests the existence of a collective social, political and cultural unconscious in the United States of America.*
 
 
 ### 7. Absence, Omission, and Surveillance
