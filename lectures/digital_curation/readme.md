@@ -35,7 +35,7 @@ Three ideas underlie this unit:
 
 1. **Selection as authorship:** Choosing what to include, what to exclude, and where to draw boundaries is the primary creative act.
 * **Curation as meaning-making:** Curating is not neutral organization; it is a way of bringing objects, systems, and ideas into relation so that a pattern or argument becomes visible.
-* **Systems over artifacts:** Many of the strongest works here focus less on individual images or items and more on the processes, ideologies, and infrastructures that produce them.
+* **Systems over artifacts:** The strongest works tend to focus less on individual images or items and more on the processes, ideologies, and infrastructures that produce them.
 
 The projects you will see in this lecture fall into several overlapping families of practice:
 
@@ -189,6 +189,8 @@ Here, artists collect vernacular traces to show how political assumptions are em
 ![10-barely-legal](img/10-barely-legal.jpg)<br />[*barelyLegal*](https://www.onchanneltwo.com/CH2-barelyLegal) by CH2 (2015) is a series of desktop documentary Google-Map “drives” tracing routes to obtain safe legal abortions in the United States. For example, in 2015, an adult person who needed an abortion living in Odessa TX would need to travel to LasCruces NM for medical care — a five-hour drive.
 
 [![27-OmerFast](img/27-OmerFast.jpg)](https://www.youtube.com/watch?v=IID_XUsl0JM)<br />[*CNN Concatenated*](https://www.youtube.com/watch?v=IID_XUsl0JM) by Omer Fast (2002) presents an 18-minute monologue composed from cable news talking-head videos, collected by the artist around the time of the September 11, 2001 World Trade Center attacks in New York City. Fast's edited assembly presents a new narrative voice, directly addressing its viewer with reflexive urgency, fear, and uncertaintity, altogether exposing a point-of-view and hidden agenda within the larger news media apparatus.
+
+See also Lenka Clayton, [*Qaeda Quality Question Quickly Quickly Quiet*](https://www.lenkaclayton.com/archive#/qaeda-quality-question-quickly-quickly-quiet/), 2002.
 
 ### 5. Language, Bootlegs, and Collective Authorship
 
