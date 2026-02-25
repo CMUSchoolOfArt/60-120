@@ -20,7 +20,7 @@
 * `W Feb 18` - [Notes](20260218.md); Work session.
 * `M Feb 23` - [Notes](20260223.md); **Due**: 2-8 Two Clocks
 * `--------`
-* `W Feb 25` - Curation lecture; Work Session
+* `W Feb 25` - [Notes](20260225.md).
 * `M Mar 02` - *Spring Break (no session)*
 * `W Mar 04` - *Spring Break (no session)*
 * `M Mar 09` - Work Session
