@@ -23,7 +23,7 @@
 * `W Feb 25` - [Notes](20260225.md).
 * `M Mar 02` - *Spring Break (no session)*
 * `W Mar 04` - *Spring Break (no session)*
-* `M Mar 09` - Work Session
+* `M Mar 09` - [Notes](20260309.md); Work Session
 * `W Mar 11` - **Due: Unit 3 Main Project** (Internet Curation)
 * `--------`
 * `M Mar 16`
