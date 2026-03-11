@@ -26,12 +26,12 @@
 * `M Mar 09` - [Notes](20260309.md); Work Session
 * `W Mar 11` - [Notes](20260311.md); **Due:** 3.1 Internet Curation speed project
 * `--------`
-* `M Mar 16`
-* `W Mar 18`
-* `M Mar 23`
-* `W Mar 25`
-* `M Mar 30`
-* `W Apr 01` - **Due: Unit 4 Main Project** (Nonlinear Narrative)
+* `M Mar 16` - **Due**: 4.1 (Looking Outwards)
+* `W Mar 18` - **Due**: 4.2 (Bitsy Tutorial)
+* `M Mar 23` - **Due**: 4.3 (Research Phase)
+* `W Mar 25` - **Due**: 4.4 (Draft)
+* `M Mar 30` - Work Session
+* `W Apr 01` - **Due: 4.5 Nonlinear/Interactive Narrative**
 * `--------`
 * `M Apr 06`
 * `W Apr 08`
