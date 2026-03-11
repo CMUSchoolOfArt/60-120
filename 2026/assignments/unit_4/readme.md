@@ -31,7 +31,7 @@ This unit extends through Wednesday April 1 (Section A) or Thursday April 2 (Sec
 
 ![lorenzo.png](img/lorenzo.png)
 
-*This Looking-Outwards report is due Wednesday March 16 (Section A) or Thursday March 17 (Section B). Estimated time is ~1.5 hours.*
+*This Looking-Outwards report is due Monday March 16 (Section A) or Tuesday March 17 (Section B). Estimated time is ~1.5 hours.*
 
 **FIRST**, **Read** [this collection of thoughts about small games](https://lorenzo.itch.io/on-small-games); this should take about 3 minutes. **Choose** a quote from this reading that resonates with you. 
 
