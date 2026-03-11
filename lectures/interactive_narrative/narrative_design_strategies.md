@@ -1,23 +1,37 @@
 # Interactive Narrative: Conceptual Approaches
 
-*Adapted/cribbed from lecture notes by Paolo Pedercini. This is his work!* 
+*Adapted from lecture notes by Paolo Pedercini.* 
+
+---
 
 #### Overview
 
-Here are some ways of thinking about approaching the creation of an interactive narrative.
+Interactive narratives can be difficult to design because there is no single correct starting point. Unlike traditional stories, which often begin with plot, interactive works can begin from many different directions.
 
-* Adaptation
-* Non-Fiction
-* Nonlinear Space-Time
-* Protagonist-First
-* Structure-First
-* Location-First
+Here are some ways of thinking about approaching the creation of an interactive narrative. Each of the following sections describes one way to begin designing an interactive narrative.
+
+* **Adaptation** — *What if I reinterpret an existing story?*
+* **Non-Fiction** — *What if I tell a true story using interaction?*
+* **Nonlinear Space-Time** — *What if time and space are fragmented?*
+* **Protagonist-First** — *What if the player embodies a specific character?*
+* **Structure-First** — *What if the narrative emerges from a game mechanic?*
+* **Location-First** — *What if the story emerges from exploring a place?*
 
 ---
 
 ## Adaptation
 
-Start from an existing story or artifact and add your twist. For example, *Hamlet*, BUT you are Elsinore and you can change the course of the story. ([*Elsinore*](https://www.youtube.com/watch?v=y6rMdih6ljA) by Golden Glitch. Watch 3:00-4:00)
+**Adaptation** begins with an existing story, cultural artifact, or event and reinterprets it through *interaction*. Instead of simply retelling the story, the designer asks:
+
+> *What changes when the audience can participate?*
+
+This approach is useful because the original narrative provides a familiar structure, allowing the designer to focus on how interaction changes the story. Common adaptation strategies include:
+
+* changing the point of view
+* allowing players to alter the outcome
+* placing the player inside a previously passive role.
+
+For example, here's *Hamlet*, BUT you are Elsinore and you can change the course of the story. ([*Elsinore*](https://www.youtube.com/watch?v=y6rMdih6ljA) by Golden Glitch. Watch 3:00-4:00)
 
 [![Video Thumbnail](https://img.youtube.com/vi/y6rMdih6ljA/hqdefault.jpg)](https://www.youtube.com/watch?v=y6rMdih6ljA)
 
