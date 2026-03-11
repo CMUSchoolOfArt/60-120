@@ -24,7 +24,7 @@
 * `M Mar 02` - *Spring Break (no session)*
 * `W Mar 04` - *Spring Break (no session)*
 * `M Mar 09` - [Notes](20260309.md); Work Session
-* `W Mar 11` - **Due: Unit 3 Main Project** (Internet Curation)
+* `W Mar 11` - [Notes](20260311.md); **Due:** 3.1 Internet Curation speed project
 * `--------`
 * `M Mar 16`
 * `W Mar 18`
