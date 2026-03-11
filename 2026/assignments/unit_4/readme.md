@@ -4,7 +4,7 @@
 
 *In this unit, we will create interactive and nonlinear narratives. You can think of these as (e.g.) short games, playable stories, branching narratives, time-based illustrations, responsive graphic novels....*
 
-This unit extends through Wednesday/Thursday April 1st/2nd, and has five deliverables:
+This unit extends through Wednesday April 1 (Section A) or Thursday April 2 (Section B), and has **five deliverables**:
 
 * `Mar 16/17` - **Due**: [**4.1. Looking Outwards: Bitsy Games**](#41-looking-outwards-bitsy-games) *(~1.5 hours)*
 * `Mar 18/19` - **Due**: [**4.2. Bitsy Tutorial**](#42-bitsy-tutorial) *(~2 hours)*
@@ -33,8 +33,9 @@ This unit extends through Wednesday/Thursday April 1st/2nd, and has five deliver
 
 *This Looking-Outwards report is due Wednesday March 16 (Section A) or Thursday March 17 (Section B). Estimated time is ~1.5 hours.*
 
+**FIRST**, **Read** [this collection of thoughts about small games](https://lorenzo.itch.io/on-small-games); this should take about 3 minutes. **Choose** a quote from this reading that resonates with you. 
 
-**Browse** the following websites/lists:
+**NEXT**, **Browse** the following websites/lists:
 
 * [Lorenzo Pilia’s Bitsy Faves pt.1](https://itch.io/c/201121/bitsy-faves-pt1-20172018) (2017–2018)
 * [Lorenzo Pilia’s Bitsy Faves pt.2](https://itch.io/c/232207/bitsy-faves-pt2-20192024) (2019–2024)
@@ -45,12 +46,13 @@ This unit extends through Wednesday/Thursday April 1st/2nd, and has five deliver
 
 *Now:*
 
+* **Create** a post in the Discord channel `#4-1-looking-outwards`. In the post, 
 * **Play through** a variety of games linked from the sites above.
 * **Select** three (3) games that you find intriguing or compelling.
-* **Create** a post in the Discord channel `#4-1-looking-outwards`. In the post, 
 * **State** the title and URL of each of your chosen games. 
 * **Write** one or two sentences for each game, explaining what you appreciate about them and why they are worth playing. **Highlight** some idea, solution or trick you could potentially apply to your story.
 * **Include** a screenshot of each of your chosen games.
+* In one sentence, **explain** how one of the games you selected illustrates, contradicts, or complicates the quote you selected from the [reading](https://lorenzo.itch.io/on-small-games).
 
 ---
 
@@ -58,7 +60,7 @@ This unit extends through Wednesday/Thursday April 1st/2nd, and has five deliver
 
 ![bitsy-tutorials.png](img/bitsy-tutorials.png)
 
-#### **NOTE!** This tutorial exercise is **purely technical**. Feel free to amuse yourself, but a creatively-imagined game is *not requested here*.
+#### **NOTE!** This tutorial exercise is *purely technical*. Feel free to amuse yourself, but a creatively-imagined game is *not requested here*.
 
 *This is due before class on Wednesday March 18 (Section A) or Thursday March 19 (Section B). Estimated time: ~2 hours.* 
 
@@ -68,7 +70,7 @@ This unit extends through Wednesday/Thursday April 1st/2nd, and has five deliver
   * Claire Morwood’s [Bitsy Tutorial](https://www.shimmerwitch.space/bitsyTutorial.html) (Web)
   * Cecile Richards’ [Bitsy Workshop Tutorial](pdf/bitsy_workshop_by_cecile_richards.pdf) (PDF)
   * Connie Ye’s [Bitsy Tutorial](pdf/bitsy_tutorial_by_connie_ye.pdf) (PDF)
-* **Create** a SIMPLE "non-game" game project — i.e. *zero art, zero story* — in which you demonstrate that you can achieve each of the following technical requirements: 
+* **Create** a SIMPLE "non-game" game project — i.e. *zero art, zero story* — in which you demonstrate that you are able to achieve each of the following technical requirements: 
   * a non-default **title** for your project
   * a non-default animated **avatar**
   * a non-default animated **sprite** that presents some dialog with a “text effect”
