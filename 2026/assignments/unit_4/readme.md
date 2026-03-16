@@ -8,7 +8,7 @@ This unit extends through Wednesday April 1 (Section A) or Thursday April 2 (Sec
 
 * `Mar 16/17` - **Due**: [**4.1. Looking Outwards: Bitsy Games**](#41-looking-outwards-bitsy-games) *(~1.5 hours)*
 * `Mar 18/19` - **Due**: [**4.2. Bitsy Tutorial**](#42-bitsy-tutorial) *(~2 hours)*
-* `Mar 23/24` - **Due**: [**4.3. Research Phase**](#43-research-phase) *(~1 hour)*
+* `Mar 23/24` - **Due**: [**4.3. Research Phase**](#43-research-phase) *(~1+ hour)*
 * `Mar 25/26` - **Due**: [**4.4. Draft of Narrative/Game**](#44-draft-of-narrativegame) *(~6 hours)*
 * `Apr 01/02` - **Due**: [**4.5. Nonlinear/Interactive Narrative/Game**](#45-nonlinearinteractive-narrativegame) *(~10 hours)*
 
@@ -94,74 +94,52 @@ This unit extends through Wednesday April 1 (Section A) or Thursday April 2 (Sec
 
 # 4.3. Research Phase
 
-*This research phase is due Monday March 23 (Section A) or Tuesday March 24 (Section B). Estimated time: ~1 hour.*
+*This research phase is due Monday March 23 (Section A) or Tuesday March 24 (Section B). Estimated time: At least one hour.*
 
-**Details TBA.**
+## Overview of the Project
 
-<!-- 
-
-### Overview of the Process
-
-For the remainder of this Unit, you will develop an experience using Bitsy, such as a game or interactive narrative. It is strongly recommended that your final version include sound.
+For the remainder of this Unit, you will develop an interactive experience using Bitsy, such as a game or nonlinear narrative. It is strongly recommended that your final version include sound.
 
 #### Requirements: 
 
 1. Your project must be playable in **5 minutes or less** – think quality not quantity.
-2. Your project must have some degree of **non-linearity** – don’t make me advance through a slideshow.
-3. Your project must be **published** to the Itch.io website.
-4. Your project must be **documented** in a video playthrough.
+2. Your project must meet certain requirements for meaningful **non-linearity** -- it **cannot be a slideshow!**: 
+  * Parts of the experience must be visitable in **any order**.
+  * Your project must have at least **3 different endings**. 
+  * A player must not be able to see all story content **in one playthrough**.
+3. Your project **must not** use the default chiptune. 
+4. Your project must be **published** to the Itch.io website.
+5. Your project must be **documented** in a video playthrough.
 
 #### Your work will be divided in three phases: 
 
-* 3.3. A brief description of your ideas, as informed by brainstorming and other research, due **3/20**.
-* 3.4. A rough draft of your game, due **3/25**. You will present your draft to a small group of peers in the class for playtesting and feedback.
-* 3.5. A published game to be shown in critique, due **4/1**. You will present the final version of your project to the entire class, presenting it from its page on Itch.io.
+* 4.3. A brief description of your ideas, as informed by brainstorming and other research, due **3/23-24**.
+* 4.4. A rough draft of your game, due **3/25-26**. You will present your draft to a small group of peers in the class for playtesting and feedback.
+* 4.5. A published game to be shown in critique, due **4/1-2**. You will present the final version of your project to the entire class, presenting it from its page on [itch.io](https://itch.io/).
 
 
-### Brainstorming
+## Brainstorming
 
-To arrive at the idea for your project, consider how you might retell the story (or recreate the world) of something like the following:
+To arrive at the idea for your project, consider how you might retell the story (or recreate the world) of something like the following (for example):
 
 * A memory from your childhood
 * A dream you remember
 * A fairy tale or myth you relate to
-* A joke or shaggy-dog story you like to tell
+* A joke, anecdote, or shaggy-dog story you like to tell
 * A situation you found yourself in recently
 * A family story
 * A house you used to live in
 * *This is not an exhaustive list!*
 
-**Alternatively** — Prof. Pedercini encourages the students in his section to combine a *narrative prompt* (content) with a *theme modifier* (form): 
+**Alternatively** — Prof. Pedercini encourages his students to combine a *narrative prompt* (content) with a *theme modifier* (form):
 
-| **Narrative prompts** | **Theme modifiers** |
-|-----------------------|--------------------------------|
-| Everything in one room | Non-linear space (the rooms do not describe a continuous space) |
-| Memory                | Non-linear time (the game has flashforwards or flashbacks) |
-| Abstract              | Loop: the game ends where it began |
-| Poem                  | Multiple endings |
-| Aging                 | Multiple beginnings |
-| Utopia                | Multiple or changing avatars |
-| Inequality            | Non-fiction / Documentary |
-| Obsession             | Autobiographical |
-| Educational           | No movement in space |
-| Alphabet              | Abstract avatar (what if it’s not a person walking around) |
-| Adapt old fiction     | Abstract space (inhabit a painting)|
-| Hostile architecture  | Non human/non anthropomorphized avatar |
-| Before and after      |                                |
-| Colonization          |                                |
-| Bureaucracy           |                                |
-| Four Seasons          |                                |
-| An upsetting dream    |                                |
-| Glitch                |                                |
-| My first time         |                                |
-| Reverse time          |                                |
-| Smell                 |                                |
-| Sport                 |                                |
-| Paranoia              |                                |
-| Riot                  |                                |
-| Death                 |                                |
-| Factory               |                                |
-| Memorabilia           |                                |
+**Narrative prompts:**
+
+> Everything in one room; Memory; Abstract; Poem; Aging; Utopia; Inequality; Educational; Obsession; Alphabet; Adapt old fiction; Hostile architecture; Before and after; Colonization; Bureaucracy; Four Seasons; An upsetting dream; Glitch; My first time; Reverse time; Smell; Sport; Paranoia; Riot; Death; Factory; Memorabilia.
+
+**Theme Modifiers:**
+
+> Non-linear space; Non-linear time (flashforward, flashback); Loop; The game ends where it began; Multiple endings; Multiple beginnings; Multiple or changing avatars; Non-fiction / Documentary; Autobiographical; Abstract space (inhabit a painting); Abstract avatar; Non-Human Avatar.
 
 **Give consideration to:**
 
@@ -175,22 +153,21 @@ To arrive at the idea for your project, consider how you might retell the story 
 * How can you surprise the player? What is a twist, a discovery, a revelation you can deliver towards the end?
 
 
-### Research Work
+## Research Work
 
-*Now*, for Thursday, March 20, **please do the following**: 
+*Now*, for Monday 3/23 (A) or Tuesday 3/24 (B), **please do the following**: 
 
 * (10 minutes) **Read** this brief article on [*Standard Patterns in Choice-Based Games*](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/) (10 minute read)
 * (2 minutes) Briefly (re)-**Scan** [this collection of tutorials](https://www.youtube.com/playlist?list=PLlXuD3kyVEr6bprFqUBCOEWT47xqYmVQ4), which shows you how to achieve some advanced tricks that are well-supported within Bitsy (such as conditional dialogue)
 * (2 minutes) Briefly **Scan** [this collection of Bitsy hacks](https://github.com/seleb/bitsy-hacks/blob/main/README.md), which shows some of the ways in which the open-source community have extended the functionality of Bitsy. *Be aware that it can be a little tricky to get some of these hacks to work properly.*
-* (5 minutes) Briefly **Scan** some of the [games made by previous students in this course](https://github.com/golanlevin/60-120/blob/main/2025/lectures/interactive_narrative/some_bitsy_games.md#cmu-student-bitsy-projects), to get a feel for what it's possible for an CMU art student to achieve in a couple of weeks.
-* **Conceive** two different ideas for a short Bitsy game elaborating on your theme. 
-* **Make** a single room in Bitsy that is representative of the style, the dialogue and the vibe of your possible game(s). Don’t get too attached to this room: This is strictly for you to get acquainted with the tool, to do a vibe check, and to understand how long it takes to make things.
+* (5 minutes) Briefly **Scan** some of the [games made by previous students in this course](https://github.com/CMUSchoolOfArt/60-120/blob/main/lectures/interactive_narrative/some_bitsy_games.md#cmu-student-bitsy-projects), to get a feel for what it's possible for an CMU art student to achieve in a couple of weeks.
+* **Conceive** *two* different ideas for a short Bitsy experience elaborating on your theme. 
+* **Make** a single room in Bitsy that is representative of the style, the dialogue and the vibe of your possible experience(s). *Don’t get too attached to this room*: This is strictly for you to get acquainted with the tool, to do a vibe check, and to understand how long it takes to make things.
 * **Create** a post in the Discord channel, `#4-3-research`
 * In your post, **Describe** your two different project ideas. 
 * **Mention** concepts and/or techniques you'd like to explore.
 * **Include** an image of the room you made. 
 
--->
 
 ---
 
@@ -198,16 +175,13 @@ To arrive at the idea for your project, consider how you might retell the story 
 
 *This is due Wednesday March 25 (Section A) or Thursday March 26 (Section B). Estimated time: ~6 hours.*
 
-**Details TBA.**
 
-<!--
-
-On Thursday March 27, you will present your draft to a small group of peers in the class for playtesting and feedback.
+On March 25 (A) or 26 (B), you will present your draft to a small group of peers in the class for playtesting and feedback.
 
 * To get started, **Plan** out your project using a storyboard and graph paper. Keep your drawings/notes. Plan all of your rooms on paper, including sprites, NPC dialogue, etc.
-* You are **strongly advised** to export and save intermediate copies of your work *frequently*.
-* You should anticipate that you may need to do some additional research, specific to your project, about how to use advanced features of the Bitsy environment (e.g. variables) that may not have been covered in the previous Tutorial.
-* **NOTE**: Adding recorded audio/music beyond Bitsy's chiptunes can be tricky, and involves integrating “hacks” that are described [here](https://candle.itch.io/bitsy-audio), [here](https://kool.tools/bitsy/tools/bitsymuse-ui/), and in documentation [here](https://github.com/seleb/bitsy-hacks/blob/main/dist/bitsymuse.js). I strongly advise you to learn how to add sound to a test/scratchpad project before March 25. To make this easier, some students have recommended switching to [Bitsy Savior](https://aloelazoe.itch.io/bitsy-savior), a standalone Bitsy editing tool, instead of developing your project in the web browser.
+* You are **STRONGLY ADVISED** to export and save intermediate copies of your work *frequently*.
+* You should anticipate that you may need to do some additional research, specific to your project, about how to use advanced features of the Bitsy environment (e.g. variables) that may not have been covered in the previous Tutorials.
+* **NOTE**: Adding recorded audio/music beyond Bitsy's chiptunes can be tricky, and involves integrating “hacks” that are described [here](https://candle.itch.io/bitsy-audio), [here](https://kool.tools/bitsy/tools/bitsymuse-ui/), and in documentation [here](https://github.com/seleb/bitsy-hacks/blob/main/dist/bitsymuse.js). We strongly advise you to learn how to add sound to a test/scratchpad project before this draft is due. To make this easier, some students have recommended switching to [Bitsy Savior](https://aloelazoe.itch.io/bitsy-savior), a standalone Bitsy editing tool, instead of developing your project in the web browser.
 
 
 Now: 
@@ -220,7 +194,6 @@ Now:
 * **Write** a sentence or two explaining: How is your game played? What do your players need to know to navigate your draft? 
 * **Write** an answer to the following: In our in-class playtest session, *what would be helpful for you to get feedback on? What decisions did you make that you’re not sure about?*
 
--->
 
 ---
 

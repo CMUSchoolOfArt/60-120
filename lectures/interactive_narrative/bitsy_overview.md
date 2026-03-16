@@ -2,12 +2,39 @@
 
 ![bitsy_mystery_dungeon.png](img/bitsy_mystery_dungeon.png)
 
-* [**Bitsy**](https://ledoux.itch.io/bitsy) is a little editor for little games or worlds. 
+* [**Bitsy**](https://ledoux.itch.io/bitsy) is a little editor for little games or worlds -- a sketchbook for interactive narrative. 
 * Bitsy games typically involve some kind of avatar moving through different rooms.
 * Each room is made from repeatable tiles and can contain interactive objects and exits to other rooms.
 * “Pushing against” interactive objects can make them disappear (collectables) or display text (dialogues, monologues, descriptions, narration).
-* Bitsy's features are highly constrained (colors, resolution, animation. 
+* Bitsy's features are highly constrained (colors, resolution, animation). 
 * There are lots of hacks and mods for extending Bitsy. Bitsy doesn’t require programming, though you can add it if you want.
+
+---
+
+
+### Core Characteristics of Bitsy
+
+**Extremely low technical barrier**
+
+* Runs entirely in the browser.
+* No programming.
+
+**Severe technical constraints**
+
+* Low-resolution tiles and sprites.
+* Limited color palettes.
+* Limited mechanics: movement, dialogue, item pickup, simple state changes.
+
+**Narrative-first structure**
+
+* Interaction happens through walking through spaces and triggering text.
+* Story progression is tied to exploration and encounters rather than combat or physics systems.
+* Branching dialogue and conditional events allow simple interactive storytelling.
+
+**Rapid prototyping**
+
+* A complete game can be made in minutes.
+* Export is trivial (HTML file).
 
 ---
 
