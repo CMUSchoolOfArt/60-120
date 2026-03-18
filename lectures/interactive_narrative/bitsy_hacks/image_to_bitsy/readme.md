@@ -48,8 +48,12 @@ And here's my 128x128 crop PNG:<br />
 5. **Experiment** with some of the dozens of choices from the *Algorithm* pull-down menu, such as Floyd-Steinberg, Atkinson, Sierra, etc. **Fiddle** with the *Threshold* slider, which will adjust how the brightness levels are interpreted.
 6. In the *Export* tab, **save** your black-&-white, 128x128 dithered image as a PNG file with a new filename. 
 
-Here's my 128-pixel image crop, dithered using various algorithms:
+Here's my image crop, cropped to 128x128 and dithered using various algorithms:
 ![haunted_castle1_dithered_set1x.png](haunted_castle1/haunted_castle1_dithered_set1x.png)
+
+Here's a single example: 
+
+![haunted_castle1_dithered_a.png](haunted_castle1/haunted_castle1_dithered_a.png)
 
 ---
 
@@ -90,9 +94,10 @@ ROOM 2
 ...
 ```
 
-* **Copy** the modified game data from the tool, and **paste/save** it into a *new* Bitsy file, such as `my_game_v2.bitsy`. 
+* The new room and its tiles have been added into your game data when you clicked the *write to game data* button. Now, **Copy** the entire modified game data from the tool, and **paste/save** it into a *new* Bitsy file, such as `my_game_v2.bitsy`. 
 * *Before* uploading the new game data to the the Bitsy editor, I recommend **starting** the Editor from a New Game, and **refreshing** the browser.
 * In the Game tool of the editor, **click** *load data* and **upload** your new game data, `my_game_v2.bitsy`. 
+* ***Caution***: the Bitsy editor can start to feel slow when you add hundreds of tiles...
 
 ---
 
