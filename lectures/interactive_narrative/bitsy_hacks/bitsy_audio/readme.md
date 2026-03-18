@@ -7,10 +7,11 @@
 
 ## WARNING
 
-Once you add audio to your game with this hack, you can't upload the game back into the online editor -- you'll lose all of your sound-work. You should either: 
+**Once you add audio to your game with this hack, you can't upload the game back into the online editor** -- you'll lose all of your sound-work. You should *either*: 
 
-* Add sound as the last thing you do, once your game is finished, OR
-* Edit your game thereafter using an offline Bitsy editor such as [Borksy](https://ayolland.itch.io/borksy) or [Bitsy Savior](https://aloelazoe.itch.io/bitsy-savior). *Your mileage may vary!!!*
+* **Add sound as the last thing you do**, once your game is finished, *OR*
+* Edit your game thereafter using an offline Bitsy editor such as [Borksy](https://ayolland.itch.io/borksy) or [Bitsy Savior](https://aloelazoe.itch.io/bitsy-savior).
+* *Your mileage may vary!!! Save your work often!*
 
 ---
 
@@ -32,13 +33,13 @@ Once you add audio to your game with this hack, you can't upload the game back i
 ```
 
 * **Go** to the [bitsymuse hack repository](https://github.com/seleb/bitsy-hacks/blob/main/dist/bitsymuse.js)
-* **Copy** the code in the bitsymuse.js file. The code is approximately 515 lines long. 
+* **Copy** the code in the bitsymuse.js file. The code is approximately 515 lines long. (Here's a [local backup copy](bitsymuse.js)).
 * **Paste** the bitsymuse code in-between the `<script>` and `</script>` tags that you just added. 
 
 
 ### Configure Bitsymuse to Load Your Audio
 
-* **Prepare** some MP3 audio files, using an audio editor such as Audacity. You can have audio that loops, or not. I strongly recommend keeping your audio files well under 1MB.
+* **Prepare** some MP3 audio files, using an audio editor such as [Audacity](https://www.audacityteam.org/) (free!). You can have audio that loops, or not. I strongly recommend keeping your audio files well under 1MB.
 * **Place** your MP3 files in the same directory as your game HTML. For example, my files look like this: 
 
 ![directory_screenshot.png](img/directory_screenshot.png) 
@@ -48,7 +49,7 @@ Once you add audio to your game with this hack, you can't upload the game back i
   * mappings from *MP3 filenames* to *sound-nicknames*, in the `audio` field,
   * assignments of *sound-nicknames* to *room-ID-numbers*, in the `musicByRoom` field
 * I have demonstrated this in the snippet below. **Observe** how: 
-  * the MP3 file `river.mp3` gets the sound-nickname `river` (and is also set to loop, and given 80% volume)
+  * the MP3 file `river.mp3` gets the sound-nickname `river` (and is also set to loop, and is given 80% volume)
   * the sound nicknamed `river ` has been assigned to room #`2`
 
 
@@ -96,6 +97,7 @@ var hackOptions = {
 ## Example
 
 * You can study a working example in [this minimal game](bitsymuse_audio_game.html). 
+* Here's the original game [before the audio hack was added to it](pre_hacked_game.html).
 * This game is silent in room 0, plays wind sounds in room 1, and river sounds in room 2. 
 * [**Live version**](https://raw.githack.com/golanlevin/60-120/main/2025/lectures/interactive_narrative/bitsy_hacks/bitsy_audio/bitsymuse_audio_game.html)
 

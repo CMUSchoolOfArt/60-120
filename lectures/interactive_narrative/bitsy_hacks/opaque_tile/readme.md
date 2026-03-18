@@ -50,7 +50,7 @@ var hackOptions = {
 ## Example
 
 * You can study a working example in [this minimal game](opaque_tile_game.html). 
-* This game is silent in room 0, plays wind sounds in room 1, and river sounds in room 2. 
+* Here's the same [game before the hack was added](pre_hacked_game.html). 
 * [**Live version**](https://raw.githack.com/golanlevin/60-120/main/2025/lectures/interactive_narrative/bitsy_hacks/opaque_tile/opaque_tile_game.html)
 
 

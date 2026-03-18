@@ -28,7 +28,7 @@
 * `W Mar 11` - [Notes](20260311.md); **Due:** 3.1 Internet Curation speed project
 * `--------`
 * `M Mar 16` - [Notes](20260316.md); **Due**: [4.1. Looking Outwards: Bitsy Games](../assignments/unit_4/readme.md#41-looking-outwards-bitsy-games)
-* `W Mar 18` - **Due**: [4.2. Bitsy Tutorial](../assignments/unit_4/readme.md#42-bitsy-tutorial)
+* `W Mar 18` - [Notes](20260318.md); **Due**: [4.2. Bitsy Tutorial](../assignments/unit_4/readme.md#42-bitsy-tutorial)
 * `M Mar 23` - **Due**: [4.3. Research Phase](../assignments/unit_4/readme.md#43-research-phase)
 * `W Mar 25` - **Due**: [4.4. Draft of Narrative/Game](../assignments/unit_4/readme.md#44-draft-of-narrativegame)
 * `M Mar 30` - Work Session
