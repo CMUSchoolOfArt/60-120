@@ -29,15 +29,15 @@
 * `--------`
 * `M Mar 16` - [Notes](20260316.md); **Due**: [4.1. Looking Outwards: Bitsy Games](../assignments/unit_4/readme.md#41-looking-outwards-bitsy-games)
 * `W Mar 18` - [Notes](20260318.md); **Due**: [4.2. Bitsy Tutorial](../assignments/unit_4/readme.md#42-bitsy-tutorial)
-* `M Mar 23` - **Due**: [4.3. Research Phase](../assignments/unit_4/readme.md#43-research-phase)
-* `W Mar 25` - **Due**: [4.4. Draft of Narrative/Game](../assignments/unit_4/readme.md#44-draft-of-narrativegame)
-* `M Mar 30` - Work Session
+* `M Mar 23` - [Notes](20260323.md); **Due**: [4.3. Research Phase](../assignments/unit_4/readme.md#43-research-phase)
+* `W Mar 25` - [Notes](20260325.md); **Due**: [4.4. Draft of Narrative/Game](../assignments/unit_4/readme.md#44-draft-of-narrativegame)
+* `M Mar 30` - Audio [demonstration](https://github.com/CMUSchoolOfArt/60-120/tree/main/lectures/interactive_narrative/bitsy_hacks/bitsy_audio). Work Session.
 * `W Apr 01` - **Due: [4.5. Nonlinear/Interactive Narrative/Game](../assignments/unit_4/readme.md#45-nonlinearinteractive-narrativegame)**
 * `--------`
-* `M Apr 06`
-* `W Apr 08`
-* `M Apr 13`
-* `W Apr 15`
+* `M Apr 06` 
+* `W Apr 08` 
+* `M Apr 13` 
+* `W Apr 15` 
 * `M Apr 20` 
 * `W Apr 22` - Responsive System due in-class
 * `M Apr 27` - **Due: Unit 5 Main Project** (Responsive System)
