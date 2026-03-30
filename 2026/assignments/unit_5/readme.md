@@ -88,14 +88,14 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 *This is due before class on Wednesday, April 13 (Section A) or Thursday, April 14 (Section B). Estimated time: ~2 hours.* 
 
-Review introductory tutorials related to:
+* Review introductory tutorials related to:
 
-* [Shapes & Color]()
-* [Basic Compositing]()
-* [Mattes & Masks]()
-* [Building Patterns]()
+  * [Shapes & Color]()
+  * [Basic Compositing]()
+  * [Mattes & Masks]()
+  * [Building Patterns]()
 
-Explore these foundational concepts in relation to  [**Instancing**](https://learn.derivative.ca/courses/200-intermediate/lessons/201-converting-data-types-and-instancing/), [**Feedback**](https://learn.derivative.ca/courses/200-intermediate/lessons/202-tops-intermediate/), and [**Signal Manipulation**](https://learn.derivative.ca/courses/200-intermediate/lessons/203-chops-intermediate/) techniques.
+* Explore these foundational concepts in relation to  [**Instancing**](https://learn.derivative.ca/courses/200-intermediate/lessons/201-converting-data-types-and-instancing/), [**Feedback**](https://learn.derivative.ca/courses/200-intermediate/lessons/202-tops-intermediate/), and [**Signal Manipulation**](https://learn.derivative.ca/courses/200-intermediate/lessons/203-chops-intermediate/) techniques.
 
 ### Due: 04/13 (Section A) & 04/14 (Section B)
 
