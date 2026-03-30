@@ -31,7 +31,7 @@ This unit extends through Wednesday, April 29 (Sections A & B), and has **six de
 
 ---
 
-#5.1. Looking Outwards: Responsive Environments
+# 5.1. Looking Outwards: Responsive Environments
 
 *This Looking-Outwards report is due Monday, April 06 (Section A) or Tuesday, April 07 (Section B). Estimated time is ~1.5 hours.*
 
@@ -60,7 +60,7 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 ---
 
-#5.2. TouchDesigner Tutorials
+# 5.2. TouchDesigner Tutorials
 
 *This is due before class on Wednesday, April 08 (Section A) or Thursday, April 09 (Section B). Estimated time: ~2 hours.* 
 
@@ -83,7 +83,7 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 ---
 
-#5.3. Generative Patterns
+# 5.3. Generative Patterns
 ### Converting Data Types
 
 *This is due before class on Wednesday, April 13 (Section A) or Thursday, April 14 (Section B). Estimated time: ~2 hours.* 
@@ -105,7 +105,7 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 ---
 
-#5.4. MediaPipe Tutorials
+# 5.4. MediaPipe Tutorials
 
 *This is due before class on Wednesday, April 15 (Section A) or Thursday, April 16 (Section B). Estimated time: ~2 hours.* 
 
@@ -128,7 +128,7 @@ You can download the MediaPipe plugin from our class [**Google Drive Share**](ht
 * **Test** the various tracking methods one at a time and **Post** screenshots of your **Face**, **Hand**, and **Pose** tracking results in the Discord channel `5-4-mediapipe-tutorials`
 
 ---
-#5.5. Responsive Environment Draft
+# 5.5. Responsive Environment Draft
 
 *This is due before class on Monday, April 20 (Section A) or Tuesday, April 21 (Section B). Estimated time: ~6 hours.*
 
@@ -145,7 +145,7 @@ Create a responsive environment in TouchDesigner that is driven by real-time dat
 
 ---
 
-#5.6. Responsive Environment
+# 5.6. Responsive Environment
 
 *This is due before 12pm (noon) on Tuesday, April 28 (Sections A & B). Estimated time: ~10 hours.*
 
