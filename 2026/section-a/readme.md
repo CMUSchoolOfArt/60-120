@@ -34,15 +34,14 @@
 * `M Mar 30` - Audio [demonstration](https://github.com/CMUSchoolOfArt/60-120/tree/main/lectures/interactive_narrative/bitsy_hacks/bitsy_audio). Work Session.
 * `W Apr 01` - **Due: [4.5. Nonlinear/Interactive Narrative/Game](../assignments/unit_4/readme.md#45-nonlinearinteractive-narrativegame)**
 * `--------`
-* `M Apr 06` 
-* `W Apr 08` 
-* `M Apr 13` 
-* `W Apr 15` 
-* `M Apr 20` 
-* `W Apr 22` - Responsive System due in-class
-* `M Apr 27` - **Due: Unit 5 Main Project** (Responsive System)
-* `W Apr 29` - 5pm: **Exhibition Opening**, CFA 3rd fl. South Foyer 
-
-
+* `M Apr 06` - **Due**: [5.1. Looking Outwards](../assignments/unit_5/readme.md#51-looking-outwards-responsive-environments)
+* `W Apr 08` - **Due**: [5.2. TouchDesigner Tutorials](../assignments/unit_5/readme.md#52-touchdesigner-tutorials)
+* `M Apr 13` - **Due**: [5.3. Generative Patterns](../assignments/unit_5/readme.md#53-generative-patterns)
+* `W Apr 15` - **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
+* `M Apr 20` - **Due**: [5.5. Responsive Environment Draft](../assignments/unit_5/readme.md#55-responsive-environment-draft)
+* `W Apr 22` - *Work session.*
+* `M Apr 27` - *Work session.*
+* `T Apr 28` - **Due**: [5.6. Responsive Environment](../assignments/unit_5/readme.md#56-responsive-environment), by noon
+* `W Apr 29` - 5pm: [**Responsive Environment Presentations**](../assignments/unit_5/readme.md#responsive-environment-presentation), CFA 3rd fl. South Foyer  
 
 
