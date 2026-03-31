@@ -6,7 +6,7 @@
 
 ## Art in Flux: Things and Events
 
-![John Cage_Theater Piece no1 (1952).png](img/John Cage_Theater Piece no1 (1952).png)
+![John-Cage-1952.png](img/John-Cage-1952.png)
 **John Cage**, *Theater Piece no. 1* (1952)
 > “I am interested in any art not as a closed-in thing by itself but as a going-out one to interpenetrate with all other things, even if they are arts too. All of these things, each one of them seen as of first importance; no one of them as more important than another. In theater, as Artaud points out, it is death to place literature in the only central position; and so I do not agree that ‘film is a visual form’. The images don’t interest me any more than the sound. Nor am I interested in the artistic arrangement of sound to go with or against the images. All that comes about in a successful such situation is a composite of two, not an imitation … of nature in her manner of operation as, in our time, her operation is revealed.” 
 > 
