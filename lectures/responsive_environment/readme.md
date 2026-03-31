@@ -63,23 +63,36 @@
 **Stan VanDerBeek**, *[Movie Drome](https://www.youtube.com/watch?v=GUn6ssvNj9Q&t=5s)* (left, 1965); *Movie-Drome under construction, Stony Point, New York* (right, 1964)
 > *The variable nature of Expanded Cinema-understood here as artworks that employed multiple audio and visual projection sources in an intimate environment-chafed against object-based art's engagement with originality and singularity. Instead Expanded Cinema projects and events prioritized the principles of collaboration and transparency of process in order to illuminate the broader media ecology within which these types of art works circulated. More significantly, [the] emergence of Expanded Cinema reflected visual art's adoption of the specific semantic codes and modalities ushered in by cybernetics and systems theory.*
 > 
-> *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema, p10 (2015)*
+> *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema, p08 (2015)*
 
 ![Stan-VanDerBeek-1965-68.jpg](img/Stan-VanDerBeek-1965-68.jpg)
 **Stan VanDerBeek**, *Movie-Mural* (1965-68)
+> *"VanDerBeek's Movie-Drome pointed to the notion of a programmable apparatus-executing a variety of operations based on codes, instructions, or directions set by the artist-linking it more to the basic traits associated with computer processing rather than the cinematic apparatus, or any type of film-projection design.*
+> 
+> *Beyond simply providing a metaphor for plurality, the term 'multimedia' suggests that meaning is produced out of the more complicated relationship in which the discrete forms of film, video, sound, and dance are mediated among and through one another. That is to say, media is subject to a process of remediation. This also pressures the paradigm of fidelity that subtends much of time-based work. Remediation can be thought of as the simultaneous synthesis of various functions and characteristics from different media."*
+> 
+> *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema, p138 (2015)*
 
 ![Stan-VanDerBeek-1970.jpeg](img/Stan-VanDerBeek-1970.jpeg)
 **Stan VanDerBeek**, *Panels for the Walls of the World: Phase II* (1970). 
 
 > *Panels for the Walls of the World: Phase II (1970) is a grid of 153 sheets of paper totaling six feet by twenty. It was conceived to be transmitted from MIT as individual sheets of facsimile to its exhibition destination, long before “fax” became a commonplace verb (Xerox introduced the technology in the mid-1960s with advertising copy that read “Mail Letters Over the Phone!”) and daily implement.* 
 > 
-> *- Stephen Frailey, "Stan VanDerBeek: Transmissions", The Brooklyn Rail. April 2024*
+> *- Stephen Frailey, ["Stan VanDerBeek: Transmissions", The Brooklyn Rail. April 2024](https://brooklynrail.org/2024/04/artseen/Stan-VanDerBeek-Transmissions/)*
+> 
+> *"Panels for the Walls of the World, was an ongoing project in which collaged newspapers, drawings, and found images were scanned and faxed to the Smithsonian from other institutions including the Center for Advanced Visual Studies. This project developed from a set of fax murals that VanDerBeek started experimenting with in 1969 at the start of his residency at MIT. The resulting black-and-white 11 x 14-inch pages were printed out in Washington and mounted on a wall in the exhibition space over the duration of the exhibition, giving rise to a time-based mural display following a set of instructions for the installation."*
+> 
+> *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema, p62 (2015)*
 
 ![Shigeko-Kubota-1993.jpg](img/Shigeko-Kubota-1993.jpg)
 **Shigeko Kubota**, *Korean Grave* (1993)
 
 ![Shigeko-Kubota.jpg](img/Shigeko-Kubota.jpg)
 *A collection of Kubota’s works at the Mother Gallery, Beacon NY.*
+> *“In her own practice Kubota purposefully eschewed the emerging vocabularies of projection and performance... Instead, Kubota doubled down on presenting video as sculpture. She explored the possibilities of melding the elemental forms, serial compositions, and industral fabrication techniques of postwar American sculptural abstraction... with the developing American feminist engagement with autobiographical video.”*
+> 
+>  *- Gloria Sutton, et al. "Shigeko Kubota: Liquid Reality". The Museum of Modern Art, 2021.*
+
 
 ![Nam-June-Paik-1974–77.jpg](img/Nam-June-Paik-1974–77.jpg)
 **Nam June Paik**, *TV Garden* (1974–77)
@@ -92,7 +105,7 @@
 
 > *From 1989, beginning with the work Fin de Siecle II, work by Rebecca Allen was integral to a number of Nam June Paik's video installations. In addition, Paik commissioned Allen to create work for the new Chase Manhattan Bank headquarters in New York and the Taejon World Expo.* 
 > 
-> *https://www.rebeccaallen.com/projects/nam-june-paik-collaborations*
+> *[https://www.rebeccaallen.com/projects/nam-june-paik-collaborations](https://www.rebeccaallen.com/projects/nam-june-paik-collaborations)*
 
 ---
 
@@ -100,9 +113,17 @@
 
 ![Camille-Utterback-1999.jpg](img/Camille-Utterback-1999.jpg)
 **Camille Utterback**, *Text Rain* (1999)
+> *'Text Rain' is an interactive installation in which participants use the familiar instrument of their bodies, to do what seems magical—to lift and play with falling letters that do not really exist.*
+> 
+> [*https://camilleutterback.com/projects/text-rain/*](https://camilleutterback.com/projects/text-rain/)
 
 ![Camille-Utterback-2004.jpg](img/Camille-Utterback-2004.jpg)
 **Camille Utterback**, *Untitled 5* (2004)
+> *'Untitled 5' is the fifth interactive installation in the External Measures Series, which Utterback has been developing since 2001. The goal of these works is to create an aesthetic system which responds fluidly and intriguingly to physical movement in the exhibit space. The installations respond to their environment via input from an overhead video camera. Custom video tracking and drawing software outputs a changing wall projection in response to the activities in the space. The existence, positions, and behaviors of various parts of the projected image depend entirely on people’s presence and movement in the exhibit area.*
+> 
+> *'Untitled 5' creates imagery that is painterly, organic, and evocative while still being completely algorithmic. To create this work, Utterback first develops sets of animated marks whose parameters and behaviors are controlled by people’s movements. Then, out of a working ‘palette’ of these animated marks, she composes an overall composition. The composition balances responses whose logic is immediately clear, with responses that feel connected to viewer’s movements, but whose logic remains complex and mysterious.*
+> 
+> [*https://camilleutterback.com/projects/untitled-5/*](https://camilleutterback.com/projects/untitled-5/)
 
 ![Cory-Arcangel-21-Century.png](img/Cory-Arcangel-21-Century.png)
 **Cory Arcangel**, *elleusa, equinor, equinox, etrade_financial*, (left, 2020); */roʊˈdeɪoʊ/ Let’s Play: HOLLYWOOD*, (right, 2017-21)
@@ -124,17 +145,32 @@
 > 
 > *In the installation, Jacquard punch cards return in altered form as custom controllers, painted and embroidered with symbols and systems that translate touch into function within virtual worlds. They operate as archival storytelling instruments: tactile, touch-sensitive devices that bind narrative to material form.*
 > 
-> *https://www.kinnarisaraiya.com/intheeyeofadream*
+> *[https://www.kinnarisaraiya.com/intheeyeofadream](https://www.kinnarisaraiya.com/intheeyeofadream)*
 
 ![Oliver-Beer-2019.jpg](img/Oliver-Beer-2019.jpg)
 **Oliver Beer**, [*Vessel Orchestra*](https://drive.google.com/file/d/1SsUsdvy6HXphUIECr3Ol6jREBbf2mFh4/view?usp=drive_link) (2019)
+> *Exhibition Overview: Composed of thirty-two sculptures, utilitarian containers, and decorative objects from the Museum's collection, Vessel Orchestra is the first sound-based installation commissioned by The Met. British artist Oliver Beer (born 1985) uses microphones and speakers to amplify and shape the ambient tones resonating within each vessel, transforming them into an arresting and unexpectedly versatile musical instrument. With objects ranging in origin from ancient Persia to modern America, this exhibition links works of art across historical periods and cultures, creating an audible portrait of The Met collection.*
+> 
+> *Drawing on his musical training, Beer creates artworks that reveal the hidden properties of objects, bodies, and architectural sites. His social and familial relationships often become the blueprint for multidisciplinary works that engage with both intimate and universal concerns, such as the personal and cultural meanings invested in the things we possess.*
+> 
+>  [*https://www.metmuseum.org/exhibitions/listings/2019/oliver-beer-vessel-orchestra*](https://www.metmuseum.org/exhibitions/listings/2019/oliver-beer-vessel-orchestra)
 
 ![WEIDI-ZHANG-2019.png](img/WEIDI-ZHANG-2019.png)
-**Weidi Zhang**, [*Cangjie's Poetry*](https://www.zhangweidi.com/cangjiepoetry) (2019-20)
+**Weidi Zhang and Donghao Ren**, [*Cangjie's Poetry*](https://www.zhangweidi.com/cangjiepoetry) (2019-20)
+> *Trained on over 9,000 Chinese characters, the AI system Cangjie by Weidi Zhang and Donghao Ren is creating a new language to converse with the spectator, creating an immersive data visualization spectacle in a multi modal installation. Cangjie's Poetry tackles the issue of language creation between human and machine in a sensitive, poetic, and fragile way. Cangjie´s Poetry is an exceptional and far-reaching work bringing data visualization and the use of AI in co-creation between being and apparatus."*
+> 
+> [*- Prix Ars Electronica Honorary Mention*](https://www.zhangweidi.com/cangjiepoetry)
 
 ![MAOTIK-LOE-2023.png](img/MAOTIK-LOE-2023.png)
 **MAOTIK**, [*Layers of Earth*](https://maotik.com/layers/) (2023)
+> *Mathieu Le Sourd, also known as MAOTIK, is a French digital artist with a focus on creating immersive environments, interactive installations and audiovisual performances which play at the intersection of art, science, and technology.*
+> 
+> *The artist studied Digital Media Production at the London College of Communication in London and holds a Master's Degree in Digital Arts from Pompeu Fabra University in Barcelona. MAOTIK creates immersive environments using custom-designed softwares that transform perceptions of reality in real time. His approach to generative art is defined by the fluid motion of images and their seamless integration into immersive spaces. His work is inspired by nature, abstracting its essence through audiovisual sculptures based on randomness, creating unique experiences each time. He frequently involves audiences in his work, pushing the boundaries of perception with generative art, sound, algorithms, and data to envelop viewers in a fully immersive artistic experience.*
+> 
+> [*https://maotik.com/*](https://maotik.com/)
 
 ![Akiko-Nakayama-2022.png](img/Akiko-Nakayama-2022.png)
 **Akiko Nakayama & Eiichi Sawado**, [*The Morphology of Freely Rising Deformable Bubbles*](https://www.youtube.com/watch?v=QYUd5pVQCBQ), *ETERNAL Art Space, Panasonic Center Tokyo Ariake Studio, Tokyo, Japan* (2022)
+> *Akiko Nakayama’s 'Alive Painting' is literally a “painting that is alive.” She uses water-repellent acrylic paper, Petri dish, sand surface, and other supplies as a “landscape” and drops or pours liquified paints on them; she shares the paintings—or the views orchestrated by various paints—through live performance with the audience. The images constantly change, which makes them impossible to be replicated. Alive Painting is an artistic conflation of the two major art mediums—painting and performance—and a unique form of creative expression. Nakayama is constantly updating the style of Alive Painting, collaborating with musicians, and adding improvised poems coinciding with the visual.*
 > 
+> *- Masanobu Matsumoto, ["What is Alive Painting? Artist Akiko Nakayama’s Poetic Emanation of Fluidity and Colors"](https://tokion.jp/en/2022/03/29/akiko-nakayama-alive-painting/), 2022*
