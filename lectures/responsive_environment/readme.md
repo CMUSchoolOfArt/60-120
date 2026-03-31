@@ -63,7 +63,7 @@
 **Stan VanDerBeek**, *[Movie Drome](https://www.youtube.com/watch?v=GUn6ssvNj9Q&t=5s)* (left, 1965); *Movie-Drome under construction, Stony Point, New York* (right, 1964)
 > *The variable nature of Expanded Cinema-understood here as artworks that employed multiple audio and visual projection sources in an intimate environment-chafed against object-based art's engagement with originality and singularity. Instead Expanded Cinema projects and events prioritized the principles of collaboration and transparency of process in order to illuminate the broader media ecology within which these types of art works circulated. More significantly, [the] emergence of Expanded Cinema reflected visual art's adoption of the specific semantic codes and modalities ushered in by cybernetics and systems theory.*
 > 
-> *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema (2015)*
+> *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema, p10 (2015)*
 
 ![Stan-VanDerBeek-1965-68.jpg](img/Stan-VanDerBeek-1965-68.jpg)
 **Stan VanDerBeek**, *Movie-Mural* (1965-68)
@@ -72,8 +72,8 @@
 **Stan VanDerBeek**, *Panels for the Walls of the World: Phase II* (1970). 
 
 > *Panels for the Walls of the World: Phase II (1970) is a grid of 153 sheets of paper totaling six feet by twenty. It was conceived to be transmitted from MIT as individual sheets of facsimile to its exhibition destination, long before “fax” became a commonplace verb (Xerox introduced the technology in the mid-1960s with advertising copy that read “Mail Letters Over the Phone!”) and daily implement.* 
-
-> Stephen Frailey, "Stan VanDerBeek: Transmissions", The Brooklyn Rail. April 2024
+> 
+> *- Stephen Frailey, "Stan VanDerBeek: Transmissions", The Brooklyn Rail. April 2024*
 
 ![Shigeko-Kubota-1993.jpg](img/Shigeko-Kubota-1993.jpg)
 **Shigeko Kubota**, *Korean Grave* (1993)
