@@ -141,4 +141,9 @@ Recovered from:
 * [here](https://web.archive.org/web/20230929093115/http://mycours.es/digitalmedia/bitsy/)
 * [here](http://mycours.es/gamedesign2021/brainstorm-bitsy-world/)
 
+Games to add: 
+
+* [The Stanley Parable](https://www.youtube.com/watch?v=-pHsFDiRqOM)
+* [Silent Hills: P.T.](https://www.youtube.com/watch?v=r6NCC-nnvMU)
+
 -->
