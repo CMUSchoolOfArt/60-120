@@ -32,7 +32,7 @@
 * `M Mar 23` - [Notes](20260323.md); **Due**: [4.3. Research Phase](../assignments/unit_4/readme.md#43-research-phase)
 * `W Mar 25` - [Notes](20260325.md); **Due**: [4.4. Draft of Narrative/Game](../assignments/unit_4/readme.md#44-draft-of-narrativegame)
 * `M Mar 30` - Audio [demonstration](https://github.com/CMUSchoolOfArt/60-120/tree/main/lectures/interactive_narrative/bitsy_hacks/bitsy_audio). Work Session.
-* `W Apr 01` - **Due: [4.5. Nonlinear/Interactive Narrative/Game](../assignments/unit_4/readme.md#45-nonlinearinteractive-narrativegame)**
+* `W Apr 01` - [Notes](20260401.md); **Due: [4.5. Nonlinear/Interactive Narrative/Game](../assignments/unit_4/readme.md#45-nonlinearinteractive-narrativegame)**
 * `--------`
 * `M Apr 06` - **Due**: [5.1. Looking Outwards](../assignments/unit_5/readme.md#51-looking-outwards-responsive-environments)
 * `W Apr 08` - **Due**: [5.2. TouchDesigner Tutorials](../assignments/unit_5/readme.md#52-touchdesigner-tutorials)
