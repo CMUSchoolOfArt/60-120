@@ -3,6 +3,8 @@
 Foundations of Electronic Media • 60-120
 
 ---
+![MAOTIK-BE-2025.png](img/MAOTIK-BE-2025.png)
+*MAOTIK, [Beyond Echoes](https://maotik.com/be/), 2025*
 
 ### TouchDesigner
 
@@ -16,7 +18,7 @@ This unit extends through Wednesday, April 29 (Sections A & B), and has **six de
 * `Apr 15/16` - **Due**: [**5.4. MediaPipe Tutorials**](#54-mediapipe-tutorials) *(~2 hours)*
 * `Apr 20/21` - **Due**: [**5.5. Responsive Environment Draft**](#55-draft-of-environment) *(~6 hours)*
 * `Apr 28` - **Due**: [**5.6. Responsive Environment**](#56-responsive-environment) *(~10 hours)*
-* `Apr 29` - **Showcase**: [**Responsive Environment Presention**](#responsive-environment-presentation)
+* `Apr 29` - **Showcase**: [**Responsive Environment Presentation**](#responsive-environment-presentation)
 
 
 ### Learning Objectives
@@ -35,6 +37,8 @@ This unit extends through Wednesday, April 29 (Sections A & B), and has **six de
 
 *This Looking-Outwards report is due Monday, April 06 (Section A) or Tuesday, April 07 (Section B). Estimated time is ~1.5 hours.*
 
+![NONOTAK-HIDDEN-SHADOWS.png](img/NONOTAK-HIDDEN-SHADOWS.png)
+*NONOTAK, [Hidden Shadows (v2)](https://nonotak.com/_HIDDEN-SHADOWS-V-2), 2025*
 
 ### What is TouchDesigner?
 
@@ -64,6 +68,9 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 *This is due before class on Wednesday, April 08 (Section A) or Thursday, April 09 (Section B). Estimated time: ~2 hours.* 
 
+![NONOTAK-SHIBUYA.png](img/NONOTAK-SHIBUYA.png)
+*NONOTAK, [Tokyu Sakura Stage Installation](https://nonotak.com/_SAKURA-STAGE-SHIBUYA), Tokyo JAPAN. Kajima design ( Architect ).*
+
 ### Due: 04/08 (Section A) & 04/09 (Section B)
 
 * Here are the official [**TouchDesigner Documentation and Learning Resources**](https://derivative.ca/learn); **Behold** the fact that this exists.
@@ -84,6 +91,10 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 ---
 
 # 5.3. Generative Patterns
+
+![NONOTAK-HIDDEN-SHADOWS-1920.png](img/NONOTAK-HIDDEN-SHADOWS-1920.png)
+*NONOTAK, [Hidden Shadows (v2)](https://nonotak.com/_HIDDEN-SHADOWS-V-2), 2025*
+
 ### Converting Data Types
 
 *This is due before class on Wednesday, April 13 (Section A) or Thursday, April 14 (Section B). Estimated time: ~2 hours.* 
@@ -109,6 +120,8 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 *This is due before class on Wednesday, April 15 (Section A) or Thursday, April 16 (Section B). Estimated time: ~2 hours.* 
 
+![MEDIAPIPE.png](img/MEDIAPIPE.png)
+
 The MediaPipe tools for TouchDesigner developed by Torin Blankensmith are an open-source plugin that integrates Google MediaPipe directly into TouchDesigner, enabling real-time computer vision inside a node-based workflow.
 
 In short, they provide a plug-and-play bridge between AI vision models and TouchDesigner.
@@ -132,6 +145,9 @@ You can download the MediaPipe plugin from our class [**Google Drive Share**](ht
 
 *This is due before class on Monday, April 20 (Section A) or Tuesday, April 21 (Section B). Estimated time: ~6 hours.*
 
+![AKIKO-NAKAYAMA.png](img/AKIKO-NAKAYAMA.png)
+*Akiko Nakayama, [Alive Painting](https://www.akikopainting.com/photos)*
+
 Create a responsive environment in TouchDesigner that is driven by real-time data. Convert data from live media streams or use prebuilt MediaPipe components to capture inputs such as hand gestures, facial detection, or body pose, to generate visual content or map visual parameters—such as color, motion, scale, or particle behavior. Establish a clear relationship between human movement and system response, emphasizing experimentation with interactivity, data flow, instancing, and real-time feedback. Demonstrate a working prototype where user presence and motion directly influence the behavior of a dynamic responsive environment.
 
 ### Due: 04/20 (Section A) & 04/21 (Section B)
@@ -149,6 +165,9 @@ Create a responsive environment in TouchDesigner that is driven by real-time dat
 
 *This is due before 12pm (noon) on Tuesday, April 28 (Sections A & B). Estimated time: ~10 hours.*
 
+![AKIKO-NAKAYAMA-2020.jpeg](img/AKIKO-NAKAYAMA-2020.jpeg)
+*Akiko Nakayama, [Alive Painting](https://www.akikopainting.com/photos), Tokyo 2020 Olympics*
+
 ### Due: 04/28 (Section B)
 
 * Name a copy of your TouchDesigner project file as:
@@ -160,3 +179,9 @@ Create a responsive environment in TouchDesigner that is driven by real-time dat
 * **Post** a screenshot and a brief description of your final project results in the Discord channel `5-6-responsive-environment`
 
 ---
+# Responsive Environment Presentation
+### Wednesday, April 29, 2026
+School of Art South Foyer
+
+![HILL-JIANG-2023.png](img/HILL-JIANG-2023.png)
+*Hill Jiang (TEA Community) live performance, FLARE Festival 2023*

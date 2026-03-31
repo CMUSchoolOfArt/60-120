@@ -98,3 +98,12 @@
 > *In the installation, Jacquard punch cards return in altered form as custom controllers, painted and embroidered with symbols and systems that translate touch into function within virtual worlds. They operate as archival storytelling instruments: tactile, touch-sensitive devices that bind narrative to material form.*
 > 
 > *https://www.kinnarisaraiya.com/intheeyeofadream*
+
+![Oliver-Beer-2019.jpg](img/Oliver-Beer-2019.jpg)
+**Oliver Beer**, [*Vessel Orchestra*](https://drive.google.com/file/d/1SsUsdvy6HXphUIECr3Ol6jREBbf2mFh4/view?usp=drive_link) (2019)
+
+![WEIDI-ZHANG-2019.png](img/WEIDI-ZHANG-2019.png)
+**Weidi Zhang**, [*Cangjie's Poetry*](https://www.zhangweidi.com/cangjiepoetry) (2019-20)
+
+![MAOTIK-LOE-2023.png](img/MAOTIK-LOE-2023.png)
+**MAOTIK**, [*Layers of Earth*](https://maotik.com/layers/) (2023)
