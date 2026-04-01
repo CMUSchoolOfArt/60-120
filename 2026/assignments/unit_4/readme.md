@@ -205,15 +205,15 @@ Now:
 ![bits.png](img/bits.png)
 
 * **Refine** and **revise** your project, incorporating your peers’ feedback.
-* **Do not under any circumstances use the default Bitsy music**. Turn it off. The default music tells players that you don’t know what you're doing and that they should not play your thing.
-* **Record** a brief video in which you present a play-through of your game. **Upload** this video to your Google drive or (preferably) to an unlisted YouTube location. Ideally this playthrough would have some narration.
+* **Do not under any circumstances use the default Bitsy music**. Turn it off. The default music tells players that you don’t know what you're doing and that they should not play your project.
+* **Record** a brief screenrecording video in which you present a play-through of your project. **Upload** this video to your Google drive or (preferably) to an unlisted YouTube location. Ideally this playthrough would have some narration. Keep it short; 2-3 minutes ought to be long enough.
 * **Publish** the final version of your project online at [itch.io](https://itch.io/). Your project *must* be presented from itch.io (not *downloaded*!), so make sure to leave time to get this working! **Pay attention** to the complete itch.io settings — for example, I recommend you make your project **full-screen**, **public**, etc. Here is a screenshot of the [settings I used in my itch.io tests](img/itch-io-demo.png)
 * **Ensure** your project has an **intriguing title**, a well-edited **short description** with **instructions** (*what* is it? *how* do you play it?), and an **attractive thumbnail image** on Itch.io.
 * **Create** a Discord post in the channel, `#4-5-experience`. We will use threads attached to your posts to provide written feedback for your projects during our critique.
 * In your Discord post, **link** to your game at Itch.io. **Ensure** the link works and that your game is publicly visible! (**Test** your link from a different computer or from a different browser that you're not logged into!)
 * **Write** a paragraph which describes your game in simple terms. For example: *What is the story? How is it played?*
-* Please **include** some images of your work. For example, you could **embed** an animated GIF of your game, or **embed** some screenshots.
-* **Provide** a link to your playthrough video in your Discord post. If you store the video in your Google drive, **ensure** the link is publicly accessible.
+* In your post, please **include** some images of your work. For example, you could **embed** an animated GIF of your game, or **embed** some screenshots.
+* **Provide** a link to your playthrough-video in your Discord post. If you store the video in your Google drive, remember to **ensure** the link is publicly accessible.
 * **Write** a sentence or two evaluating your project, and discussing your experience making it.
 
 
