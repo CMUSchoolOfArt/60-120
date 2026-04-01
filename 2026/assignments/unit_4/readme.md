@@ -201,15 +201,12 @@ Now:
 
 *For April 1st (Section A) or April 2nd (Section B), you are expected to revise, publish, and document your interactive Bitsy experience. Estimated time: 10 hours.)*
 
-**Details TBA.**
-
-<!-- 
 
 ![bits.png](img/bits.png)
 
 * **Refine** and **revise** your project, incorporating your peers’ feedback.
 * **Do not under any circumstances use the default Bitsy music**. Turn it off. The default music tells players that you don’t know what you're doing and that they should not play your thing.
-* **Record** a brief video in which you narrate a play-through of your game. **Upload** this video to your Google drive or (even better) to an unlisted YouTube location.
+* **Record** a brief video in which you narrate a play-through of your game. **Upload** this video to your Google drive or (preferably) to an unlisted YouTube location.
 * **Publish** the final version of your project online at [itch.io](https://itch.io/). Your project *must* be presented from itch.io (not *downloaded*!), so make sure to leave time to get this working! **Pay attention** to the complete itch.io settings — for example, I recommend you make your project **full-screen**, **public**, etc. Here is a screenshot of the [settings I used in my itch.io tests](img/itch-io-demo.png)
 * **Ensure** your project has an **intriguing title**, a well-edited **short description** with **instructions** (*what* is it? *how* do you play it?), and an **attractive thumbnail image** on Itch.io.
 * **Create** a Discord post in the channel, `#4-5-experience`. We will use threads attached to your posts to provide written feedback for your projects during our critique.
@@ -217,9 +214,8 @@ Now:
 * **Write** a paragraph which describes your experience in simple terms. *What is the story? How is it played?*
 * You must **include** some images of your work. For example, you could **embed** an animated GIF of your game, and/or **embed** some screenshots, images of your sketches, or some scans of your storyboard notes.
 * **Provide** a link to your playthrough video in your Discord post. If you store the video in your Google drive, **ensure** the link is publicly accessible.
-* **Write** a paragraph evaluating your project, and discussing your experience making it.
+* **Write** a sentence or two evaluating your project, and discussing your experience making it.
 
--->
 
 ---
 
