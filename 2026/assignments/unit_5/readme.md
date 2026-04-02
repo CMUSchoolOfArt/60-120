@@ -59,7 +59,7 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 ### Due: 04/06 (Section A) & 04/07 (Section B)
 * Spend 30 minutes online looking for content made in Touchdesigner that features some interaction that interests you. Search under takgs like #touchdesigner /#doitintops. Recommended sites to do this viewing are Instagram, Twitter, Youtube, and Vimeo. [**The official TouchDesigner showcase on Vimeo**](https://vimeo.com/groups/touchdesigner/) is particularly good.
 * Select (3) projects and write one sentence for each about why these forms of interaction or visualization interest you.
-* Screenshot and submit the link to the piece. In the Discord channel `#5-1-looking-outwards`
+* Screenshot and submit the link to each piece. In the Discord channel `#5-1-looking-outwards`
 * Note: please do not just skim the first page of results!
 
 ---
