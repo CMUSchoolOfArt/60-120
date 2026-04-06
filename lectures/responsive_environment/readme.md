@@ -56,7 +56,7 @@
 > 
 > [*https://whitney.org/collection/works/25530*](https://whitney.org/collection/works/25530)
 
-![Hans-Haacke-News-1969.png](Hans-Haacke-News-1969.png)
+![Hans-Haacke-News-1969.png](img/Hans-Haacke-News-1969.png)
 **Hans Haacke**, [*News*](https://www.youtube.com/watch?v=aVp-ZXPu3gk) (1969)
 > *Hans Haacke’s (b. 1936) News was first realized in 1969, for the Prospect 69 exhibition in the Kunsthalle, Düsseldorf. Haacke presented the concept of the work as follows: A telex machine installed in the Düsseldorf Kunsthalle prints all of the news communicated by the German press agency DPA. The printouts were put on display for further reading one day after being delivered, and on the third day, the rolls of paper were labeled and dated, then stored in plexiglass containers.*
 > 
@@ -93,7 +93,7 @@
 > *- Gloria Sutton, The Experience Machine: Stan VanDerBeek's Movie-Drome and Expanded Cinema, p62 (2015)*
 
 ![Shigeko-Kubota-1993.jpg](img/Shigeko-Kubota-1993.jpg)
-**Shigeko Kubota**, *Korean Grave* (1993)
+**Shigeko Kubota**, *Korean Grave* (1993); [*Women of Fluxus*](https://www.youtube.com/watch?v=DKVFX2D7JBk)
 
 ![Shigeko-Kubota.jpg](img/Shigeko-Kubota.jpg)
 *A collection of Kubota’s works at the Mother Gallery, Beacon NY.*
