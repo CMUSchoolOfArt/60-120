@@ -96,11 +96,13 @@
 **Shigeko Kubota**, *Korean Grave* (1993); [*Women of Fluxus*](https://www.youtube.com/watch?v=DKVFX2D7JBk)
 
 ![Shigeko-Kubota.jpg](img/Shigeko-Kubota.jpg)
-*A collection of Kubota’s works at the Mother Gallery, Beacon NY.*
+*A collection of Kubota’s works at the Mother Gallery, Beacon NY.* [*Shigeko Kubota Installations*](https://www.youtube.com/watch?v=1vE_QrvLSdY)
 > *“In her own practice Kubota purposefully eschewed the emerging vocabularies of projection and performance... Instead, Kubota doubled down on presenting video as sculpture. She explored the possibilities of melding the elemental forms, serial compositions, and industral fabrication techniques of postwar American sculptural abstraction... with the developing American feminist engagement with autobiographical video.”*
 > 
 >  *- Gloria Sutton, et al. "Shigeko Kubota: Liquid Reality". The Museum of Modern Art, 2021.*
 
+![Nam-June-Paik-1993-1.jpg](img/Nam-June-Paik-1993-1.jpg)
+**Nam June Paik**, [*Piano Piece*](https://www.youtube.com/watch?v=opug8uW21eU) (1993)
 
 ![Nam-June-Paik-1974–77.jpg](img/Nam-June-Paik-1974–77.jpg)
 **Nam June Paik**, *TV Garden* (1974–77)
@@ -133,8 +135,14 @@
 > 
 > [*https://camilleutterback.com/projects/untitled-5/*](https://camilleutterback.com/projects/untitled-5/)
 
+![Sarah-Oppenheimer.png](img/Sarah-Oppenheimer.png)
+**Sarah Oppenheimer**, [*Sensitive Machine: Wellin Museum of Art*](https://www.youtube.com/watch?v=8DvDyCrQnFY) (2021)
+> *Sarah Oppenheimer: Sensitive Machine invites visitors to collaboratively realign and reconfigure the Wellin’s Dietrich Exhibition Gallery. Visitors touch and turn hollow black beams, setting in motion a relay of spatial cause and effect. Walls split and slide, creating new sightlines, while lighting tracks rise and fall, shifting the radiance of the gallery. Conceptually, the work explores how our actions—both individually and communally—shape the spaces we inhabit. The work invites improvisation and mobilizes group dynamics, bringing awareness to the collaborative experience of inhabited architecture.*
+> 
+> *- Wellin Museum of Art*
+
 ![Cory-Arcangel-21-Century.png](img/Cory-Arcangel-21-Century.png)
-**Cory Arcangel**, *elleusa, equinor, equinox, etrade_financial*, (left, 2020); */roʊˈdeɪoʊ/ Let’s Play: HOLLYWOOD*, (right, 2017-21)
+[**Cory Arcangel**](https://www.youtube.com/watch?v=0EieZIeOy4c), *elleusa, equinor, equinox, etrade_financial*, (left, 2020); */roʊˈdeɪoʊ/ Let’s Play: HOLLYWOOD*, (right, 2017-21)
 
 > *"...a live feed of a custom computer navigating the videogame Kim Kardashian: Hollywood, using machine learning—intended to streamline performance—toward more ambivalent ends. A player’s goal in the game is to increase their fame and reputation to become an A-list celebrity, and Arcangel’s operating system fumbles its way through this ersatz version of suburban Los Angeles. The work’s layered visuals comprise the flattened graphics of the role-playing game itself, an array of colored boxes the algorithm uses to identify what it encounters, and scrolling lines of code that correspond to the program’s automated progress, with in-game sounds composed by the musician Daniel Lopatin (Oneohtrix Point Never). /roʊˈdeɪoʊ/ Let’s Play: HOLLYWOOD recalls the modified game cartridges that marked Arcangel’s early career, but the use of artificial intelligence expands the scope of those prior interventions—here the game has been repurposed in ways that even the artist does not control, and the outcome of play cannot be known in advance. The work’s hypnotic effect turns ominous if one contemplates the endless reserves of data that clutter the screen, and the urge to optimize the pursuit of fame for its own sake."*
 > 
