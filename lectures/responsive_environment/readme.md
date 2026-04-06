@@ -25,7 +25,7 @@
 > *[https://www.sfmoma.org/artwork/98.298/](https://www.sfmoma.org/artwork/98.298/)*
 
 ![George-Maciunas-1966.jpg](img/George-Maciunas-1966.jpg)
-**George Maciunas**, *Expanded Arts Diagram* (1966)
+[**George Maciunas**](https://www.youtube.com/watch?v=9nmoolpEhGk), *Expanded Arts Diagram* (1966); [*"George: The Story of George Maciunas & Fluxus"*]() (2019)
 > *"Maciunas’s methodical mapping of the history of Fluxus, consist of labyrinthine historical flowcharts that substitute a timeline’s conventional horizontal axis with a splintered and networked vertical arrangement of names, artworks, performances, concepts, and places.*
 > 
 > *These documents visualize a decisive rupture in the art-historical record and usher in a new way of understanding one’s work in relation to that of others and in the context of history."*
@@ -45,16 +45,24 @@
 > [*- Robert Rauschenberg Foundation*](https://www.rauschenbergfoundation.org/artist/art-and-technology-1959-98)
 
 ![Simone-Forti-1960-1961.png](img/Simone-Forti-1960-1961.png)
-**Simone Forti**, *Slant Board* (left, 1961); *See Saw* (right, 1960)
+**Simone Forti**, [*Dance Constructions:*](https://www.youtube.com/watch?v=wBaRsjHwn0E) *Slant Board* (left, 1961); *See Saw* (right, 1960)
 > *Simone Forti began making what she called “Dance Constructions” in 1960 by combining ordinary movement, like walking, sliding, and climbing, with everyday objects like ropes and plywood boards. In the original version of Seesaw, Yvonne Rainer and Robert Morris moved up and down a long plank, balancing their bodies in relation to one another.*
 > 
 > [*- Ana Janevski, MoMA Audio Archives*](https://www.moma.org/audio/playlist/53/780)
 
 ![Sol-Lewitt-1975.png](img/Sol-Lewitt-1975.png)
-**Sol LeWitt**, *Wall Drawing #260, On Black Walls, All Two-Part Combinations of White Arcs from Corners and Sides, and White Straight, Not-Straight, and Broken Lines* (1975)
+[**Sol LeWitt**](https://www.youtube.com/watch?v=qIHi8FOtW0Q), *Wall Drawing #260, On Black Walls, All Two-Part Combinations of White Arcs from Corners and Sides, and White Straight, Not-Straight, and Broken Lines* (1975); [*"Installing Sol Lewitt: A Wall Drawing Retrospective"*](https://www.youtube.com/watch?v=c4cgB4vJ2XY), *MASS MoCA* (2008)
 > *Sol LeWitt’s wall drawings are comprised of instructions that enable others to execute them when the work is to be exhibited. The only permanent, concrete form of [Lewitt's drawing] is a set of typewritten guidelines and a certificate of authenticity signed by the artist. The instructions often mark the end of the artist’s involvement in the realization of a work and separate the conception of the work from the craft of making it.*
 > 
 > [*https://whitney.org/collection/works/25530*](https://whitney.org/collection/works/25530)
+
+![Hans-Haacke-News-1969.png](Hans-Haacke-News-1969.png)
+**Hans Haacke**, [*News*](https://www.youtube.com/watch?v=aVp-ZXPu3gk) (1969)
+> *Hans Haacke’s (b. 1936) News was first realized in 1969, for the Prospect 69 exhibition in the Kunsthalle, Düsseldorf. Haacke presented the concept of the work as follows: A telex machine installed in the Düsseldorf Kunsthalle prints all of the news communicated by the German press agency DPA. The printouts were put on display for further reading one day after being delivered, and on the third day, the rolls of paper were labeled and dated, then stored in plexiglass containers.*
+> 
+> *The work was reconstructed in 2005 for an exhibition at the Paula Cooper Gallery in New York. In this manifestation, the telex machine was replaced with a dot matrix printer that was fed from a software program that gathered news from Really Simple Syndication (RSS) feeds via the Internet. The San Francisco Museum of Modern Art acquired News in 2008 and displayed it in this form for the exhibit The Art of Participation: 1950 to Now. In 2017, the museum exhibited it again for the Nothing Stable Under Heaven exhibition.*
+> 
+> [*Mark Hellar and Daniel Finn, Electronic Media Review, Volume 6: 2019-20*](https://resources.culturalheritage.org/emg-review/volume-6-2019-2020/hellar/)
 
 ---
 ## Network Aesthetics
