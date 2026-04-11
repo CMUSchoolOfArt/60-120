@@ -101,10 +101,10 @@ Key strengths of TouchDesigner include its real-time media affordances—the sys
 
 * Review introductory tutorials related to:
 
-  * [Shapes & Color]()
-  * [Basic Compositing]()
-  * [Mattes & Masks]()
-  * [Building Patterns]()
+  * [Shapes & Color](https://learn.derivative.ca/courses/100-fundamentals/lessons/102-tops-working-with-images/topic/shapes-colors/)
+  * [Basic Compositing](https://learn.derivative.ca/courses/100-fundamentals/lessons/102-tops-working-with-images/topic/basic-compositing/)
+  * [Mattes & Masks](https://learn.derivative.ca/courses/100-fundamentals/lessons/102-tops-working-with-images/topic/mattes-masks/)
+  * [Building Patterns](https://learn.derivative.ca/courses/100-fundamentals/lessons/102-tops-working-with-images/topic/building-patterns/)
 
 * Explore these foundational concepts in relation to  [**Instancing**](https://learn.derivative.ca/courses/200-intermediate/lessons/201-converting-data-types-and-instancing/), [**Feedback**](https://learn.derivative.ca/courses/200-intermediate/lessons/202-tops-intermediate/), and [**Signal Manipulation**](https://learn.derivative.ca/courses/200-intermediate/lessons/203-chops-intermediate/) techniques.
 
