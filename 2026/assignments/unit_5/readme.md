@@ -139,6 +139,15 @@ You can download the MediaPipe plugin from our class [**Google Drive Share**](ht
   * [MediaPipe Hand Tracking (part 2)](https://www.youtube.com/watch?v=XRw1AUa57Zw&list=PLgfxkm9xFocaQXGTxu7HlFomE05kPbO8z&index=2&pp=iAQB)
   * [MediaPipe Object Tracking](https://youtu.be/pwqZk3oTjEQ?si=PV2MjJ20Q-YAuZKb)
 * **Test** the various tracking methods one at a time and **Post** screenshots of your **Face**, **Hand**, and **Pose** tracking results in the Discord channel `5-4-mediapipe-tutorials`
+* *NEW* — In addition to the above, **copy** the "Clown Nose" patch below and, in the `5-4-mediapipe-tutorials` channel, include a screenshot of you with your clown nose as well. Here are some details about this:
+  * I'm extracting the nose data using the `face_detector.tox` that comes with MediaPipe. 
+  * The `trail` CHOPs are only there to help debug the nose signals. They're useful!
+  * I extract the `p1:nose_tip:x` data using a `select` CHOP (and the same for `y`). 
+  * The nose data is used to control the translation of a red `circle` TOP. 
+  * I've used a `transform` to flip the camera before passing it to the `composite` TOP.
+
+![clown-nose-patch.png](img/clown-nose-patch.png)
+
 
 ---
 # 5.5. Responsive Environment Draft
