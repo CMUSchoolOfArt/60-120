@@ -23,22 +23,22 @@
 * `R Feb 26` - Curation Lecture
 * `T Mar 03` - *Spring Break (no session)*
 * `R Mar 05` - *Spring Break (no session)*
-* `T Mar 10`
+* `T Mar 10` - [Notes](20260310.md); Work Session
 * `R Mar 12` - **Due: Unit 3 Main Project** (Internet Curation)
 * `--------`
-* `T Mar 17`
-* `R Mar 19`
-* `T Mar 24`
-* `R Mar 26`
-* `T Mar 31`
+* `T Mar 17` - [Notes](20260317.md); **Due**: [4.1. Looking Outwards: Bitsy Games](../assignments/unit_4/readme.md#41-looking-outwards-bitsy-games)
+* `R Mar 19` - [Notes](20260319.md); **Due**: [4.2. Bitsy Tutorial](../assignments/unit_4/readme.md#42-bitsy-tutorial)
+* `T Mar 24` - [Notes](20260324.md); **Due**: [4.3. Research Phase](../assignments/unit_4/readme.md#43-research-phase)
+* `R Mar 26` - [Notes](20260326.md); **Due**: [4.4. Draft of Narrative/Game](../assignments/unit_4/readme.md#44-draft-of-narrativegame)
+* `T Mar 31` - Audio [demonstration](https://github.com/CMUSchoolOfArt/60-120/tree/main/lectures/interactive_narrative/bitsy_hacks/bitsy_audio). Work Session.
 * `R Apr 02` - **Due: Unit 4 Main Project** (Nonlinear Narrative)
 * `--------`
-* `T Apr 07`
+* `T Apr 07` - **Due**: [5.1. Looking Outwards](../assignments/unit_5/readme.md#51-looking-outwards-responsive-environments)
 * `R Apr 09` - *Carnival (no session)*
-* `T Apr 14`
-* `R Apr 16`
-* `T Apr 21`
-* `R Apr 23` in class due
+* `T Apr 14` - [Notes](20260414.md); **Due**: [5.3. Generative Patterns](../assignments/unit_5/readme.md#53-generative-patterns); TD Workshop in class
+* `R Apr 16` - **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
+* `T Apr 21` - **Due**: [5.5. Responsive Environment Draft](../assignments/unit_5/readme.md#55-responsive-environment-draft); *Work session.*
+* `R Apr 23` - *Work session.*
 * `T Apr 28` - **Due: Unit 5 Main Project** (Responsive System)
 * `W Apr 29` - 5pm: **Exhibition Opening**, CFA 3rd fl. South Foyer
 
