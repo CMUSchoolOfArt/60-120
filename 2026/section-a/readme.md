@@ -37,7 +37,7 @@
 * `M Apr 06` - **Due**: [5.1. Looking Outwards](../assignments/unit_5/readme.md#51-looking-outwards-responsive-environments)
 * `W Apr 08` - [Notes](20260408.md); **Due**: [5.2. TouchDesigner Tutorials](../assignments/unit_5/readme.md#52-touchdesigner-tutorials)
 * `M Apr 13` - [Notes](20260413.md); **Due**: [5.3. Generative Patterns](../assignments/unit_5/readme.md#53-generative-patterns)
-* `W Apr 15` - **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
+* `W Apr 15` - [Notes](20260415.md); **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
 * `M Apr 20` - **Due**: [5.5. Responsive Environment Draft](../assignments/unit_5/readme.md#55-responsive-environment-draft)
 * `W Apr 22` - *Work session.*
 * `M Apr 27` - *Work session.*

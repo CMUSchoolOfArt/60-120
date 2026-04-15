@@ -1,19 +1,19 @@
 # Realtime Tracking in Interactive Art
 
-*This is a very brief introduction to how face-tracking, hand-tracking, and body-tracking have been used in interactive art.* 
-
-For more information or additional projects related to the materials shown here, see: 
-
-* [**Expanded Body**](https://github.com/golanlevin/lectures/tree/master/lecture_expanded_body)
-* [**Shadow Play**](https://github.com/golanlevin/lectures/tree/master/lecture_shadow)
-* [**Faces in New Media Art**](https://github.com/golanlevin/lectures/tree/master/lecture_face)
+*This is a very brief introduction to some of the ways in which face-tracking, hand-tracking, and body-tracking have been used in interactive art.* 
 
 **Contents:**
 
-1. Early Histories of Motion Capture 
-2. Body-Tracking in Interactive Art
-3. Face-Tracking in Interactive Art
-4. Hand-Tracking in Interactive Art
+1. [Early Histories of Motion Capture](#1-early-histories-of-motion-capture)
+2. [Body-Tracking in Interactive Art](#2-body-tracking-in-interactive-art)
+3. [Face-Tracking in Interactive Art](#3-face-tracking-in-interactive-art)
+4. [Hand-Tracking in Interactive Art](#4-hand-tracking-in-interactive-art)
+
+For additional projects related to the materials shown here, see: 
+
+* [*Expanded Body*](https://github.com/golanlevin/lectures/tree/master/lecture_expanded_body)
+* [*Shadow Play*](https://github.com/golanlevin/lectures/tree/master/lecture_shadow)
+* [*Faces in New Media Art*](https://github.com/golanlevin/lectures/tree/master/lecture_face)
 
 ---
 
