@@ -76,6 +76,9 @@ Myron Krueger's landmark [*Videoplace*](https://www.youtube.com/watch?v=A6ZYsX_d
   </tr>
 </table>
 
+
+Rafael Lozano Hemmer's [*Surface Tension*](https://www.youtube.com/watch?v=JXLoLPkzdto&t=12s) (1992) uses the participant's body position as an index into a video frame.<br/>![lozano_hemmer_surface_tension.gif](images/lozano_hemmer_surface_tension.gif)
+
 Scott Snibbe's conceptually-oriented [*Boundary Functions*](https://www.youtube.com/watch?v=5wA3lKcDrlM) installation (1998) divides the floor into participants' "territories" using the Voronoi partitioning algorithm. It's a good example of overhead body tracking.<br>![scott_snibbe_boundary_functions.gif](images/scott_snibbe_boundary_functions.gif)
 
 Camille Utterback's [*Text Rain*](https://www.youtube.com/watch?v=f_u3sSffS78&t=18s) (1998) presents characters in a poem that settle on the silhouettes of participants.<br>![camille_utterback_romy_achituv_text_rain.gif](images/camille_utterback_romy_achituv_text_rain.gif)
