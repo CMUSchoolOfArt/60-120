@@ -36,7 +36,7 @@
 * `T Apr 07` - **Due**: [5.1. Looking Outwards](../assignments/unit_5/readme.md#51-looking-outwards-responsive-environments)
 * `R Apr 09` - *Carnival (no session)*
 * `T Apr 14` - [Notes](20260414.md); **Due**: [5.3. Generative Patterns](../assignments/unit_5/readme.md#53-generative-patterns); TD Workshop in class
-* `R Apr 16` - **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
+* `R Apr 16` - [Notes](20260416.md); **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
 * `T Apr 21` - **Due**: [5.5. Responsive Environment Draft](../assignments/unit_5/readme.md#55-responsive-environment-draft); *Work session.*
 * `R Apr 23` - *Work session.*
 * `T Apr 28` - **Due: Unit 5 Main Project** (Responsive System)
