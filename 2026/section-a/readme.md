@@ -39,7 +39,7 @@
 * `M Apr 13` - [Notes](20260413.md); **Due**: [5.3. Generative Patterns](../assignments/unit_5/readme.md#53-generative-patterns)
 * `W Apr 15` - [Notes](20260415.md); **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
 * `M Apr 20` - [Notes](20260420.md); **Due**: [5.5. Responsive Environment Draft](../assignments/unit_5/readme.md#55-responsive-environment-draft)
-* `W Apr 22` - *Work session.*
+* `W Apr 22` - [Notes](20260422.md); *Work session.*
 * `M Apr 27` - *Work session.*
 * `T Apr 28` - **Due**: [5.6. Responsive Environment](../assignments/unit_5/readme.md#56-responsive-environment), by noon
 * `W Apr 29` - 5pm: [**Responsive Environment Presentations**](../assignments/unit_5/readme.md#responsive-environment-presentation), CFA 3rd fl. South Foyer  
