@@ -38,7 +38,7 @@
 * `T Apr 14` - [Notes](20260414.md); **Due**: [5.3. Generative Patterns](../assignments/unit_5/readme.md#53-generative-patterns); TD Workshop in class
 * `R Apr 16` - [Notes](20260416.md); **Due**: [5.4. MediaPipe Tutorials](../assignments/unit_5/readme.md#54-mediapipe-tutorials)
 * `T Apr 21` - [Notes](20260421.md); **Due**: [5.5. Responsive Environment Draft](../assignments/unit_5/readme.md#55-responsive-environment-draft); *Work session.*
-* `R Apr 23` - *Work session.*
+* `R Apr 23` - [Notes](20260423.md); *Work session.*
 * `T Apr 28` - **Due: Unit 5 Main Project** (Responsive System)
 * `W Apr 29` - 5pm: **Exhibition Opening**, CFA 3rd fl. South Foyer
 
