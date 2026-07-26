@@ -1,11 +1,11 @@
-## Some generative artworks at fxhash.com
+## Some Generative Artworks
 
 
 
 ---
 
 
-[*Take Wing*](https://www.fxhash.xyz/generative/slug/take-wing) by [Melissa Wiederrecht](https://melissawiederrecht.com/)
+*Take Wing* by [Melissa Wiederrecht](https://melissawiederrecht.com/): [Verse](https://verse.works/series/take-wing-by-melissa-wiederrecht-2) • [fxhash](https://www.fxhash.xyz/generative/slug/take-wing) • [Raster.art](https://www.raster.art/artwork/take-wing-by-melissa-wiederrecht)
 
 <table>
 <tbody>
@@ -23,7 +23,7 @@
 
 ---
 
-[*Zbageti*](https://www.fxhash.xyz/generative/17737) by [Melissa Wiederrecht](https://melissawiederrecht.com/)
+*Zbageti* by [Melissa Wiederrecht](https://melissawiederrecht.com/): [Verse](https://verse.works/series/zbageti-by-melissa-wiederrecht-2) • [fxhash](https://www.fxhash.xyz/generative/17737) • [Raster.art](https://www.raster.art/artwork/zbageti-by-melissa-wiederrecht)
 
 <table>
 <tbody>
@@ -41,7 +41,7 @@
 
 ---
 
-[*Garden, Monoliths*](https://www.fxhash.xyz/generative/2969) by Michaël Zancan
+*Garden, Monoliths* by Michaël Zancan: [Verse](https://verse.works/series/garden-monoliths-by-zancan) • [fxhash](https://www.fxhash.xyz/generative/2969) • [Raster.art](https://www.raster.art/artwork/garden-monoliths-by-zancan)
 
 <table>
 <tbody>
@@ -58,7 +58,7 @@
 
 ---
 
-[*horizon(te)s*](https://www.fxhash.xyz/marketplace/generative/16217) by Iskra Velitchkova & Zach Lieberman
+*horizon(te)s* by Iskra Velitchkova & Zach Lieberman: [fxhash](https://www.fxhash.xyz/marketplace/generative/16217) • [Raster.art](https://www.raster.art/artwork/horizontes-by-iskra-velitchkova-and-zach-lieberman)
 
 <table>
 <tbody>
@@ -75,7 +75,7 @@
 
 ---
 
-[*Coronado*](https://www.fxhash.xyz/generative/slug/coronado) by jeres
+*Coronado* by jeres: [fxhash](https://www.fxhash.xyz/generative/slug/coronado) • [Verse](https://verse.works/series/coronado-by-jeres) • [Raster.art](https://www.raster.art/artwork/coronado-by-jeres)
 
 <table>
 <tbody>
@@ -93,7 +93,7 @@
 
 ---
 
-[*Growth v02*](https://www.fxhash.xyz/generative/slug/growth-v02) by [flight404 / Robert Hodgin](https://roberthodgin.com/)
+*Growth v02* by [flight404 / Robert Hodgin](https://roberthodgin.com/): [fxhash](https://www.fxhash.xyz/generative/slug/growth-v02) • [Raster.art](https://www.raster.art/artwork/growth-v02-by-robert-hodgin)
 
 <table>
 <tbody>
@@ -111,7 +111,7 @@
 
 ---
 
-[*Turner Light*](https://www.fxhash.xyz/generative/slug/turner-light) by Aluan Wang (ileivoivm)
+*Turner Light* by [Aluan Wang](https://verse.works/aluan-wang) (ileivoivm): [fxhash](https://www.fxhash.xyz/generative/slug/turner-light) • [Raster.art](https://www.raster.art/artwork/turner-light-by-aluan-wang)
 
 <table>
 <tbody>
@@ -130,7 +130,7 @@
 
 ---
 
-[*September*](https://www.fxhash.xyz/marketplace/generative/20000) by [Tea Boswell](https://www.fxhash.xyz/u/teaboswell)
+*September* by [Tea Boswell](https://www.fxhash.xyz/u/teaboswell): [fxhash](https://www.fxhash.xyz/marketplace/generative/20000) • [Raster.art](https://www.raster.art/artwork/september-by-tyler-boswell)
 
 <table>
 <tbody>
@@ -149,7 +149,7 @@
 
 ---
 
-[*Forecast*](https://www.fxhash.xyz/generative/25151) by [Amy Goodchild](https://www.amygoodchild.com/about)
+*Forecast* by [Amy Goodchild](https://www.amygoodchild.com/about): [fxhash](https://www.fxhash.xyz/generative/25151) • [Verse](https://verse.works/series/forecast-by-amy-goodchild) • [Raster.art](https://www.raster.art/artwork/forecast-by-amy-goodchild)
 
 <table>
 <tbody>
@@ -166,7 +166,7 @@
 
 ---
 
-[*Smooth Steps*](https://www.fxhash.xyz/generative/25393) by Andreas Gysin (ertdfgcvb)
+*Smooth Steps* by Andreas Gysin (ertdfgcvb): [fxhash](https://www.fxhash.xyz/generative/25393) • [Verse](https://verse.works/series/smooth-steps-by-ertdfgcvb) • [Raster.art](https://www.raster.art/artwork/smooth-steps-by-andreas-gysin)
 
 <table>
 <tbody>
@@ -184,7 +184,7 @@
 
 ---
 
-[*Blokkendoos*](https://www.fxhash.xyz/generative/slug/blokkendoos) by Piter Pasma
+*Blokkendoos* by Piter Pasma: [fxhash](https://www.fxhash.xyz/generative/slug/blokkendoos) • [Verse](https://verse.works/series/blokkendoos-by-piter-pasma) • [Raster.art](https://www.raster.art/artwork/blokkendoos-by-piter-pasma)
 
 <table>
 <tbody>
@@ -202,7 +202,7 @@
 
 ---
 
-[*Gerhard*](https://www.fxhash.xyz/generative/slug/gerhard) by Richard Nadler & Leander Herzog
+*Gerhard* by Richard Nadler & Leander Herzog: [fxhash](https://www.fxhash.xyz/generative/slug/gerhard) • [Raster.art](https://www.raster.art/artwork/gerhard-by-leander-herzog-and-richard-nadler)
 
 <table>
 <tbody>
@@ -219,7 +219,7 @@
 
 ---
 
-[*Miniscapes*](https://www.fxhash.xyz/generative/slug/miniscapes-1) by Rich Poole & ThePaperCrane
+*Miniscapes* by Rich Poole & ThePaperCrane: [fxhash](https://www.fxhash.xyz/generative/slug/miniscapes-1) • [Raster.art](https://www.raster.art/artwork/miniscapes-by-rich-poole-and-the-paper-crane)
 
 <table>
 <tbody>
@@ -238,7 +238,7 @@
 
 ---
 
-[*Mediterranean*](https://www.fxhash.xyz/generative/slug/mediterranean) by kira0
+*Mediterranean* by kira0: [fxhash](https://www.fxhash.xyz/generative/slug/mediterranean) • [Verse](https://verse.works/series/mediterranean-by-kira0) • [Raster.art](https://www.raster.art/artwork/mediterranean-by-kira0)
 
 <table>
 <tbody>
@@ -255,7 +255,7 @@
 
 ---
 
-[*Rough Cuts*](https://www.fxhash.xyz/generative/16152) by [VolatileMoods](https://www.fxhash.xyz/u/Volatile%20Moods)
+*Rough Cuts* by [VolatileMoods](https://www.fxhash.xyz/u/Volatile%20Moods): [fxhash](https://www.fxhash.xyz/generative/16152) • [Raster.art](https://www.raster.art/artwork/rough-cuts-by-volatile-moods)
 
 <table>
 <tbody>
@@ -272,7 +272,7 @@
 
 ---
 
-[*Genomes*](https://www.fxhash.xyz/generative/slug/genomes) by ciphrd & znah
+*Genomes* by ciphrd & znah: [fxhash](https://www.fxhash.xyz/generative/slug/genomes) • [Verse](https://verse.works/series/genomes-by-ciphrd) • [Raster.art](https://www.raster.art/artwork/genomes-by-ciphrd)
 
 <table>
 <tbody>
@@ -291,7 +291,7 @@
 
 ---
 
-[*De/FragV2*](https://www.fxhash.xyz/generative/slug/defragv2) by Karsten Schmidt (Toxi)
+*De/FragV2* by Karsten Schmidt (Toxi): [fxhash](https://www.fxhash.xyz/generative/slug/defragv2) • [Raster.art](https://www.raster.art/artwork/defragv2-by-karsten-schmidt)
 
 <table>
 <tbody>
