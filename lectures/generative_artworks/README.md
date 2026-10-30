@@ -1,6 +1,13 @@
 ## Some Generative Artworks
 
+### Additional Lists
 
+* [The Anne & Michael Spalter Digital Art Collection](https://spalterdigital.com/)
+* [The Bre Pettis Collection of Computer Art](https://www.bre.art/)
+* [The Ragnar Digital Collection](https://www.ragnardigital.art/)
+* [Digital Art Museum (Germany)](https://dam.org/museum/)
+* [ArtBlocks Curated Collection](https://www.artblocks.io/discover/curated)
+* [LeRandom History of Generative Art](https://timeline.lerandom.art/history-of-generative-art)
 
 ---
 
